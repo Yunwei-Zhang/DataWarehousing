@@ -10,15 +10,16 @@ from datetime import datetime, timedelta
 
 # read data
 df_fcrash = pd.read_excel('bitre_fatal_crashes_dec2024.xlsx', sheet_name='BITRE_Fatal_Crash', skiprows=4)
-df_fcrash_date = pd.read_excel('bitre_fatal_crashes_dec2024.xlsx', sheet_name='BITRE_Fatal_Crash_Count_By_Date', skiprows=4)
+df_fcrash_date = pd.read_excel('bitre_fatal_crashes_dec2024.xlsx', sheet_name='BITRE_Fatal_Crash_Count_By_Date', skiprows=2)
 df_fatelities = pd.read_excel('bitre_fatalities_dec2024.xlsx', sheet_name='BITRE_Fatality', skiprows=4)
-df_fcrash_date = pd.read_excel('bitre_fatalities_dec2024.xlsx', sheet_name='BITRE_Fatality_Count_By_Date', skiprows=4)
+df_fatelities_date = pd.read_excel('bitre_fatalities_dec2024.xlsx', sheet_name='BITRE_Fatality_Count_By_Date', skiprows=2)
 df_lga = pd.read_csv('LGA (count of dwellings).csv', skiprows=11, header=None)
 df_lga.drop(df_lga.columns[2], axis=1, inplace=True)
 
 # copy data
 df_fcrash_cleaned = df_fcrash.copy()
 df_fatelities_cleaned = df_fatelities[["Crash ID", "Gender", "Age", "Age Group"]].copy()
+df_fcrash_fatelities_date_cleaned = df_fcrash_date.copy()
 
 # clean speed
 df_fcrash_cleaned['Speed Limit'] = df_fcrash_cleaned['Speed Limit'].replace(-9, pd.NA)
@@ -29,7 +30,6 @@ df_fcrash_cleaned['Speed Limit'] = df_fcrash_cleaned['Speed Limit'].apply(
     else 'Medium' if x <= 80
     else 'Fast'
 )
-
 # clean LGA
 map_LGA_number = dict(zip(df_lga[0], df_lga[1]))
 df_fcrash_cleaned['Count of dwellings'] = df_fcrash_cleaned['National LGA Name 2021'].map(map_LGA_number)
@@ -38,6 +38,26 @@ df_fcrash_cleaned['Festival or not'] = df_fcrash_cleaned.apply(
     lambda row: 'Yes' if row['Christmas Period'] == 'Yes' or row['Easter Period'] == 'Yes' else 'No',
     axis=1
 )
+
+# combine date together
+df_fcrash_fatelities_date_cleaned['Number Fatalities'] = df_fatelities_date['Number Fatalities']
+df_fcrash_fatelities_date_cleaned.rename(columns={'Day Of Week': 'Dayweek'}, inplace=True)
+weekday_map = {
+    'Monday': '1',
+    'Tuesday': '2',
+    'Wednesday': '3',
+    'Thursday': '4',
+    'Friday': '5',
+    'Saturday': '6',
+    'Sunday': '7'
+}
+df_fcrash_fatelities_date_cleaned['WeekdayNum'] = df_fcrash_fatelities_date_cleaned['Dayweek'].map(weekday_map)
+month_map = {
+    'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4,
+    'May': 5, 'Jun': 6, 'Jul': 7, 'Aug': 8,
+    'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+}
+df_fcrash_fatelities_date_cleaned['Month'] = df_fcrash_fatelities_date_cleaned['Month'].map(month_map)
 
 
 
@@ -61,6 +81,7 @@ weekday_map = {
 df_date['WeekdayNum'] = df_date['Dayweek'].map(weekday_map)
 df_date['DateID'] = 'Date' + df_date['Year'].astype(str) + df_date['Month'].astype(str).str.zfill(2) + df_date['WeekdayNum']
 cols = ['DateID'] + [col for col in df_date.columns if col != 'DateID']
+df_date = df_date.drop_duplicates()
 df_date = df_date[cols]
 # dim time
 df_time = df_fcrash_cleaned[["Time", "Time of Day"]].copy()
@@ -126,14 +147,29 @@ df_fcrash_cleaned.drop(columns=['Year', 'Month', 'Dayweek', 'Time', 'Day of week
 'Christmas Period', 'Easter Period', 'Festival or not', 'Gender', 'Age Group'], inplace=True)
 
 
-print(df_time.head(10))
-print(df_fcrash_cleaned.head(10))
+df_fcrash_fatelities_date_cleaned = df_fcrash_fatelities_date_cleaned.merge(
+    df_date,
+    on=['Year', 'Month', 'Dayweek', 'WeekdayNum'],
+    how='left'
+)
+df_fcrash_fatelities_date_cleaned.drop(columns=['Year', 'Month', 'Dayweek', 'WeekdayNum', 'Day of week'], inplace=True)
+
+
+#print(df_date.head(10))
+#print(df_fcrash_fatelities_date_cleaned.head(10))
 
 
 ### 
 # Last step
 # output
-# df_fcrash_cleaned, df_date, df_time, df_location, df_vehicle, df_event, df_people
+# df_fcrash_cleaned, df_date, df_time, df_location, df_vehicle, df_event, df_people, df_fcrash_fatelities_date_cleaned
 ###
 
-# df_fcrash_cleaned.to_csv('cleaned_bitre_fatal_crashes.csv', index=False)
+df_fcrash_cleaned.to_csv('dimCrashes.csv', index=False)
+df_date.to_csv('dimDate.csv', index=False)
+df_time.to_csv('dimTime.csv', index=False)
+df_location.to_csv('dimLocation.csv', index=False)
+df_vehicle.to_csv('dimVehicle.csv', index=False)
+df_event.to_csv('dimEvent.csv', index=False)
+df_people.to_csv('dimPeople.csv', index=False)
+df_fcrash_fatelities_date_cleaned.to_csv('dimDateCount.csv', index=False)
