@@ -1,4 +1,4 @@
-Time,Time of Day,TimeID
+Time,TimeofDay,TimeID
 04:00:00,Night,Time1
 06:15:00,Day,Time2
 09:43:00,Day,Time3

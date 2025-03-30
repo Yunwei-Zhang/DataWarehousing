@@ -1,4 +1,4 @@
-DateID,Year,Month,Dayweek,Day of week,WeekdayNum
+DateID,Year,Month,Dayweek,DayofWeek,WeekdayNum
 Date2024125,2024,12,Friday,Weekday,5
 Date2024125,2024,12,Friday,Weekend,5
 Date2024121,2024,12,Monday,Weekend,1
