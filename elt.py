@@ -227,11 +227,14 @@ df_crash.rename(columns={'Number Fatalities': 'NumberFatalities'}, inplace=True)
 df_LGA.rename(columns={'National LGA Name 2021': 'LGAName'}, inplace=True)
 df_LGA.rename(columns={'Count of dwellings': 'Countofdwellings'}, inplace=True)
 df_LGA.rename(columns={'LGA code': 'LGACode'}, inplace=True)
-df_LGA.rename(columns={'no..21': '2022'}, inplace=True)
-df_LGA.rename(columns={'no..22': '2023'}, inplace=True)
+df_LGA.rename(columns={'no..21': 'Population2022'}, inplace=True)
+df_LGA.rename(columns={'no..22': 'Population2023'}, inplace=True)
+
+cols = ['TimeID'] + [col for col in df_time.columns if col != 'TimeID']
+df_time = df_time[cols]
 
 
-print(df_LGA.head(10))
+print(df_time.head(10))
 print(df_fatelities_cleaned.head(10))
 
 
