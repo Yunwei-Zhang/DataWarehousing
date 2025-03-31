@@ -96,6 +96,7 @@ df_date['DateID'] = 'Date' + df_date['Year'].astype(str) + df_date['Month'].asty
 cols = ['DateID'] + [col for col in df_date.columns if col != 'DateID']
 df_date = df_date.drop_duplicates()
 df_date = df_date[cols]
+df_date = df_date.drop_duplicates(subset='DateID', keep='first')
 # dim time
 df_time = df_fcrash_cleaned[["Time", "Time of Day"]].copy()
 df_time = df_time.drop_duplicates()
@@ -234,7 +235,8 @@ cols = ['TimeID'] + [col for col in df_time.columns if col != 'TimeID']
 df_time = df_time[cols]
 
 
-print(df_time.head(10))
+
+print(df_date.head(10))
 print(df_fatelities_cleaned.head(10))
 
 
