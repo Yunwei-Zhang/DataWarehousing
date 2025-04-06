@@ -3,7 +3,7 @@ import calendar
 from datetime import datetime, timedelta
 
 ###
-# First step
+# 1. First step
 # read data
 # small changes
 ###
@@ -26,7 +26,8 @@ df_fatelities_cleaned = df_fatelities.copy()
 df_fcrash_fatelities_date_cleaned = df_fcrash_date.copy()
 df_population_cleaned = df_population[['LGA code', 'Local Government Area', 'no..21', 'no..22']].copy()
 
-# clean speed
+
+# clean speed - change int to string(low, medium, fast)
 df_fcrash_cleaned['Speed Limit'] = df_fcrash_cleaned['Speed Limit'].replace(-9, pd.NA)
 df_fcrash_cleaned['Speed Limit'] = pd.to_numeric(df_fcrash_cleaned['Speed Limit'], errors='coerce')
 df_fcrash_cleaned['Speed Limit'] = df_fcrash_cleaned['Speed Limit'].apply(
@@ -38,13 +39,12 @@ df_fcrash_cleaned['Speed Limit'] = df_fcrash_cleaned['Speed Limit'].apply(
 # clean LGA
 map_LGA_number = dict(zip(df_lga[0], df_lga[1]))
 df_fcrash_cleaned['Count of dwellings'] = df_fcrash_cleaned['National LGA Name 2021'].map(map_LGA_number)
-# clean festivals
+# clean festivals - add new column that know whether today has event
 df_fcrash_cleaned['Festival or not'] = df_fcrash_cleaned.apply(
     lambda row: 'Yes' if row['Christmas Period'] == 'Yes' or row['Easter Period'] == 'Yes' else 'No',
     axis=1
 )
-
-# combine date together
+# clean day of week (change string to int)
 df_fcrash_fatelities_date_cleaned['Number Fatalities'] = df_fatelities_date['Number Fatalities']
 df_fcrash_fatelities_date_cleaned.rename(columns={'Day Of Week': 'Dayweek'}, inplace=True)
 weekday_map = {
@@ -63,12 +63,11 @@ month_map = {
     'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
 }
 df_fcrash_fatelities_date_cleaned['Month'] = df_fcrash_fatelities_date_cleaned['Month'].map(month_map)
-
 # clean rows with missing data
 df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Bus Involvement'] != -9]
-# df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Heavy Rigid Truck Involvement'] != -9]
 df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Articulated Truck Involvement'] != -9]
 df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Speed Limit'] != -9]
+# df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Heavy Rigid Truck Involvement'] != -9]
 # df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['National Remoteness Areas'] != 'Unknown']
 
 
@@ -76,7 +75,7 @@ df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Speed Limit
 
 
 ### 
-# Second step
+# 2. Second step
 # Creating dim datasets
 ###
 
@@ -149,10 +148,11 @@ df_LGA = df_LGA[cols]
 
 
 ###
-# Third step
-#  rename, drop and change order
+# 3. Third step
+# rename, drop and change order
 ###
 
+# create fact table that remove all data into dim tables
 df_fatelities_cleaned.rename(columns={'Crash ID': 'CrashID'}, inplace=True)
 df_fatelities_cleaned = df_fatelities_cleaned.merge(df_crash, 
     on=['CrashID', 'Crash Type', 'Speed Limit'],
@@ -187,15 +187,17 @@ df_fatelities_cleaned = df_fatelities_cleaned.merge(df_LGA,
     on=['National LGA Name 2021'],
     how='left'
 )
+
+# remove columns expect IDs
 df_fatelities_cleaned.drop(columns=['Year', 'Month', 'Dayweek', 'Time', 'Day of week', 'Time of Day', 'State', 
 'National Remoteness Areas', 'SA4 Name 2021', 'Bus Involvement', 'Heavy Rigid Truck Involvement', 'Articulated Truck Involvement', 'National Road Type',
 'Christmas Period', 'Easter Period', 'Festival or not', 'WeekdayNum','Age', 'Age Group', 'Gender', 'Road User', 'Crash Type', 'Speed Limit', 'Number Fatalities',
 'LGA code', 'no..21', 'no..22', 'National LGA Name 2021', 'Count of dwellings'], inplace=True)
 
+# add FactID into first column
 df_fatelities_cleaned["FactID"] = ['Fact' + str(i) for i in range(1, len(df_fatelities_cleaned) + 1)]
 cols = ['FactID'] + [col for col in df_fatelities_cleaned.columns if col != 'FactID']
 df_fatelities_cleaned = df_fatelities_cleaned[cols]
-
 
 df_fcrash_fatelities_date_cleaned = df_fcrash_fatelities_date_cleaned.merge(
     df_date,
@@ -204,7 +206,8 @@ df_fcrash_fatelities_date_cleaned = df_fcrash_fatelities_date_cleaned.merge(
 )
 df_fcrash_fatelities_date_cleaned.drop(columns=['Year', 'Month', 'Dayweek', 'WeekdayNum', 'Day of week'], inplace=True)
 
-# rename
+
+# rename all columns and do final changes to suit SQL style
 df_date.rename(columns={'Day of week': 'DayofWeek'}, inplace=True)
 df_time.rename(columns={'Time of Day': 'TimeofDay'}, inplace=True)
 df_location.rename(columns={'National Remoteness Areas': 'Area'}, inplace=True)
@@ -232,17 +235,15 @@ cols = ['TimeID'] + [col for col in df_time.columns if col != 'TimeID']
 df_time = df_time[cols]
 
 
-
+# use for testing
 print(df_fatelities_cleaned)
 
 
 ### 
-# Last step
+# 4. Last step
 # output
-# df_fcrash_cleaned, df_date, df_time, df_location, df_vehicle, df_event, df_people, df_fcrash_fatelities_date_cleaned
+# df_date, df_time, df_location, df_vehicle, df_event, df_people, df_crash, df_LGA, df_fatelities_cleaned
 ###
-
-
 df_date.to_csv('dimDate.csv', index=False)
 df_time.to_csv('dimTime.csv', index=False)
 df_location.to_csv('dimLocation.csv', index=False)
