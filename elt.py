@@ -66,10 +66,10 @@ df_fcrash_fatelities_date_cleaned['Month'] = df_fcrash_fatelities_date_cleaned['
 
 # clean rows with missing data
 df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Bus Involvement'] != -9]
-df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Heavy Rigid Truck Involvement'] != -9]
+# df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Heavy Rigid Truck Involvement'] != -9]
 df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Articulated Truck Involvement'] != -9]
 df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Speed Limit'] != -9]
-df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['National Remoteness Areas'] != 'Unknown']
+# df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['National Remoteness Areas'] != 'Unknown']
 
 
 
@@ -115,9 +115,6 @@ df_vehicle = df_vehicle.drop_duplicates()
 df_vehicle["VehicleID"] = ['Veh' + str(i) for i in range(1, len(df_vehicle) + 1)]
 cols = ['VehicleID'] + [col for col in df_vehicle.columns if col != 'VehicleID']
 df_vehicle = df_vehicle[cols]
-df_vehicle = df_vehicle[df_vehicle['Bus Involvement'] != -9]
-df_vehicle = df_vehicle[df_vehicle['Heavy Rigid Truck Involvement'] != -9]
-df_vehicle = df_vehicle[df_vehicle['Articulated Truck Involvement'] != -9]
 # dim Event
 df_event = df_fcrash_cleaned[['Christmas Period', 'Easter Period', 'Festival or not']]
 df_event = df_event.drop_duplicates()
@@ -236,8 +233,7 @@ df_time = df_time[cols]
 
 
 
-print(df_date.head(10))
-print(df_fatelities_cleaned.head(10))
+print(df_fatelities_cleaned)
 
 
 ### 
