@@ -8,8 +8,13 @@ CREATE TABLE dimvehicle (
 
 CREATE TABLE dimtime (
     TimeID     VARCHAR PRIMARY KEY,
-    Time       TIME,
-    TimeOfDay  VARCHAR
+    Time       TIME
+);
+
+CREATE TABLE dimroad (
+    RoadID     VARCHAR PRIMARY KEY,
+    SpeedZone  VARCHAR,
+	RoadType   VARCHAR
 );
 
 CREATE TABLE dimpeople (
@@ -21,12 +26,10 @@ CREATE TABLE dimpeople (
 );
 
 CREATE TABLE dimlocation (
-    LocationID  VARCHAR PRIMARY KEY,
-    State       VARCHAR,
-    Area        VARCHAR,
-    SA4Name     VARCHAR,
-    LGAName     VARCHAR,
-    RoadType    VARCHAR
+    LocationID       VARCHAR PRIMARY KEY,
+    State            VARCHAR,
+    RemotenessArea   VARCHAR,
+    SA4Name          VARCHAR
 );
 
 CREATE TABLE dimlga (
@@ -34,8 +37,7 @@ CREATE TABLE dimlga (
     LGAName           VARCHAR,
     CountOfDwellings  INT,
     LGACode           VARCHAR,
-    Population2022    FLOAT,
-    Population2023    FLOAT
+    Population        FLOAT
 );
 
 CREATE TABLE dimevent (
@@ -57,7 +59,6 @@ CREATE TABLE dimdate (
 CREATE TABLE dimcrash (
     CrashID           VARCHAR PRIMARY KEY,
     CrashType         VARCHAR,
-    SpeedLimit        VARCHAR,
     NumberFatalities  INT
 );
 
@@ -71,6 +72,7 @@ CREATE TABLE factcrashfatalities (
     eventid        VARCHAR,
     peopleid       VARCHAR,
     lgaid          VARCHAR,
+	roadid         VARCHAR,
 
     FOREIGN KEY (crashid)    REFERENCES dimcrash(crashid),
     FOREIGN KEY (dateid)     REFERENCES dimdate(dateid),
@@ -79,12 +81,14 @@ CREATE TABLE factcrashfatalities (
     FOREIGN KEY (vehicleid)  REFERENCES dimvehicle(vehicleid),
     FOREIGN KEY (eventid)    REFERENCES dimevent(eventid),
     FOREIGN KEY (peopleid)   REFERENCES dimpeople(peopleid),
-    FOREIGN KEY (lgaid)      REFERENCES dimlga(lgaid)
+    FOREIGN KEY (lgaid)      REFERENCES dimlga(lgaid),
+	FOREIGN KEY (roadid)     REFERENCES dimroad(roadid)
 );
 
 -- change to your own URL
 COPY dimcrash FROM 'D:/Andy/Study/UWA/Warehousing/datawarehousing/dimCrash.csv' WITH (FORMAT csv, HEADER true);
 COPY dimdate FROM 'D:/Andy/Study/UWA/Warehousing/datawarehousing/dimDate.csv' WITH (FORMAT csv, HEADER true);
+COPY dimroad FROM 'D:/Andy/Study/UWA/Warehousing/datawarehousing/dimRoad.csv' WITH (FORMAT csv, HEADER true);
 COPY dimevent FROM 'D:/Andy/Study/UWA/Warehousing/datawarehousing/dimEvent.csv' WITH (FORMAT csv, HEADER true);
 COPY dimlga FROM 'D:/Andy/Study/UWA/Warehousing/datawarehousing/dimLGA.csv' WITH (FORMAT csv, HEADER true);
 COPY dimlocation FROM 'D:/Andy/Study/UWA/Warehousing/datawarehousing/dimLocation.csv' WITH (FORMAT csv, HEADER true);

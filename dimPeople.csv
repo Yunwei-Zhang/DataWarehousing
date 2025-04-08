@@ -3,1076 +3,1092 @@ Peop1,74,65_to_74,Male,Driver
 Peop2,19,17_to_25,Female,Driver
 Peop3,33,26_to_39,Female,Driver
 Peop4,32,26_to_39,Female,Driver
-Peop5,61,40_to_64,Female,Passenger
-Peop6,47,40_to_64,Male,Motorcycle rider
-Peop7,69,65_to_74,Male,Driver
-Peop8,29,26_to_39,Female,Passenger
-Peop9,19,17_to_25,Male,Motorcycle rider
-Peop10,55,40_to_64,Female,Driver
-Peop11,45,40_to_64,Female,Driver
-Peop12,50,40_to_64,Male,Pedestrian
-Peop13,45,40_to_64,Male,Driver
-Peop14,61,40_to_64,Male,Driver
-Peop15,74,65_to_74,Male,Pedestrian
-Peop16,25,17_to_25,Male,Driver
-Peop17,4,0_to_16,Male,Pedestrian
-Peop18,27,26_to_39,Male,Driver
-Peop19,66,65_to_74,Male,Driver
-Peop20,26,26_to_39,Female,Driver
-Peop21,65,65_to_74,Female,Pedestrian
-Peop22,33,26_to_39,Male,Pedestrian
-Peop23,41,40_to_64,Female,Driver
-Peop24,32,26_to_39,Male,Driver
-Peop25,21,17_to_25,Male,Passenger
-Peop26,38,26_to_39,Male,Driver
-Peop27,69,65_to_74,Male,Motorcycle rider
-Peop28,59,40_to_64,Female,Driver
-Peop29,68,65_to_74,Female,Passenger
-Peop30,51,40_to_64,Female,Driver
-Peop31,76,75_or_older,Male,Driver
-Peop32,35,26_to_39,Male,Motorcycle rider
-Peop33,55,40_to_64,Male,Motorcycle rider
-Peop34,63,40_to_64,Male,Motorcycle rider
-Peop35,64,40_to_64,Male,Motorcycle rider
-Peop36,66,65_to_74,Female,Passenger
-Peop37,61,40_to_64,Male,Pedal cyclist
-Peop38,30,26_to_39,Female,Driver
-Peop39,45,40_to_64,Male,Motorcycle rider
-Peop40,60,40_to_64,Male,Motorcycle rider
-Peop41,34,26_to_39,Male,Driver
-Peop42,27,26_to_39,Male,Motorcycle rider
-Peop43,26,26_to_39,Male,Driver
-Peop44,46,40_to_64,Male,Motorcycle rider
-Peop45,50,40_to_64,Female,Pedestrian
-Peop46,85,75_or_older,Female,Pedestrian
-Peop47,92,75_or_older,Female,Driver
-Peop48,89,75_or_older,Female,Pedestrian
-Peop49,74,65_to_74,Female,Driver
-Peop50,26,26_to_39,Male,Motorcycle rider
-Peop51,60,40_to_64,Female,Driver
-Peop52,59,40_to_64,Female,Passenger
-Peop53,77,75_or_older,Male,Motorcycle rider
-Peop54,90,75_or_older,Female,Driver
-Peop55,31,26_to_39,Male,Passenger
-Peop56,49,40_to_64,Male,Driver
-Peop57,21,17_to_25,Male,Driver
-Peop58,16,0_to_16,Male,Driver
-Peop59,22,17_to_25,Female,Passenger
-Peop60,24,17_to_25,Male,Motorcycle rider
-Peop61,21,17_to_25,Female,Driver
-Peop62,51,40_to_64,Male,Driver
-Peop63,23,17_to_25,Male,Passenger
-Peop64,74,65_to_74,-9,Motorcycle rider
-Peop65,80,75_or_older,Female,Passenger
-Peop66,-9,-9,Female,Pedestrian
-Peop67,67,65_to_74,Female,Pedestrian
-Peop68,64,40_to_64,Female,Pedestrian
-Peop69,17,17_to_25,Female,Driver
-Peop70,71,65_to_74,Male,Motorcycle rider
-Peop71,41,40_to_64,Male,Driver
-Peop72,24,17_to_25,Female,Driver
-Peop73,54,40_to_64,Male,Driver
-Peop74,18,17_to_25,Male,Motorcycle rider
-Peop75,24,17_to_25,Male,Driver
-Peop76,27,26_to_39,Male,Pedestrian
-Peop77,97,75_or_older,Female,Passenger
-Peop78,46,40_to_64,Male,Driver
-Peop79,83,75_or_older,Male,Driver
-Peop80,36,26_to_39,Male,Driver
-Peop81,70,65_to_74,Male,Driver
-Peop82,29,26_to_39,Female,Driver
-Peop83,39,26_to_39,Male,Motorcycle rider
-Peop84,39,26_to_39,Male,Driver
-Peop85,43,40_to_64,Male,Driver
-Peop86,61,40_to_64,Male,Motorcycle rider
-Peop87,52,40_to_64,Male,Driver
-Peop88,22,17_to_25,Male,Motorcycle rider
-Peop89,53,40_to_64,Male,Driver
-Peop90,44,40_to_64,Male,Motorcycle rider
-Peop91,57,40_to_64,Female,Passenger
-Peop92,18,17_to_25,Male,Driver
-Peop93,18,17_to_25,Male,Passenger
-Peop94,25,17_to_25,Male,Motorcycle rider
-Peop95,44,40_to_64,Female,Passenger
-Peop96,64,40_to_64,Female,Passenger
-Peop97,17,17_to_25,Male,Driver
-Peop98,43,40_to_64,Female,Pedestrian
-Peop99,83,75_or_older,Female,Driver
-Peop100,71,65_to_74,Male,Pedal cyclist
-Peop101,87,75_or_older,Male,Passenger
-Peop102,58,40_to_64,Female,Pedestrian
-Peop103,43,40_to_64,Male,Motorcycle rider
-Peop104,15,0_to_16,Male,Driver
-Peop105,22,17_to_25,Male,Driver
-Peop106,63,40_to_64,Male,Pedestrian
-Peop107,38,26_to_39,Male,Motorcycle rider
-Peop108,36,26_to_39,Male,Pedal cyclist
-Peop109,21,17_to_25,Male,Motorcycle rider
-Peop110,40,40_to_64,Female,Pedestrian
-Peop111,77,75_or_older,Female,Driver
-Peop112,78,75_or_older,Female,Driver
-Peop113,76,75_or_older,Female,Driver
-Peop114,25,17_to_25,Male,Passenger
-Peop115,29,26_to_39,Male,Pedestrian
-Peop116,37,26_to_39,Male,Driver
-Peop117,71,65_to_74,Female,Pedestrian
-Peop118,42,40_to_64,Female,Driver
-Peop119,15,0_to_16,Female,Driver
-Peop120,60,40_to_64,Female,Passenger
-Peop121,57,40_to_64,Male,Driver
-Peop122,30,26_to_39,Male,Driver
-Peop123,48,40_to_64,Female,Pedestrian
-Peop124,60,40_to_64,Female,Motorcycle rider
-Peop125,68,65_to_74,Male,Motorcycle rider
-Peop126,66,65_to_74,Male,Motorcycle rider
-Peop127,65,65_to_74,Male,Pedal cyclist
-Peop128,63,40_to_64,Male,Driver
-Peop129,19,17_to_25,Male,Passenger
-Peop130,20,17_to_25,Male,Driver
-Peop131,35,26_to_39,Male,Pedestrian
-Peop132,28,26_to_39,Male,Pedestrian
-Peop133,30,26_to_39,Male,Passenger
-Peop134,31,26_to_39,Female,Pedestrian
-Peop135,62,40_to_64,Male,Driver
-Peop136,69,65_to_74,Female,Driver
-Peop137,83,75_or_older,Female,Pedestrian
-Peop138,66,65_to_74,Male,Passenger
-Peop139,31,26_to_39,Male,Driver
-Peop140,60,40_to_64,Male,Driver
-Peop141,56,40_to_64,Male,Driver
-Peop142,82,75_or_older,Male,Passenger
-Peop143,43,40_to_64,Male,Pedal cyclist
-Peop144,21,17_to_25,Female,Pedestrian
-Peop145,29,26_to_39,Male,Driver
-Peop146,75,75_or_older,Female,Driver
-Peop147,32,26_to_39,Male,Motorcycle rider
-Peop148,31,26_to_39,Female,Driver
-Peop149,42,40_to_64,Male,Driver
-Peop150,40,40_to_64,Female,Driver
-Peop151,96,75_or_older,Male,Driver
-Peop152,40,40_to_64,Female,Passenger
-Peop153,13,0_to_16,Male,Passenger
-Peop154,37,26_to_39,Male,Passenger
-Peop155,81,75_or_older,Male,Pedestrian
-Peop156,80,75_or_older,Female,Pedestrian
-Peop157,54,40_to_64,Male,Motorcycle rider
-Peop158,76,75_or_older,Female,Passenger
-Peop159,55,40_to_64,Female,Motorcycle rider
-Peop160,44,40_to_64,Female,Driver
-Peop161,28,26_to_39,Male,Motorcycle rider
-Peop162,15,0_to_16,Male,Unknown
-Peop163,91,75_or_older,Male,Pedestrian
-Peop164,11,0_to_16,Female,Passenger
-Peop165,53,40_to_64,Female,Driver
-Peop166,73,65_to_74,Male,Driver
-Peop167,48,40_to_64,Female,Driver
-Peop168,57,40_to_64,Female,Driver
-Peop169,69,65_to_74,Male,Pedestrian
-Peop170,51,40_to_64,Male,Motorcycle rider
-Peop171,34,26_to_39,Male,Passenger
-Peop172,22,17_to_25,Male,Passenger
-Peop173,73,65_to_74,Male,Motorcycle rider
-Peop174,78,75_or_older,Female,Passenger
-Peop175,74,65_to_74,Female,Passenger
-Peop176,20,17_to_25,Male,Motorcycle rider
-Peop177,23,17_to_25,Female,Driver
-Peop178,31,26_to_39,Female,Passenger
-Peop179,40,40_to_64,Male,Driver
-Peop180,14,0_to_16,Male,Passenger
-Peop181,41,40_to_64,Male,Motorcycle rider
-Peop182,90,75_or_older,Male,Pedestrian
-Peop183,48,40_to_64,Male,Motorcycle rider
-Peop184,34,26_to_39,Female,Motorcycle rider
-Peop185,58,40_to_64,Male,Passenger
-Peop186,5,0_to_16,Male,Passenger
-Peop187,15,0_to_16,Female,Passenger
-Peop188,37,26_to_39,Male,Motorcycle rider
-Peop189,70,65_to_74,Female,Pedestrian
-Peop190,35,26_to_39,Male,Driver
-Peop191,2,0_to_16,Female,Pedestrian
-Peop192,59,40_to_64,Female,Motorcycle rider
-Peop193,76,75_or_older,Male,Motorcycle rider
-Peop194,76,75_or_older,Male,Pedestrian
-Peop195,44,40_to_64,Male,Driver
-Peop196,77,75_or_older,Male,Driver
-Peop197,65,65_to_74,Male,Motorcycle rider
-Peop198,33,26_to_39,Female,Motorcycle rider
-Peop199,34,26_to_39,Female,Unknown
-Peop200,11,0_to_16,Male,Pedestrian
-Peop201,39,26_to_39,Female,Pedestrian
-Peop202,30,26_to_39,Male,Motorcycle rider
-Peop203,14,0_to_16,Male,Motorcycle rider
-Peop204,24,17_to_25,Female,Passenger
-Peop205,78,75_or_older,Male,Pedestrian
-Peop206,9,0_to_16,Male,Pedal cyclist
-Peop207,15,0_to_16,Male,Motorcycle rider
-Peop208,37,26_to_39,Male,Pedestrian
-Peop209,52,40_to_64,Male,Pedestrian
-Peop210,1,0_to_16,Female,Pedestrian
-Peop211,52,40_to_64,Female,Driver
-Peop212,93,75_or_older,Female,Driver
-Peop213,87,75_or_older,Male,Driver
-Peop214,94,75_or_older,Male,Driver
-Peop215,81,75_or_older,Female,Passenger
-Peop216,83,75_or_older,Male,Passenger
-Peop217,31,26_to_39,Male,Motorcycle rider
-Peop218,34,26_to_39,Male,Motorcycle rider
-Peop219,23,17_to_25,Male,Motorcycle rider
-Peop220,27,26_to_39,Female,Driver
-Peop221,65,65_to_74,Female,Driver
-Peop222,72,65_to_74,Male,Driver
-Peop223,81,75_or_older,Male,Driver
-Peop224,15,0_to_16,Female,Unknown
-Peop225,79,75_or_older,Female,Pedestrian
-Peop226,23,17_to_25,Male,Driver
-Peop227,58,40_to_64,Male,Driver
-Peop228,74,65_to_74,Female,Pedestrian
-Peop229,32,26_to_39,Male,Pedestrian
-Peop230,53,40_to_64,Male,Pedestrian
-Peop231,84,75_or_older,Male,Passenger
-Peop232,50,40_to_64,Male,Motorcycle rider
-Peop233,65,65_to_74,Male,Driver
-Peop234,22,17_to_25,Female,Driver
-Peop235,48,40_to_64,Male,Driver
-Peop236,50,40_to_64,Male,Pedal cyclist
-Peop237,17,17_to_25,Male,Passenger
-Peop238,35,26_to_39,Female,Pedestrian
-Peop239,56,40_to_64,Female,Driver
-Peop240,81,75_or_older,Male,Pedal cyclist
-Peop241,80,75_or_older,Female,Driver
-Peop242,49,40_to_64,Male,Passenger
-Peop243,36,26_to_39,Male,Pedestrian
-Peop244,57,40_to_64,Male,Motorcycle rider
-Peop245,28,26_to_39,Male,Driver
-Peop246,58,40_to_64,Male,Motorcycle rider
-Peop247,15,0_to_16,Female,Pedestrian
-Peop248,54,40_to_64,Male,Passenger
-Peop249,62,40_to_64,Male,Pedestrian
-Peop250,45,40_to_64,Female,Unknown
-Peop251,39,26_to_39,Male,Pedestrian
-Peop252,26,26_to_39,Female,Passenger
-Peop253,50,40_to_64,Male,Driver
-Peop254,57,40_to_64,Male,Pedestrian
-Peop255,64,40_to_64,Male,Driver
-Peop256,68,65_to_74,Male,Driver
-Peop257,54,40_to_64,Female,Driver
-Peop258,63,40_to_64,Female,Pedestrian
-Peop259,13,0_to_16,Male,Pedestrian
-Peop260,29,26_to_39,Male,Motorcycle rider
-Peop261,56,40_to_64,Male,Pedestrian
-Peop262,73,65_to_74,Male,Pedestrian
-Peop263,19,17_to_25,Male,Driver
-Peop264,78,75_or_older,Male,Motorcycle rider
-Peop265,85,75_or_older,Male,Driver
-Peop266,70,65_to_74,Male,Motorcycle rider
-Peop267,42,40_to_64,Male,Pedal cyclist
-Peop268,66,65_to_74,Male,Pedestrian
-Peop269,20,17_to_25,Male,Motorcycle pillion passenger
-Peop270,49,40_to_64,Male,Pedestrian
-Peop271,61,40_to_64,Male,Pedestrian
-Peop272,79,75_or_older,Male,Driver
-Peop273,68,65_to_74,Female,Pedestrian
-Peop274,6,0_to_16,Male,Passenger
-Peop275,0,0_to_16,Male,Passenger
-Peop276,21,17_to_25,Female,Passenger
-Peop277,33,26_to_39,Female,Passenger
-Peop278,49,40_to_64,Male,Pedal cyclist
-Peop279,35,26_to_39,Female,Passenger
-Peop280,-9,-9,Female,Passenger
-Peop281,28,26_to_39,Male,Passenger
-Peop282,68,65_to_74,Female,Pedal cyclist
-Peop283,79,75_or_older,Male,Pedestrian
-Peop284,37,26_to_39,Female,Pedestrian
-Peop285,37,26_to_39,Female,Driver
-Peop286,27,26_to_39,Male,Pedal cyclist
-Peop287,75,75_or_older,Male,Driver
-Peop288,67,65_to_74,Male,Pedestrian
-Peop289,36,26_to_39,Female,Passenger
-Peop290,3,0_to_16,Female,Passenger
-Peop291,47,40_to_64,Male,Driver
-Peop292,70,65_to_74,Male,Pedestrian
-Peop293,71,65_to_74,Male,Driver
-Peop294,63,40_to_64,Female,Passenger
-Peop295,27,26_to_39,Male,Passenger
-Peop296,16,0_to_16,Male,Passenger
-Peop297,96,75_or_older,Female,Pedestrian
-Peop298,18,17_to_25,Female,Driver
-Peop299,59,40_to_64,Male,Driver
-Peop300,55,40_to_64,Male,Driver
-Peop301,80,75_or_older,Male,Pedestrian
-Peop302,20,17_to_25,Female,Pedestrian
-Peop303,78,75_or_older,Male,Driver
-Peop304,49,40_to_64,Male,Motorcycle rider
-Peop305,17,17_to_25,Male,Motorcycle rider
-Peop306,32,26_to_39,Male,Other/-9
-Peop307,8,0_to_16,Male,Passenger
-Peop308,63,40_to_64,Male,Pedal cyclist
-Peop309,56,40_to_64,Female,Pedal cyclist
-Peop310,20,17_to_25,Male,Passenger
-Peop311,18,17_to_25,Female,Passenger
-Peop312,20,17_to_25,Female,Passenger
-Peop313,16,0_to_16,Male,Motorcycle rider
-Peop314,33,26_to_39,Male,Driver
-Peop315,67,65_to_74,Male,Driver
-Peop316,77,75_or_older,-9,Passenger
-Peop317,69,65_to_74,Male,Pedal cyclist
-Peop318,28,26_to_39,Female,Driver
-Peop319,3,0_to_16,Male,Passenger
-Peop320,30,26_to_39,Female,Unknown
-Peop321,84,75_or_older,Male,Driver
-Peop322,85,75_or_older,Female,Driver
-Peop323,11,0_to_16,Male,Pedal cyclist
-Peop324,83,75_or_older,Male,Pedestrian
-Peop325,60,40_to_64,Male,Passenger
-Peop326,40,40_to_64,Male,Pedestrian
-Peop327,78,75_or_older,Male,Passenger
-Peop328,2,0_to_16,Male,Passenger
-Peop329,72,65_to_74,Female,Driver
-Peop330,17,17_to_25,Female,Passenger
-Peop331,80,75_or_older,Male,Driver
-Peop332,26,26_to_39,Female,Motorcycle rider
-Peop333,26,26_to_39,Male,Passenger
-Peop334,83,75_or_older,Female,Passenger
-Peop335,82,75_or_older,Female,Driver
-Peop336,30,26_to_39,Male,Pedestrian
-Peop337,29,26_to_39,Female,Pedestrian
-Peop338,44,40_to_64,Male,Pedestrian
-Peop339,81,75_or_older,Female,Pedestrian
-Peop340,36,26_to_39,Male,Motorcycle rider
-Peop341,63,40_to_64,Male,Passenger
-Peop342,24,17_to_25,Male,Passenger
-Peop343,71,65_to_74,Female,Passenger
-Peop344,57,40_to_64,Male,Pedal cyclist
-Peop345,56,40_to_64,Female,Passenger
-Peop346,68,65_to_74,Female,Driver
-Peop347,54,40_to_64,Male,Pedal cyclist
-Peop348,47,40_to_64,Male,Pedal cyclist
-Peop349,43,40_to_64,Male,Passenger
-Peop350,63,40_to_64,Female,Driver
-Peop351,56,40_to_64,-9,Motorcycle rider
-Peop352,43,40_to_64,Male,Pedestrian
-Peop353,20,17_to_25,Female,Motorcycle rider
-Peop354,82,75_or_older,Female,Pedestrian
-Peop355,61,40_to_64,Female,Pedestrian
-Peop356,90,75_or_older,Male,Driver
-Peop357,40,40_to_64,Male,Motorcycle rider
-Peop358,87,75_or_older,Male,Pedestrian
-Peop359,59,40_to_64,Male,Motorcycle rider
-Peop360,33,26_to_39,Male,Motorcycle rider
-Peop361,73,65_to_74,Female,Pedestrian
-Peop362,19,17_to_25,Female,Pedestrian
-Peop363,32,26_to_39,Female,Pedestrian
-Peop364,41,40_to_64,Male,Passenger
-Peop365,93,75_or_older,Male,Driver
-Peop366,84,75_or_older,Female,Driver
-Peop367,-9,-9,-9,Passenger
-Peop368,18,17_to_25,Male,Pedestrian
-Peop369,76,75_or_older,Female,Pedestrian
-Peop370,35,26_to_39,Female,Driver
-Peop371,38,26_to_39,Female,Driver
-Peop372,89,75_or_older,Female,Driver
-Peop373,90,75_or_older,Male,Other/-9
-Peop374,62,40_to_64,Female,Driver
-Peop375,24,17_to_25,Female,Motorcycle pillion passenger
-Peop376,38,26_to_39,Male,Pedestrian
-Peop377,20,17_to_25,Female,Driver
-Peop378,79,75_or_older,Male,Motorcycle rider
-Peop379,79,75_or_older,Female,Driver
-Peop380,56,40_to_64,Male,Motorcycle rider
-Peop381,9,0_to_16,Male,Passenger
-Peop382,45,40_to_64,Male,Passenger
-Peop383,4,0_to_16,Male,Passenger
-Peop384,53,40_to_64,Male,Motorcycle rider
-Peop385,32,26_to_39,Female,Passenger
-Peop386,12,0_to_16,Male,Pedestrian
-Peop387,16,0_to_16,Female,Passenger
-Peop388,50,40_to_64,Female,Driver
-Peop389,76,75_or_older,Male,Pedal cyclist
-Peop390,70,65_to_74,Male,Pedal cyclist
-Peop391,28,26_to_39,Female,Passenger
-Peop392,82,75_or_older,Female,Passenger
-Peop393,73,65_to_74,Female,Driver
-Peop394,91,75_or_older,Female,Passenger
-Peop395,31,26_to_39,Male,Pedal cyclist
-Peop396,43,40_to_64,Female,Passenger
-Peop397,59,40_to_64,Male,Pedestrian
-Peop398,30,26_to_39,Female,Pedestrian
-Peop399,72,65_to_74,Male,Motorcycle rider
-Peop400,67,65_to_74,Female,Motorcycle rider
-Peop401,74,65_to_74,Male,Motorcycle rider
-Peop402,66,65_to_74,Female,Driver
-Peop403,53,40_to_64,Male,Pedal cyclist
-Peop404,41,40_to_64,Female,Passenger
-Peop405,49,40_to_64,Female,Driver
-Peop406,15,0_to_16,Female,Motorcycle pillion passenger
-Peop407,78,75_or_older,Female,Pedestrian
-Peop408,70,65_to_74,Female,Driver
-Peop409,26,26_to_39,Male,Pedestrian
-Peop410,68,65_to_74,Male,Passenger
-Peop411,86,75_or_older,Male,Driver
-Peop412,75,75_or_older,Female,Passenger
-Peop413,15,0_to_16,Male,Passenger
-Peop414,91,75_or_older,Male,Driver
-Peop415,13,0_to_16,Male,Unknown
-Peop416,45,40_to_64,Female,Pedestrian
-Peop417,42,40_to_64,Male,Motorcycle rider
-Peop418,18,17_to_25,Female,Pedestrian
-Peop419,25,17_to_25,Female,Motorcycle rider
-Peop420,21,17_to_25,Male,Pedestrian
-Peop421,66,65_to_74,Male,Pedal cyclist
-Peop422,15,0_to_16,Male,Pedal cyclist
-Peop423,54,40_to_64,Female,Passenger
-Peop424,39,26_to_39,Female,Driver
-Peop425,72,65_to_74,Male,Pedestrian
-Peop426,47,40_to_64,Female,Driver
-Peop427,62,40_to_64,Male,Pedal cyclist
-Peop428,42,40_to_64,Male,Pedestrian
-Peop429,65,65_to_74,Male,Pedestrian
-Peop430,13,0_to_16,Female,Other/-9
-Peop431,41,40_to_64,Female,Motorcycle rider
-Peop432,17,17_to_25,Male,Pedestrian
-Peop433,31,26_to_39,Male,Pedestrian
-Peop434,20,17_to_25,Male,Pedestrian
-Peop435,36,26_to_39,Female,Pedal cyclist
-Peop436,17,17_to_25,Male,Motorcycle pillion passenger
-Peop437,51,40_to_64,Male,Pedestrian
-Peop438,64,40_to_64,Male,Pedestrian
-Peop439,23,17_to_25,Female,Passenger
-Peop440,19,17_to_25,Female,Passenger
-Peop441,70,65_to_74,Male,Other/-9
-Peop442,82,75_or_older,Male,Driver
-Peop443,47,40_to_64,Female,Passenger
-Peop444,70,65_to_74,Female,Passenger
-Peop445,34,26_to_39,Female,Passenger
-Peop446,30,26_to_39,Female,Pedal cyclist
-Peop447,42,40_to_64,Male,Passenger
-Peop448,50,40_to_64,Male,Passenger
-Peop449,58,40_to_64,Male,Pedal cyclist
-Peop450,53,40_to_64,Female,Motorcycle rider
-Peop451,27,26_to_39,Female,Passenger
-Peop452,31,26_to_39,Male,Other/-9
-Peop453,7,0_to_16,Female,Passenger
-Peop454,93,75_or_older,Female,Pedestrian
-Peop455,55,40_to_64,Female,Pedestrian
-Peop456,3,0_to_16,Female,Pedestrian
-Peop457,51,40_to_64,Male,Pedal cyclist
-Peop458,79,75_or_older,Female,Passenger
-Peop459,50,40_to_64,Female,Passenger
-Peop460,16,0_to_16,Male,Pedestrian
-Peop461,27,26_to_39,Male,Unknown
-Peop462,90,75_or_older,Female,Passenger
-Peop463,11,0_to_16,Male,Passenger
-Peop464,23,17_to_25,Female,Motorcycle pillion passenger
-Peop465,35,26_to_39,Male,Unknown
-Peop466,69,65_to_74,Female,Pedestrian
-Peop467,52,40_to_64,Male,Motorcycle rider
-Peop468,41,40_to_64,Male,Other/-9
-Peop469,88,75_or_older,Male,Driver
-Peop470,64,40_to_64,Male,Pedal cyclist
-Peop471,12,0_to_16,Female,Passenger
-Peop472,49,40_to_64,Female,Pedestrian
-Peop473,61,40_to_64,Female,Driver
-Peop474,48,40_to_64,Female,Passenger
-Peop475,28,26_to_39,Male,Unknown
-Peop476,29,26_to_39,Male,Passenger
-Peop477,25,17_to_25,Female,Driver
-Peop478,38,26_to_39,Female,Passenger
-Peop479,89,75_or_older,Female,Passenger
-Peop480,44,40_to_64,Male,Other/-9
-Peop481,92,75_or_older,Female,Pedestrian
-Peop482,57,40_to_64,Male,Passenger
-Peop483,2,0_to_16,Male,Pedestrian
-Peop484,85,75_or_older,Male,Motorcycle rider
-Peop485,62,40_to_64,Female,Passenger
-Peop486,25,17_to_25,Female,Passenger
-Peop487,7,0_to_16,Male,Pedestrian
-Peop488,85,75_or_older,Female,Passenger
-Peop489,67,65_to_74,Female,Driver
-Peop490,85,75_or_older,Male,Pedestrian
-Peop491,65,65_to_74,Female,Passenger
-Peop492,65,65_to_74,Female,Motorcycle rider
-Peop493,38,26_to_39,Male,Passenger
-Peop494,62,40_to_64,Male,Motorcycle rider
-Peop495,82,75_or_older,Male,Motorcycle rider
-Peop496,37,26_to_39,Male,Pedal cyclist
-Peop497,47,40_to_64,Male,Pedestrian
-Peop498,75,75_or_older,Male,Motorcycle rider
-Peop499,46,40_to_64,Female,Driver
-Peop500,31,26_to_39,Female,Motorcycle pillion passenger
-Peop501,-9,-9,Male,Passenger
-Peop502,5,0_to_16,Female,Passenger
-Peop503,88,75_or_older,Female,Passenger
-Peop504,82,75_or_older,Male,Pedestrian
-Peop505,82,75_or_older,Male,Pedal cyclist
-Peop506,39,26_to_39,Male,Passenger
-Peop507,78,75_or_older,Male,Pedal cyclist
-Peop508,84,75_or_older,Male,Pedestrian
-Peop509,90,75_or_older,Male,Passenger
-Peop510,67,65_to_74,Male,Motorcycle rider
-Peop511,58,40_to_64,Male,Pedestrian
-Peop512,72,65_to_74,Male,Pedal cyclist
-Peop513,61,40_to_64,Male,Unknown
-Peop514,100,75_or_older,Female,Passenger
-Peop515,75,75_or_older,Male,Passenger
-Peop516,84,75_or_older,Female,Passenger
-Peop517,86,75_or_older,Male,Passenger
-Peop518,84,75_or_older,Female,Pedestrian
-Peop519,70,65_to_74,Male,Passenger
-Peop520,5,0_to_16,Female,Other/-9
-Peop521,4,0_to_16,Female,Other/-9
-Peop522,1,0_to_16,Female,Other/-9
-Peop523,9,0_to_16,Female,Other/-9
-Peop524,33,26_to_39,Male,Passenger
-Peop525,37,26_to_39,Female,Passenger
-Peop526,56,40_to_64,Male,Passenger
-Peop527,87,75_or_older,Female,Pedestrian
-Peop528,55,40_to_64,Male,Passenger
-Peop529,8,0_to_16,Female,Passenger
-Peop530,18,17_to_25,Female,Motorcycle rider
-Peop531,35,26_to_39,Female,Motorcycle pillion passenger
-Peop532,88,75_or_older,Female,Pedestrian
-Peop533,25,17_to_25,Male,Pedestrian
-Peop534,86,75_or_older,Female,Passenger
-Peop535,32,26_to_39,Male,Passenger
-Peop536,71,65_to_74,Male,Pedestrian
-Peop537,10,0_to_16,Male,Passenger
-Peop538,36,26_to_39,Male,Passenger
-Peop539,66,65_to_74,Female,Pedestrian
-Peop540,69,65_to_74,Female,Passenger
-Peop541,73,65_to_74,Male,Passenger
-Peop542,73,65_to_74,Female,Passenger
-Peop543,49,40_to_64,Female,Motorcycle rider
-Peop544,48,40_to_64,Male,Pedestrian
-Peop545,86,75_or_older,Female,Pedestrian
-Peop546,26,26_to_39,Male,Pedal cyclist
-Peop547,91,75_or_older,Male,Passenger
-Peop548,24,17_to_25,Male,Pedestrian
-Peop549,44,40_to_64,Male,Passenger
-Peop550,52,40_to_64,Female,Passenger
-Peop551,41,40_to_64,Male,Pedal cyclist
-Peop552,17,17_to_25,Female,Pedal cyclist
-Peop553,5,0_to_16,Male,Pedestrian
-Peop554,67,65_to_74,Male,Pedal cyclist
-Peop555,34,26_to_39,Female,Driver
-Peop556,59,40_to_64,Male,Pedal cyclist
-Peop557,9,0_to_16,Female,Pedestrian
-Peop558,60,40_to_64,Male,Unknown
-Peop559,46,40_to_64,Male,Pedestrian
-Peop560,0,0_to_16,Male,Pedestrian
-Peop561,30,26_to_39,Female,Passenger
-Peop562,35,26_to_39,Male,Passenger
-Peop563,26,26_to_39,Female,Pedestrian
-Peop564,55,40_to_64,Male,Pedestrian
-Peop565,62,40_to_64,Female,Pedestrian
-Peop566,73,65_to_74,Male,Pedal cyclist
-Peop567,69,65_to_74,Male,Passenger
-Peop568,14,0_to_16,Female,Passenger
-Peop569,22,17_to_25,Male,Pedal cyclist
-Peop570,42,40_to_64,Female,Pedestrian
-Peop571,42,40_to_64,Female,Passenger
-Peop572,92,75_or_older,Male,Driver
-Peop573,56,40_to_64,Female,Pedestrian
-Peop574,41,40_to_64,Male,Pedestrian
-Peop575,16,0_to_16,Female,Pedestrian
-Peop576,23,17_to_25,Female,Motorcycle rider
-Peop577,87,75_or_older,Female,Passenger
-Peop578,45,40_to_64,Male,Pedestrian
-Peop579,86,75_or_older,Male,Pedestrian
-Peop580,36,26_to_39,Female,Driver
-Peop581,12,0_to_16,Male,Passenger
-Peop582,23,17_to_25,Male,Pedestrian
-Peop583,88,75_or_older,Female,Driver
-Peop584,71,65_to_74,Female,Driver
-Peop585,0,0_to_16,Female,Passenger
-Peop586,94,75_or_older,Male,Passenger
-Peop587,77,75_or_older,Male,Pedestrian
-Peop588,51,40_to_64,Female,Passenger
-Peop589,87,75_or_older,Female,Driver
-Peop590,81,75_or_older,Female,Driver
-Peop591,86,75_or_older,Female,Driver
-Peop592,18,17_to_25,Male,Pedal cyclist
-Peop593,89,75_or_older,Male,Passenger
-Peop594,83,75_or_older,Male,Motorcycle rider
-Peop595,93,75_or_older,Male,Passenger
-Peop596,99,75_or_older,Female,Pedestrian
-Peop597,57,40_to_64,Female,Motorcycle rider
-Peop598,14,0_to_16,Male,Pedestrian
-Peop599,68,65_to_74,Male,Pedal cyclist
-Peop600,54,40_to_64,Female,Motorcycle pillion passenger
-Peop601,61,40_to_64,Female,Motorcycle rider
-Peop602,43,40_to_64,Female,Driver
-Peop603,51,40_to_64,Male,Passenger
-Peop604,75,75_or_older,Female,Pedestrian
-Peop605,45,40_to_64,Male,Pedal cyclist
-Peop606,64,40_to_64,Female,Driver
-Peop607,4,0_to_16,Female,Passenger
-Peop608,83,75_or_older,Male,Pedal cyclist
-Peop609,40,40_to_64,Male,Passenger
-Peop610,1,0_to_16,Female,Passenger
-Peop611,58,40_to_64,Female,Driver
-Peop612,47,40_to_64,Male,Passenger
-Peop613,53,40_to_64,Male,Passenger
-Peop614,48,40_to_64,Male,Passenger
-Peop615,80,75_or_older,Male,Passenger
-Peop616,95,75_or_older,Female,Pedestrian
-Peop617,79,75_or_older,Male,Passenger
-Peop618,53,40_to_64,Female,Pedestrian
-Peop619,22,17_to_25,Female,Pedestrian
-Peop620,25,17_to_25,Female,Pedestrian
-Peop621,60,40_to_64,Male,Pedestrian
-Peop622,98,75_or_older,Female,Passenger
-Peop623,96,75_or_older,Female,Passenger
-Peop624,37,26_to_39,Female,Motorcycle pillion passenger
-Peop625,46,40_to_64,Male,Passenger
-Peop626,27,26_to_39,Female,Pedestrian
-Peop627,55,40_to_64,Male,Pedal cyclist
-Peop628,29,26_to_39,Male,Pedal cyclist
-Peop629,52,40_to_64,Female,Pedestrian
-Peop630,77,75_or_older,Female,Pedestrian
-Peop631,24,17_to_25,Female,Pedestrian
-Peop632,100,75_or_older,Male,Passenger
-Peop633,72,65_to_74,Female,Pedestrian
-Peop634,47,40_to_64,Female,Motorcycle rider
-Peop635,8,0_to_16,Male,Pedestrian
-Peop636,4,0_to_16,Female,Pedestrian
-Peop637,89,75_or_older,Male,Driver
-Peop638,37,26_to_39,-9,Motorcycle rider
-Peop639,28,26_to_39,Female,Other/-9
-Peop640,33,26_to_39,Female,Other/-9
-Peop641,15,0_to_16,Male,Pedestrian
-Peop642,34,26_to_39,Male,Pedestrian
-Peop643,86,75_or_older,Male,Pedal cyclist
-Peop644,75,75_or_older,Male,Pedal cyclist
-Peop645,61,40_to_64,Male,Passenger
-Peop646,56,40_to_64,Male,Pedal cyclist
-Peop647,19,17_to_25,Female,Other/-9
-Peop648,94,75_or_older,Female,Driver
-Peop649,53,40_to_64,Male,Motorcycle pillion passenger
-Peop650,72,65_to_74,Male,Passenger
-Peop651,88,75_or_older,Male,Passenger
-Peop652,67,65_to_74,Female,Passenger
-Peop653,39,26_to_39,Female,Passenger
-Peop654,22,17_to_25,Male,Motorcycle pillion passenger
-Peop655,1,0_to_16,Male,Pedestrian
-Peop656,62,40_to_64,Male,Passenger
-Peop657,52,40_to_64,Female,Motorcycle rider
-Peop658,45,40_to_64,Female,Pedal cyclist
-Peop659,7,0_to_16,Male,Passenger
-Peop660,44,40_to_64,Female,Pedestrian
-Peop661,13,0_to_16,Male,Driver
-Peop662,38,26_to_39,Female,Pedestrian
-Peop663,3,0_to_16,Male,Pedestrian
-Peop664,49,40_to_64,Female,Passenger
-Peop665,36,26_to_39,Female,Other/-9
-Peop666,47,40_to_64,Male,Other/-9
-Peop667,52,40_to_64,Male,Passenger
-Peop668,19,17_to_25,Male,Pedestrian
-Peop669,47,40_to_64,Female,Pedal cyclist
-Peop670,46,40_to_64,Male,Other/-9
-Peop671,19,17_to_25,Female,Motorcycle pillion passenger
-Peop672,59,40_to_64,Female,Pedestrian
-Peop673,92,75_or_older,Male,Pedestrian
-Peop674,22,17_to_25,Male,Pedestrian
-Peop675,19,-9,Male,Driver
-Peop676,70,65_to_74,Female,Pedal cyclist
-Peop677,56,40_to_64,Male,Other/-9
-Peop678,47,40_to_64,Female,Pedestrian
-Peop679,54,40_to_64,Female,Pedestrian
-Peop680,44,40_to_64,Male,Pedal cyclist
-Peop681,93,75_or_older,Female,Passenger
-Peop682,27,26_to_39,Female,Motorcycle pillion passenger
-Peop683,32,26_to_39,Male,Motorcycle pillion passenger
-Peop684,90,75_or_older,Female,Pedestrian
-Peop685,12,0_to_16,Female,Pedestrian
-Peop686,13,0_to_16,Male,Other/-9
-Peop687,80,75_or_older,Male,Pedal cyclist
-Peop688,51,40_to_64,Female,Pedestrian
-Peop689,98,75_or_older,Female,Driver
-Peop690,72,65_to_74,Female,Passenger
-Peop691,80,75_or_older,Male,Motorcycle rider
-Peop692,39,26_to_39,Male,Motorcycle pillion passenger
-Peop693,23,17_to_25,Female,Pedestrian
-Peop694,-9,-9,Male,Driver
-Peop695,74,65_to_74,Male,Pedal cyclist
-Peop696,2,0_to_16,Female,Passenger
-Peop697,20,17_to_25,Male,Pedal cyclist
-Peop698,89,75_or_older,Male,Pedal cyclist
-Peop699,81,75_or_older,Male,Motorcycle rider
-Peop700,89,75_or_older,Male,Pedestrian
-Peop701,79,75_or_older,Male,Pedal cyclist
-Peop702,84,75_or_older,Female,Motorcycle rider
-Peop703,88,75_or_older,Male,Other/-9
-Peop704,57,40_to_64,Female,Pedestrian
-Peop705,54,40_to_64,Male,Pedestrian
-Peop706,17,17_to_25,Female,Motorcycle pillion passenger
-Peop707,65,65_to_74,Male,Passenger
-Peop708,94,75_or_older,Female,Passenger
-Peop709,55,40_to_64,Female,Passenger
-Peop710,60,40_to_64,Male,Pedal cyclist
-Peop711,68,65_to_74,Male,Pedestrian
-Peop712,58,40_to_64,Female,Passenger
-Peop713,85,75_or_older,Male,Passenger
-Peop714,19,17_to_25,Male,Other/-9
-Peop715,28,26_to_39,Female,Pedestrian
-Peop716,52,40_to_64,Male,Pedal cyclist
-Peop717,63,40_to_64,Female,Pedal cyclist
-Peop718,6,0_to_16,Female,Passenger
-Peop719,91,75_or_older,Female,Driver
-Peop720,1,0_to_16,Male,Passenger
-Peop721,46,40_to_64,Female,Passenger
-Peop722,40,40_to_64,Female,Motorcycle rider
-Peop723,77,75_or_older,Female,Passenger
-Peop724,67,65_to_74,Male,Passenger
-Peop725,61,40_to_64,Male,Other/-9
-Peop726,79,75_or_older,Female,Pedal cyclist
-Peop727,84,75_or_older,Male,Pedal cyclist
-Peop728,88,75_or_older,Male,Pedestrian
-Peop729,64,40_to_64,Male,Passenger
-Peop730,48,40_to_64,Female,Other/-9
-Peop731,54,40_to_64,Male,Other/-9
-Peop732,14,0_to_16,Female,Driver
-Peop733,14,0_to_16,Female,Pedestrian
-Peop734,10,0_to_16,Female,Passenger
-Peop735,25,17_to_25,Male,Pedal cyclist
-Peop736,41,40_to_64,Female,Pedal cyclist
-Peop737,93,75_or_older,Male,Pedestrian
-Peop738,21,17_to_25,Male,Pedal cyclist
-Peop739,58,40_to_64,Female,Motorcycle rider
-Peop740,77,75_or_older,Male,Passenger
-Peop741,5,0_to_16,Female,Pedestrian
-Peop742,22,17_to_25,Female,Motorcycle rider
-Peop743,47,40_to_64,Female,Motorcycle pillion passenger
-Peop744,-9,-9,Male,Other/-9
-Peop745,41,40_to_64,Female,Motorcycle pillion passenger
-Peop746,19,17_to_25,Male,Pedal cyclist
-Peop747,40,40_to_64,Male,Pedal cyclist
-Peop748,34,26_to_39,Female,Pedestrian
-Peop749,6,0_to_16,Male,Pedestrian
-Peop750,4,0_to_16,Male,Pedal cyclist
-Peop751,10,0_to_16,Female,Pedestrian
-Peop752,17,17_to_25,Female,Motorcycle rider
-Peop753,24,17_to_25,Male,Other/-9
-Peop754,16,0_to_16,Female,Driver
-Peop755,10,0_to_16,Male,Pedestrian
-Peop756,34,26_to_39,Male,Other/-9
-Peop757,53,40_to_64,Female,Passenger
-Peop758,27,26_to_39,Female,Motorcycle rider
-Peop759,20,17_to_25,Female,Pedal cyclist
-Peop760,14,0_to_16,Male,Pedal cyclist
-Peop761,55,40_to_64,Female,Pedal cyclist
-Peop762,8,0_to_16,Female,Pedestrian
-Peop763,21,17_to_25,Male,Motorcycle pillion passenger
-Peop764,68,65_to_74,Male,Other/-9
-Peop765,8,0_to_16,Male,Pedal cyclist
-Peop766,33,26_to_39,Female,Pedestrian
-Peop767,29,26_to_39,Female,Motorcycle pillion passenger
-Peop768,101,75_or_older,Male,Driver
-Peop769,16,0_to_16,Male,Pedal cyclist
-Peop770,34,26_to_39,Male,Pedal cyclist
-Peop771,87,75_or_older,Male,Motorcycle rider
-Peop772,50,40_to_64,Female,Pedal cyclist
-Peop773,13,0_to_16,Male,Motorcycle rider
-Peop774,76,75_or_older,Female,Motorcycle rider
-Peop775,60,40_to_64,Female,Pedal cyclist
-Peop776,46,40_to_64,Male,Pedal cyclist
-Peop777,22,17_to_25,Female,Motorcycle pillion passenger
-Peop778,75,75_or_older,Male,Pedestrian
-Peop779,30,26_to_39,Male,Pedal cyclist
-Peop780,43,40_to_64,Female,Motorcycle rider
-Peop781,72,65_to_74,Female,Pedal cyclist
-Peop782,-9,-9,-9,Pedestrian
-Peop783,44,40_to_64,Female,Motorcycle rider
-Peop784,32,26_to_39,Male,Pedal cyclist
-Peop785,94,75_or_older,Female,Pedestrian
-Peop786,22,17_to_25,Female,Pedal cyclist
-Peop787,95,75_or_older,Female,Passenger
-Peop788,81,75_or_older,Male,Passenger
-Peop789,11,0_to_16,Female,Pedestrian
-Peop790,59,40_to_64,Male,Passenger
-Peop791,44,40_to_64,Female,Pedal cyclist
-Peop792,38,26_to_39,Male,Pedal cyclist
-Peop793,54,40_to_64,Female,Motorcycle rider
-Peop794,36,26_to_39,Female,Pedestrian
-Peop795,24,17_to_25,Male,Pedal cyclist
-Peop796,9,0_to_16,Male,Pedestrian
-Peop797,56,40_to_64,Female,Motorcycle rider
-Peop798,74,65_to_74,Male,Passenger
-Peop799,32,26_to_39,Female,Pedal cyclist
-Peop800,97,75_or_older,Male,Driver
-Peop801,46,40_to_64,Female,Motorcycle rider
-Peop802,65,65_to_74,Female,Pedal cyclist
-Peop803,5,0_to_16,Male,Pedal cyclist
-Peop804,52,40_to_64,Female,Pedal cyclist
-Peop805,17,17_to_25,Male,Pedal cyclist
-Peop806,9,0_to_16,Female,Passenger
-Peop807,28,26_to_39,Male,Pedal cyclist
-Peop808,50,40_to_64,Female,Other/-9
-Peop809,35,26_to_39,Male,Pedal cyclist
-Peop810,99,75_or_older,Male,Pedestrian
-Peop811,95,75_or_older,Male,Pedestrian
-Peop812,92,75_or_older,Male,Passenger
-Peop813,71,65_to_74,Male,Passenger
-Peop814,21,17_to_25,Female,Pedal cyclist
-Peop815,69,65_to_74,Female,Motorcycle rider
-Peop816,23,17_to_25,Male,Motorcycle pillion passenger
-Peop817,48,40_to_64,Male,Pedal cyclist
-Peop818,61,40_to_64,Female,Motorcycle pillion passenger
-Peop819,60,40_to_64,Female,Pedestrian
-Peop820,28,26_to_39,Female,Pedal cyclist
-Peop821,13,0_to_16,Female,Passenger
-Peop822,86,75_or_older,Female,Other/-9
-Peop823,14,0_to_16,Female,Pedal cyclist
-Peop824,14,0_to_16,Male,Driver
-Peop825,27,26_to_39,Female,Pedal cyclist
-Peop826,71,65_to_74,Male,Other/-9
-Peop827,59,40_to_64,Female,Other/-9
-Peop828,65,65_to_74,Female,Other/-9
-Peop829,0,0_to_16,-9,Passenger
-Peop830,45,40_to_64,Female,Passenger
-Peop831,41,40_to_64,Female,Pedestrian
-Peop832,95,75_or_older,Male,Passenger
-Peop833,30,26_to_39,Female,Motorcycle rider
-Peop834,76,75_or_older,Male,Passenger
-Peop835,77,75_or_older,Male,Pedal cyclist
-Peop836,0,0_to_16,Male,Other/-9
-Peop837,21,17_to_25,Female,Other/-9
-Peop838,17,17_to_25,Female,Pedestrian
-Peop839,46,40_to_64,Female,Pedestrian
-Peop840,-9,-9,Female,Driver
-Peop841,39,26_to_39,Female,Motorcycle rider
-Peop842,23,17_to_25,Male,Pedal cyclist
-Peop843,48,40_to_64,Male,Motorcycle pillion passenger
-Peop844,94,75_or_older,Male,Other/-9
-Peop845,73,65_to_74,Female,Motorcycle rider
-Peop846,97,75_or_older,Male,Pedestrian
-Peop847,19,17_to_25,Female,Pedal cyclist
-Peop848,22,17_to_25,Female,Other/-9
-Peop849,21,17_to_25,Male,Other/-9
-Peop850,76,75_or_older,Female,Pedal cyclist
-Peop851,42,40_to_64,Female,Pedal cyclist
-Peop852,91,75_or_older,Male,Other/-9
-Peop853,94,75_or_older,Male,Pedestrian
-Peop854,96,75_or_older,Male,Passenger
-Peop855,35,26_to_39,Female,Motorcycle rider
-Peop856,6,0_to_16,Male,Motorcycle rider
-Peop857,45,40_to_64,Female,Motorcycle rider
-Peop858,91,75_or_older,Female,Pedestrian
-Peop859,45,40_to_64,Female,Motorcycle pillion passenger
-Peop860,101,75_or_older,Female,Passenger
-Peop861,0,0_to_16,Female,Other/-9
-Peop862,48,40_to_64,Female,Motorcycle rider
-Peop863,35,26_to_39,Female,Pedal cyclist
-Peop864,98,75_or_older,Female,Other/-9
-Peop865,50,40_to_64,Female,Motorcycle pillion passenger
-Peop866,49,40_to_64,Female,Motorcycle pillion passenger
-Peop867,14,0_to_16,Male,Motorcycle pillion passenger
-Peop868,61,40_to_64,Female,Other/-9
-Peop869,16,0_to_16,Male,Motorcycle pillion passenger
-Peop870,33,26_to_39,Female,Pedal cyclist
-Peop871,36,26_to_39,Female,Motorcycle rider
-Peop872,10,0_to_16,Female,Motorcycle pillion passenger
-Peop873,31,26_to_39,Female,Motorcycle rider
-Peop874,23,17_to_25,Male,Other/-9
-Peop875,66,65_to_74,Female,Pedal cyclist
-Peop876,51,40_to_64,Female,Motorcycle rider
-Peop877,18,17_to_25,Male,Motorcycle pillion passenger
-Peop878,5,0_to_16,Male,Other/-9
-Peop879,12,0_to_16,Male,Pedal cyclist
-Peop880,96,75_or_older,Male,Pedestrian
-Peop881,92,75_or_older,Female,Passenger
-Peop882,93,75_or_older,Male,Pedal cyclist
-Peop883,25,17_to_25,Male,Motorcycle pillion passenger
-Peop884,69,65_to_74,Female,Pedal cyclist
-Peop885,88,75_or_older,Male,Pedal cyclist
-Peop886,43,40_to_64,Female,Motorcycle pillion passenger
-Peop887,31,26_to_39,Male,Motorcycle pillion passenger
-Peop888,84,75_or_older,Male,Motorcycle rider
-Peop889,97,75_or_older,Female,Driver
-Peop890,92,75_or_older,Male,Pedal cyclist
-Peop891,35,26_to_39,Male,Other/-9
-Peop892,42,40_to_64,Female,Motorcycle rider
-Peop893,42,40_to_64,Female,Motorcycle pillion passenger
-Peop894,55,40_to_64,Female,Motorcycle pillion passenger
-Peop895,28,26_to_39,Female,Motorcycle pillion passenger
-Peop896,37,26_to_39,Female,Pedal cyclist
-Peop897,7,0_to_16,Male,Driver
-Peop898,100,75_or_older,Male,Pedestrian
-Peop899,7,0_to_16,Male,Pedal cyclist
-Peop900,22,17_to_25,Male,Other/-9
-Peop901,26,26_to_39,Male,Other/-9
-Peop902,26,26_to_39,Male,Motorcycle pillion passenger
-Peop903,64,40_to_64,Female,Motorcycle rider
-Peop904,58,40_to_64,Female,Motorcycle pillion passenger
-Peop905,57,40_to_64,Female,Pedal cyclist
-Peop906,43,40_to_64,Female,Pedal cyclist
-Peop907,39,26_to_39,Male,Pedal cyclist
-Peop908,29,26_to_39,Female,Motorcycle rider
-Peop909,86,75_or_older,Male,Motorcycle rider
-Peop910,49,40_to_64,Female,Pedal cyclist
-Peop911,18,17_to_25,Male,Other/-9
-Peop912,33,26_to_39,Male,Pedal cyclist
-Peop913,48,40_to_64,Female,Pedal cyclist
-Peop914,43,40_to_64,Male,Motorcycle pillion passenger
-Peop915,37,26_to_39,Female,Motorcycle rider
-Peop916,40,40_to_64,Female,Pedal cyclist
-Peop917,31,26_to_39,Female,Pedal cyclist
-Peop918,99,75_or_older,Female,Passenger
-Peop919,81,75_or_older,Female,Motorcycle rider
-Peop920,38,26_to_39,Female,Motorcycle rider
-Peop921,33,26_to_39,Female,Motorcycle pillion passenger
-Peop922,82,75_or_older,Male,Other/-9
-Peop923,58,40_to_64,Female,Pedal cyclist
-Peop924,27,26_to_39,Male,Other/-9
-Peop925,60,40_to_64,Female,Other/-9
-Peop926,50,40_to_64,Female,Motorcycle rider
-Peop927,30,26_to_39,Male,Motorcycle pillion passenger
-Peop928,7,0_to_16,Female,Pedestrian
-Peop929,13,0_to_16,Female,Pedestrian
-Peop930,34,26_to_39,Female,Motorcycle pillion passenger
-Peop931,96,75_or_older,Female,Driver
-Peop932,87,75_or_older,Male,Pedal cyclist
-Peop933,26,26_to_39,Female,Other/-9
-Peop934,32,26_to_39,Female,Other/-9
-Peop935,7,0_to_16,Female,Motorcycle pillion passenger
-Peop936,18,17_to_25,Female,Other/-9
-Peop937,39,26_to_39,Female,Motorcycle pillion passenger
-Peop938,13,0_to_16,Male,Pedal cyclist
-Peop939,15,0_to_16,Male,Motorcycle pillion passenger
-Peop940,52,40_to_64,Female,Motorcycle pillion passenger
-Peop941,20,17_to_25,Female,Motorcycle pillion passenger
-Peop942,15,0_to_16,Female,Motorcycle rider
-Peop943,26,26_to_39,Female,Pedal cyclist
-Peop944,13,0_to_16,Female,Driver
-Peop945,64,40_to_64,Female,Motorcycle pillion passenger
-Peop946,27,26_to_39,Male,Motorcycle pillion passenger
-Peop947,89,75_or_older,Male,Other/-9
-Peop948,66,65_to_74,Female,Motorcycle rider
-Peop949,51,40_to_64,Female,Motorcycle pillion passenger
-Peop950,28,26_to_39,Female,Motorcycle rider
-Peop951,85,75_or_older,Male,Pedal cyclist
-Peop952,10,0_to_16,Male,Pedal cyclist
-Peop953,16,0_to_16,Female,Other/-9
-Peop954,19,17_to_25,Male,Motorcycle pillion passenger
-Peop955,40,40_to_64,Male,Motorcycle pillion passenger
-Peop956,53,40_to_64,Female,Motorcycle pillion passenger
-Peop957,59,40_to_64,Female,Pedal cyclist
-Peop958,25,17_to_25,Female,Motorcycle pillion passenger
-Peop959,32,26_to_39,Female,Motorcycle rider
-Peop960,98,75_or_older,Male,Pedestrian
-Peop961,2,0_to_16,Male,Motorcycle pillion passenger
-Peop962,26,26_to_39,Female,Motorcycle pillion passenger
-Peop963,57,40_to_64,Female,Motorcycle pillion passenger
-Peop964,46,40_to_64,Male,Motorcycle pillion passenger
-Peop965,91,75_or_older,Female,Other/-9
-Peop966,36,26_to_39,Male,Motorcycle pillion passenger
-Peop967,12,0_to_16,Male,Motorcycle rider
-Peop968,18,17_to_25,Female,Motorcycle pillion passenger
-Peop969,61,40_to_64,Female,Pedal cyclist
-Peop970,32,26_to_39,Female,Motorcycle pillion passenger
-Peop971,46,40_to_64,Female,Motorcycle pillion passenger
-Peop972,98,75_or_older,Male,Driver
-Peop973,6,0_to_16,Male,Pedal cyclist
-Peop974,56,40_to_64,Female,Motorcycle pillion passenger
-Peop975,20,17_to_25,Male,Other/-9
-Peop976,91,75_or_older,Male,Motorcycle rider
-Peop977,69,65_to_74,Female,Motorcycle pillion passenger
-Peop978,19,17_to_25,Female,Motorcycle rider
-Peop979,0,0_to_16,Female,Pedestrian
-Peop980,38,26_to_39,Female,Pedal cyclist
-Peop981,11,0_to_16,Male,Motorcycle rider
-Peop982,21,17_to_25,Female,Motorcycle rider
-Peop983,38,26_to_39,Female,Motorcycle pillion passenger
-Peop984,16,0_to_16,Female,Motorcycle pillion passenger
-Peop985,25,17_to_25,Female,Pedal cyclist
-Peop986,62,40_to_64,Female,Motorcycle rider
-Peop987,10,0_to_16,Male,Motorcycle rider
-Peop988,0,0_to_16,Male,Driver
-Peop989,0,0_to_16,-9,Driver
-Peop990,6,0_to_16,Female,Pedestrian
-Peop991,-9,-9,Male,Pedestrian
-Peop992,0,0_to_16,Male,Pedal cyclist
-Peop993,24,17_to_25,Female,Motorcycle rider
-Peop994,29,26_to_39,Female,Pedal cyclist
-Peop995,3,0_to_16,Male,Pedal cyclist
-Peop996,36,26_to_39,Female,Motorcycle pillion passenger
-Peop997,18,17_to_25,Female,Pedal cyclist
-Peop998,66,65_to_74,Female,Motorcycle pillion passenger
-Peop999,83,75_or_older,Female,Pedal cyclist
-Peop1000,11,0_to_16,Female,Pedal cyclist
-Peop1001,89,75_or_older,Male,Motorcycle rider
-Peop1002,49,40_to_64,Male,Other/-9
-Peop1003,59,40_to_64,Female,Motorcycle pillion passenger
-Peop1004,21,17_to_25,Female,Motorcycle pillion passenger
-Peop1005,12,0_to_16,Female,Motorcycle pillion passenger
-Peop1006,40,40_to_64,Female,Motorcycle pillion passenger
-Peop1007,40,40_to_64,Male,Other/-9
-Peop1008,5,0_to_16,Male,Motorcycle rider
-Peop1009,51,40_to_64,Female,Other/-9
-Peop1010,73,65_to_74,Female,Pedal cyclist
-Peop1011,15,0_to_16,Female,Pedal cyclist
-Peop1012,54,40_to_64,Female,Pedal cyclist
-Peop1013,56,40_to_64,Female,Other/-9
-Peop1014,0,0_to_16,Female,Driver
-Peop1015,8,0_to_16,Male,Motorcycle rider
-Peop1016,8,0_to_16,Male,Motorcycle pillion passenger
-Peop1017,12,0_to_16,Male,Driver
-Peop1018,9,0_to_16,Male,Motorcycle rider
-Peop1019,10,0_to_16,Female,Pedal cyclist
-Peop1020,95,75_or_older,Male,Driver
-Peop1021,48,40_to_64,Female,Motorcycle pillion passenger
-Peop1022,44,40_to_64,Female,Motorcycle pillion passenger
-Peop1023,51,40_to_64,Female,Pedal cyclist
-Peop1024,-9,-9,Male,Pedal cyclist
-Peop1025,68,65_to_74,Female,Motorcycle rider
-Peop1026,53,40_to_64,Female,Pedal cyclist
-Peop1027,12,0_to_16,Male,Motorcycle pillion passenger
-Peop1028,10,0_to_16,Female,Other/-9
-Peop1029,75,75_or_older,Female,Pedal cyclist
-Peop1030,23,17_to_25,Female,Pedal cyclist
-Peop1031,5,0_to_16,Female,Pedal cyclist
-Peop1032,24,17_to_25,Male,Motorcycle pillion passenger
-Peop1033,28,26_to_39,Male,Motorcycle pillion passenger
-Peop1034,91,75_or_older,Male,Pedal cyclist
-Peop1035,71,65_to_74,Female,Pedal cyclist
-Peop1036,11,0_to_16,Male,Motorcycle pillion passenger
-Peop1037,7,0_to_16,Male,Motorcycle pillion passenger
-Peop1038,42,40_to_64,Male,Motorcycle pillion passenger
-Peop1039,30,26_to_39,Female,Motorcycle pillion passenger
-Peop1040,3,0_to_16,Female,Motorcycle rider
-Peop1041,6,0_to_16,Female,Pedal cyclist
-Peop1042,13,0_to_16,Female,Pedal cyclist
-Peop1043,24,17_to_25,Female,Pedal cyclist
-Peop1044,37,26_to_39,Male,Motorcycle pillion passenger
-Peop1045,16,0_to_16,Female,Pedal cyclist
-Peop1046,11,0_to_16,Female,Driver
-Peop1047,-9,-9,Female,Motorcycle pillion passenger
-Peop1048,23,17_to_25,Female,Other/-9
-Peop1049,71,65_to_74,Female,Motorcycle rider
-Peop1050,80,75_or_older,Male,Other/-9
-Peop1051,-9,-9,Male,Motorcycle rider
-Peop1052,17,17_to_25,Male,Other/-9
-Peop1053,90,75_or_older,Male,Pedal cyclist
-Peop1054,10,0_to_16,Female,Motorcycle rider
-Peop1055,13,0_to_16,Male,Motorcycle pillion passenger
-Peop1056,99,75_or_older,Male,Passenger
-Peop1057,14,0_to_16,Female,Motorcycle rider
-Peop1058,88,75_or_older,Male,Motorcycle rider
-Peop1059,68,65_to_74,Female,Motorcycle pillion passenger
-Peop1060,15,0_to_16,Male,Other/-9
-Peop1061,8,0_to_16,Female,Pedal cyclist
-Peop1062,14,0_to_16,Male,Other/-9
-Peop1063,12,0_to_16,Female,Pedal cyclist
-Peop1064,46,40_to_64,Female,Pedal cyclist
-Peop1065,34,26_to_39,Male,Motorcycle pillion passenger
-Peop1066,27,26_to_39,Female,Other/-9
-Peop1067,34,26_to_39,Female,Pedal cyclist
-Peop1068,9,0_to_16,Female,Pedal cyclist
-Peop1069,39,26_to_39,Female,Pedal cyclist
-Peop1070,35,26_to_39,Male,Motorcycle pillion passenger
-Peop1071,45,40_to_64,Male,Motorcycle pillion passenger
-Peop1072,14,0_to_16,Female,Motorcycle pillion passenger
-Peop1073,47,40_to_64,Male,Motorcycle pillion passenger
-Peop1074,11,0_to_16,Male,Driver
-Peop1075,29,26_to_39,Male,Motorcycle pillion passenger
-Peop1076,67,65_to_74,Female,Pedal cyclist
-Peop1077,7,0_to_16,Female,Pedal cyclist
+Peop5,62,40_to_64,Male,Passenger
+Peop6,61,40_to_64,Female,Passenger
+Peop7,47,40_to_64,Male,Motorcycle rider
+Peop8,69,65_to_74,Male,Driver
+Peop9,29,26_to_39,Female,Passenger
+Peop10,19,17_to_25,Male,Motorcycle rider
+Peop11,55,40_to_64,Female,Driver
+Peop12,45,40_to_64,Female,Driver
+Peop13,50,40_to_64,Male,Pedestrian
+Peop14,45,40_to_64,Male,Driver
+Peop15,61,40_to_64,Male,Driver
+Peop16,29,26_to_39,Male,Driver
+Peop17,33,26_to_39,Male,Driver
+Peop18,74,65_to_74,Male,Pedestrian
+Peop19,75,75_or_older,Female,Driver
+Peop20,25,17_to_25,Male,Driver
+Peop21,4,0_to_16,Male,Pedestrian
+Peop22,27,26_to_39,Male,Driver
+Peop23,66,65_to_74,Male,Driver
+Peop24,26,26_to_39,Female,Driver
+Peop25,65,65_to_74,Female,Pedestrian
+Peop26,60,40_to_64,Female,Pedestrian
+Peop27,18,17_to_25,Male,Motorcycle rider
+Peop28,33,26_to_39,Male,Pedestrian
+Peop29,41,40_to_64,Female,Driver
+Peop30,42,40_to_64,Male,Driver
+Peop31,32,26_to_39,Male,Driver
+Peop32,22,17_to_25,Male,Driver
+Peop33,21,17_to_25,Male,Passenger
+Peop34,38,26_to_39,Male,Driver
+Peop35,69,65_to_74,Male,Motorcycle rider
+Peop36,59,40_to_64,Female,Driver
+Peop37,68,65_to_74,Female,Passenger
+Peop38,51,40_to_64,Female,Driver
+Peop39,76,75_or_older,Male,Driver
+Peop40,35,26_to_39,Male,Motorcycle rider
+Peop41,55,40_to_64,Male,Motorcycle rider
+Peop42,63,40_to_64,Male,Motorcycle rider
+Peop43,64,40_to_64,Male,Motorcycle rider
+Peop44,66,65_to_74,Female,Passenger
+Peop45,61,40_to_64,Male,Pedal cyclist
+Peop46,30,26_to_39,Female,Driver
+Peop47,45,40_to_64,Male,Motorcycle rider
+Peop48,60,40_to_64,Male,Motorcycle rider
+Peop49,34,26_to_39,Male,Driver
+Peop50,27,26_to_39,Male,Motorcycle rider
+Peop51,26,26_to_39,Male,Driver
+Peop52,46,40_to_64,Male,Motorcycle rider
+Peop53,50,40_to_64,Female,Pedestrian
+Peop54,85,75_or_older,Female,Pedestrian
+Peop55,92,75_or_older,Female,Driver
+Peop56,89,75_or_older,Female,Pedestrian
+Peop57,21,17_to_25,Male,Motorcycle rider
+Peop58,74,65_to_74,Female,Driver
+Peop59,26,26_to_39,Male,Motorcycle rider
+Peop60,60,40_to_64,Female,Driver
+Peop61,59,40_to_64,Female,Passenger
+Peop62,77,75_or_older,Male,Motorcycle rider
+Peop63,63,40_to_64,Female,Driver
+Peop64,90,75_or_older,Female,Driver
+Peop65,31,26_to_39,Male,Passenger
+Peop66,24,17_to_25,Male,Driver
+Peop67,49,40_to_64,Male,Driver
+Peop68,27,26_to_39,Female,Pedestrian
+Peop69,21,17_to_25,Male,Driver
+Peop70,16,0_to_16,Male,Driver
+Peop71,22,17_to_25,Female,Passenger
+Peop72,24,17_to_25,Male,Motorcycle rider
+Peop73,21,17_to_25,Female,Driver
+Peop74,43,40_to_64,Male,Motorcycle rider
+Peop75,51,40_to_64,Male,Driver
+Peop76,23,17_to_25,Male,Passenger
+Peop77,74,65_to_74,-9,Motorcycle rider
+Peop78,80,75_or_older,Female,Passenger
+Peop79,-9,-9,Female,Pedestrian
+Peop80,76,75_or_older,Male,Pedestrian
+Peop81,67,65_to_74,Female,Pedestrian
+Peop82,64,40_to_64,Female,Pedestrian
+Peop83,17,17_to_25,Female,Driver
+Peop84,35,26_to_39,Male,Driver
+Peop85,71,65_to_74,Male,Motorcycle rider
+Peop86,41,40_to_64,Male,Driver
+Peop87,24,17_to_25,Female,Driver
+Peop88,54,40_to_64,Male,Driver
+Peop89,27,26_to_39,Male,Pedestrian
+Peop90,97,75_or_older,Female,Passenger
+Peop91,46,40_to_64,Male,Driver
+Peop92,83,75_or_older,Male,Driver
+Peop93,36,26_to_39,Male,Driver
+Peop94,70,65_to_74,Male,Driver
+Peop95,29,26_to_39,Female,Driver
+Peop96,39,26_to_39,Male,Motorcycle rider
+Peop97,39,26_to_39,Male,Driver
+Peop98,43,40_to_64,Male,Driver
+Peop99,25,17_to_25,Male,Motorcycle rider
+Peop100,61,40_to_64,Male,Motorcycle rider
+Peop101,52,40_to_64,Male,Driver
+Peop102,22,17_to_25,Male,Motorcycle rider
+Peop103,53,40_to_64,Male,Driver
+Peop104,44,40_to_64,Male,Motorcycle rider
+Peop105,57,40_to_64,Female,Passenger
+Peop106,69,65_to_74,Male,Other/-9
+Peop107,18,17_to_25,Male,Driver
+Peop108,47,40_to_64,Male,Driver
+Peop109,18,17_to_25,Male,Passenger
+Peop110,44,40_to_64,Female,Passenger
+Peop111,64,40_to_64,Female,Passenger
+Peop112,17,17_to_25,Male,Driver
+Peop113,43,40_to_64,Female,Pedestrian
+Peop114,83,75_or_older,Female,Driver
+Peop115,71,65_to_74,Male,Pedal cyclist
+Peop116,87,75_or_older,Male,Passenger
+Peop117,58,40_to_64,Female,Pedestrian
+Peop118,15,0_to_16,Male,Driver
+Peop119,81,75_or_older,Female,Passenger
+Peop120,63,40_to_64,Male,Pedestrian
+Peop121,38,26_to_39,Male,Motorcycle rider
+Peop122,36,26_to_39,Male,Pedal cyclist
+Peop123,18,17_to_25,Female,Driver
+Peop124,76,75_or_older,Female,Pedestrian
+Peop125,40,40_to_64,Female,Pedestrian
+Peop126,77,75_or_older,Female,Driver
+Peop127,56,40_to_64,Male,Driver
+Peop128,78,75_or_older,Female,Driver
+Peop129,76,75_or_older,Female,Driver
+Peop130,28,26_to_39,Male,Passenger
+Peop131,63,40_to_64,Male,Driver
+Peop132,25,17_to_25,Male,Passenger
+Peop133,29,26_to_39,Male,Pedestrian
+Peop134,37,26_to_39,Male,Driver
+Peop135,71,65_to_74,Female,Pedestrian
+Peop136,42,40_to_64,Female,Driver
+Peop137,15,0_to_16,Female,Driver
+Peop138,60,40_to_64,Female,Passenger
+Peop139,57,40_to_64,Male,Driver
+Peop140,30,26_to_39,Male,Driver
+Peop141,48,40_to_64,Female,Pedestrian
+Peop142,54,40_to_64,Male,Motorcycle rider
+Peop143,60,40_to_64,Female,Motorcycle rider
+Peop144,68,65_to_74,Male,Motorcycle rider
+Peop145,66,65_to_74,Male,Motorcycle rider
+Peop146,65,65_to_74,Male,Pedal cyclist
+Peop147,19,17_to_25,Male,Passenger
+Peop148,20,17_to_25,Male,Driver
+Peop149,66,65_to_74,Male,Pedal cyclist
+Peop150,35,26_to_39,Male,Pedestrian
+Peop151,28,26_to_39,Male,Pedestrian
+Peop152,30,26_to_39,Male,Passenger
+Peop153,31,26_to_39,Female,Pedestrian
+Peop154,62,40_to_64,Male,Driver
+Peop155,69,65_to_74,Female,Driver
+Peop156,83,75_or_older,Female,Pedestrian
+Peop157,16,0_to_16,Male,Passenger
+Peop158,46,40_to_64,Female,Driver
+Peop159,66,65_to_74,Male,Passenger
+Peop160,31,26_to_39,Male,Driver
+Peop161,60,40_to_64,Male,Driver
+Peop162,23,17_to_25,Female,Driver
+Peop163,82,75_or_older,Male,Passenger
+Peop164,43,40_to_64,Male,Pedal cyclist
+Peop165,21,17_to_25,Female,Pedestrian
+Peop166,32,26_to_39,Male,Motorcycle rider
+Peop167,31,26_to_39,Female,Driver
+Peop168,40,40_to_64,Female,Driver
+Peop169,96,75_or_older,Male,Driver
+Peop170,40,40_to_64,Female,Passenger
+Peop171,13,0_to_16,Male,Passenger
+Peop172,62,40_to_64,Female,Pedestrian
+Peop173,47,40_to_64,Female,Pedestrian
+Peop174,12,0_to_16,Male,Other/-9
+Peop175,37,26_to_39,Male,Passenger
+Peop176,81,75_or_older,Male,Pedestrian
+Peop177,80,75_or_older,Female,Pedestrian
+Peop178,76,75_or_older,Female,Passenger
+Peop179,55,40_to_64,Female,Motorcycle rider
+Peop180,44,40_to_64,Female,Driver
+Peop181,28,26_to_39,Male,Motorcycle rider
+Peop182,15,0_to_16,Male,Unknown
+Peop183,91,75_or_older,Male,Pedestrian
+Peop184,11,0_to_16,Female,Passenger
+Peop185,53,40_to_64,Female,Driver
+Peop186,73,65_to_74,Male,Driver
+Peop187,48,40_to_64,Female,Driver
+Peop188,57,40_to_64,Female,Driver
+Peop189,31,26_to_39,Male,Other/-9
+Peop190,69,65_to_74,Male,Pedestrian
+Peop191,51,40_to_64,Male,Motorcycle rider
+Peop192,34,26_to_39,Male,Passenger
+Peop193,22,17_to_25,Male,Passenger
+Peop194,73,65_to_74,Male,Motorcycle rider
+Peop195,78,75_or_older,Female,Passenger
+Peop196,74,65_to_74,Female,Passenger
+Peop197,20,17_to_25,Male,Motorcycle rider
+Peop198,31,26_to_39,Female,Passenger
+Peop199,40,40_to_64,Male,Driver
+Peop200,24,17_to_25,Female,Pedestrian
+Peop201,14,0_to_16,Male,Passenger
+Peop202,41,40_to_64,Male,Motorcycle rider
+Peop203,90,75_or_older,Male,Pedestrian
+Peop204,48,40_to_64,Male,Motorcycle rider
+Peop205,34,26_to_39,Female,Motorcycle rider
+Peop206,58,40_to_64,Male,Passenger
+Peop207,5,0_to_16,Male,Passenger
+Peop208,15,0_to_16,Female,Passenger
+Peop209,37,26_to_39,Male,Motorcycle rider
+Peop210,70,65_to_74,Female,Pedestrian
+Peop211,2,0_to_16,Female,Pedestrian
+Peop212,59,40_to_64,Female,Motorcycle rider
+Peop213,76,75_or_older,Male,Motorcycle rider
+Peop214,44,40_to_64,Male,Driver
+Peop215,56,40_to_64,Male,Motorcycle rider
+Peop216,77,75_or_older,Male,Driver
+Peop217,65,65_to_74,Male,Motorcycle rider
+Peop218,59,40_to_64,Male,Motorcycle rider
+Peop219,33,26_to_39,Female,Motorcycle rider
+Peop220,34,26_to_39,Female,Unknown
+Peop221,11,0_to_16,Male,Pedestrian
+Peop222,39,26_to_39,Female,Pedestrian
+Peop223,30,26_to_39,Male,Motorcycle rider
+Peop224,14,0_to_16,Male,Motorcycle rider
+Peop225,24,17_to_25,Female,Passenger
+Peop226,49,40_to_64,Female,Pedestrian
+Peop227,78,75_or_older,Male,Pedestrian
+Peop228,9,0_to_16,Male,Pedal cyclist
+Peop229,15,0_to_16,Male,Motorcycle rider
+Peop230,37,26_to_39,Male,Pedestrian
+Peop231,52,40_to_64,Male,Pedestrian
+Peop232,1,0_to_16,Female,Pedestrian
+Peop233,52,40_to_64,Female,Driver
+Peop234,93,75_or_older,Female,Driver
+Peop235,87,75_or_older,Male,Driver
+Peop236,94,75_or_older,Male,Driver
+Peop237,83,75_or_older,Male,Passenger
+Peop238,31,26_to_39,Male,Motorcycle rider
+Peop239,34,26_to_39,Male,Motorcycle rider
+Peop240,23,17_to_25,Male,Motorcycle rider
+Peop241,27,26_to_39,Female,Driver
+Peop242,65,65_to_74,Female,Driver
+Peop243,72,65_to_74,Male,Driver
+Peop244,81,75_or_older,Male,Driver
+Peop245,15,0_to_16,Female,Unknown
+Peop246,79,75_or_older,Female,Pedestrian
+Peop247,23,17_to_25,Male,Driver
+Peop248,58,40_to_64,Male,Driver
+Peop249,74,65_to_74,Female,Pedestrian
+Peop250,32,26_to_39,Male,Pedestrian
+Peop251,53,40_to_64,Male,Pedestrian
+Peop252,84,75_or_older,Male,Passenger
+Peop253,50,40_to_64,Male,Motorcycle rider
+Peop254,-9,-9,Male,Pedestrian
+Peop255,65,65_to_74,Male,Driver
+Peop256,22,17_to_25,Female,Driver
+Peop257,48,40_to_64,Male,Driver
+Peop258,50,40_to_64,Male,Pedal cyclist
+Peop259,17,17_to_25,Male,Passenger
+Peop260,35,26_to_39,Female,Pedestrian
+Peop261,56,40_to_64,Female,Driver
+Peop262,81,75_or_older,Male,Pedal cyclist
+Peop263,80,75_or_older,Female,Driver
+Peop264,49,40_to_64,Male,Passenger
+Peop265,36,26_to_39,Male,Pedestrian
+Peop266,57,40_to_64,Male,Motorcycle rider
+Peop267,28,26_to_39,Male,Driver
+Peop268,58,40_to_64,Male,Motorcycle rider
+Peop269,15,0_to_16,Female,Pedestrian
+Peop270,54,40_to_64,Male,Passenger
+Peop271,62,40_to_64,Male,Pedestrian
+Peop272,45,40_to_64,Female,Unknown
+Peop273,39,26_to_39,Male,Pedestrian
+Peop274,26,26_to_39,Female,Passenger
+Peop275,50,40_to_64,Male,Driver
+Peop276,57,40_to_64,Male,Pedestrian
+Peop277,64,40_to_64,Male,Driver
+Peop278,68,65_to_74,Male,Driver
+Peop279,-9,-9,Female,Other/-9
+Peop280,54,40_to_64,Female,Driver
+Peop281,63,40_to_64,Female,Pedestrian
+Peop282,13,0_to_16,Male,Pedestrian
+Peop283,29,26_to_39,Male,Motorcycle rider
+Peop284,56,40_to_64,Male,Pedestrian
+Peop285,73,65_to_74,Male,Pedestrian
+Peop286,19,17_to_25,Male,Driver
+Peop287,78,75_or_older,Male,Motorcycle rider
+Peop288,85,75_or_older,Male,Driver
+Peop289,70,65_to_74,Male,Motorcycle rider
+Peop290,42,40_to_64,Male,Pedal cyclist
+Peop291,66,65_to_74,Male,Pedestrian
+Peop292,20,17_to_25,Male,Motorcycle pillion passenger
+Peop293,49,40_to_64,Male,Pedestrian
+Peop294,61,40_to_64,Male,Pedestrian
+Peop295,55,40_to_64,Male,Driver
+Peop296,79,75_or_older,Male,Driver
+Peop297,68,65_to_74,Female,Pedestrian
+Peop298,6,0_to_16,Male,Passenger
+Peop299,0,0_to_16,Male,Passenger
+Peop300,21,17_to_25,Female,Passenger
+Peop301,33,26_to_39,Female,Passenger
+Peop302,49,40_to_64,Male,Pedal cyclist
+Peop303,35,26_to_39,Female,Passenger
+Peop304,-9,-9,Female,Passenger
+Peop305,68,65_to_74,Female,Pedal cyclist
+Peop306,79,75_or_older,Male,Pedestrian
+Peop307,37,26_to_39,Female,Pedestrian
+Peop308,37,26_to_39,Female,Driver
+Peop309,27,26_to_39,Male,Pedal cyclist
+Peop310,75,75_or_older,Male,Driver
+Peop311,67,65_to_74,Male,Pedestrian
+Peop312,36,26_to_39,Female,Passenger
+Peop313,3,0_to_16,Female,Passenger
+Peop314,42,40_to_64,Female,Pedestrian
+Peop315,70,65_to_74,Male,Pedestrian
+Peop316,71,65_to_74,Male,Driver
+Peop317,63,40_to_64,Female,Passenger
+Peop318,27,26_to_39,Male,Passenger
+Peop319,96,75_or_older,Female,Pedestrian
+Peop320,59,40_to_64,Male,Driver
+Peop321,80,75_or_older,Male,Pedestrian
+Peop322,20,17_to_25,Female,Pedestrian
+Peop323,78,75_or_older,Male,Driver
+Peop324,49,40_to_64,Male,Motorcycle rider
+Peop325,17,17_to_25,Male,Motorcycle rider
+Peop326,32,26_to_39,Male,Other/-9
+Peop327,8,0_to_16,Male,Passenger
+Peop328,63,40_to_64,Male,Pedal cyclist
+Peop329,56,40_to_64,Female,Pedal cyclist
+Peop330,20,17_to_25,Male,Passenger
+Peop331,18,17_to_25,Female,Passenger
+Peop332,20,17_to_25,Female,Passenger
+Peop333,16,0_to_16,Male,Motorcycle rider
+Peop334,67,65_to_74,Male,Driver
+Peop335,77,75_or_older,-9,Passenger
+Peop336,69,65_to_74,Male,Pedal cyclist
+Peop337,28,26_to_39,Female,Driver
+Peop338,3,0_to_16,Male,Passenger
+Peop339,30,26_to_39,Female,Unknown
+Peop340,84,75_or_older,Male,Driver
+Peop341,85,75_or_older,Female,Driver
+Peop342,11,0_to_16,Male,Pedal cyclist
+Peop343,83,75_or_older,Male,Pedestrian
+Peop344,60,40_to_64,Male,Passenger
+Peop345,40,40_to_64,Male,Pedestrian
+Peop346,78,75_or_older,Male,Passenger
+Peop347,2,0_to_16,Male,Passenger
+Peop348,72,65_to_74,Female,Driver
+Peop349,17,17_to_25,Female,Passenger
+Peop350,80,75_or_older,Male,Driver
+Peop351,26,26_to_39,Female,Motorcycle rider
+Peop352,26,26_to_39,Male,Passenger
+Peop353,83,75_or_older,Female,Passenger
+Peop354,82,75_or_older,Female,Driver
+Peop355,30,26_to_39,Male,Pedestrian
+Peop356,29,26_to_39,Female,Pedestrian
+Peop357,44,40_to_64,Male,Pedestrian
+Peop358,81,75_or_older,Female,Pedestrian
+Peop359,36,26_to_39,Male,Motorcycle rider
+Peop360,63,40_to_64,Male,Passenger
+Peop361,24,17_to_25,Male,Passenger
+Peop362,-9,-9,-9,Driver
+Peop363,71,65_to_74,Female,Passenger
+Peop364,77,75_or_older,Female,Pedestrian
+Peop365,57,40_to_64,Male,Pedal cyclist
+Peop366,56,40_to_64,Female,Passenger
+Peop367,68,65_to_74,Female,Driver
+Peop368,54,40_to_64,Male,Pedal cyclist
+Peop369,-9,-9,Male,Pedal cyclist
+Peop370,47,40_to_64,Male,Pedal cyclist
+Peop371,43,40_to_64,Male,Passenger
+Peop372,56,40_to_64,-9,Motorcycle rider
+Peop373,43,40_to_64,Male,Pedestrian
+Peop374,20,17_to_25,Female,Motorcycle rider
+Peop375,82,75_or_older,Female,Pedestrian
+Peop376,61,40_to_64,Female,Pedestrian
+Peop377,90,75_or_older,Male,Driver
+Peop378,40,40_to_64,Male,Motorcycle rider
+Peop379,87,75_or_older,Male,Pedestrian
+Peop380,33,26_to_39,Male,Motorcycle rider
+Peop381,40,40_to_64,Male,Pedal cyclist
+Peop382,73,65_to_74,Female,Pedestrian
+Peop383,19,17_to_25,Female,Pedestrian
+Peop384,32,26_to_39,Female,Pedestrian
+Peop385,41,40_to_64,Male,Passenger
+Peop386,93,75_or_older,Male,Driver
+Peop387,84,75_or_older,Female,Driver
+Peop388,-9,-9,-9,Passenger
+Peop389,18,17_to_25,Male,Pedestrian
+Peop390,35,26_to_39,Female,Driver
+Peop391,38,26_to_39,Female,Driver
+Peop392,89,75_or_older,Female,Driver
+Peop393,90,75_or_older,Male,Other/-9
+Peop394,62,40_to_64,Female,Driver
+Peop395,24,17_to_25,Female,Motorcycle pillion passenger
+Peop396,38,26_to_39,Male,Pedestrian
+Peop397,20,17_to_25,Female,Driver
+Peop398,79,75_or_older,Male,Motorcycle rider
+Peop399,79,75_or_older,Female,Driver
+Peop400,42,40_to_64,Male,Pedestrian
+Peop401,9,0_to_16,Male,Passenger
+Peop402,45,40_to_64,Male,Passenger
+Peop403,4,0_to_16,Male,Passenger
+Peop404,53,40_to_64,Male,Motorcycle rider
+Peop405,32,26_to_39,Female,Passenger
+Peop406,12,0_to_16,Male,Pedestrian
+Peop407,16,0_to_16,Female,Passenger
+Peop408,50,40_to_64,Female,Driver
+Peop409,76,75_or_older,Male,Pedal cyclist
+Peop410,70,65_to_74,Male,Pedal cyclist
+Peop411,28,26_to_39,Female,Passenger
+Peop412,82,75_or_older,Female,Passenger
+Peop413,73,65_to_74,Female,Driver
+Peop414,91,75_or_older,Female,Passenger
+Peop415,31,26_to_39,Male,Pedal cyclist
+Peop416,43,40_to_64,Female,Passenger
+Peop417,59,40_to_64,Male,Pedestrian
+Peop418,30,26_to_39,Female,Pedestrian
+Peop419,72,65_to_74,Male,Motorcycle rider
+Peop420,67,65_to_74,Female,Motorcycle rider
+Peop421,74,65_to_74,Male,Motorcycle rider
+Peop422,66,65_to_74,Female,Driver
+Peop423,53,40_to_64,Male,Pedal cyclist
+Peop424,41,40_to_64,Female,Passenger
+Peop425,49,40_to_64,Female,Driver
+Peop426,15,0_to_16,Female,Motorcycle pillion passenger
+Peop427,78,75_or_older,Female,Pedestrian
+Peop428,70,65_to_74,Female,Driver
+Peop429,26,26_to_39,Male,Pedestrian
+Peop430,68,65_to_74,Male,Passenger
+Peop431,86,75_or_older,Male,Driver
+Peop432,75,75_or_older,Female,Passenger
+Peop433,15,0_to_16,Male,Passenger
+Peop434,91,75_or_older,Male,Driver
+Peop435,13,0_to_16,Male,Unknown
+Peop436,45,40_to_64,Female,Pedestrian
+Peop437,42,40_to_64,Male,Motorcycle rider
+Peop438,18,17_to_25,Female,Pedestrian
+Peop439,25,17_to_25,Female,Motorcycle rider
+Peop440,21,17_to_25,Male,Pedestrian
+Peop441,15,0_to_16,Male,Pedal cyclist
+Peop442,54,40_to_64,Female,Passenger
+Peop443,39,26_to_39,Female,Driver
+Peop444,72,65_to_74,Male,Pedestrian
+Peop445,47,40_to_64,Female,Driver
+Peop446,62,40_to_64,Male,Pedal cyclist
+Peop447,65,65_to_74,Male,Pedestrian
+Peop448,27,26_to_39,Male,Other/-9
+Peop449,-9,-9,Male,Other/-9
+Peop450,13,0_to_16,Female,Other/-9
+Peop451,59,40_to_64,Female,Pedestrian
+Peop452,41,40_to_64,Female,Motorcycle rider
+Peop453,17,17_to_25,Male,Pedestrian
+Peop454,-9,-9,Male,Passenger
+Peop455,31,26_to_39,Male,Pedestrian
+Peop456,20,17_to_25,Male,Pedestrian
+Peop457,36,26_to_39,Female,Pedal cyclist
+Peop458,17,17_to_25,Male,Motorcycle pillion passenger
+Peop459,51,40_to_64,Male,Pedestrian
+Peop460,64,40_to_64,Male,Pedestrian
+Peop461,23,17_to_25,Female,Passenger
+Peop462,19,17_to_25,Female,Passenger
+Peop463,70,65_to_74,Male,Other/-9
+Peop464,82,75_or_older,Male,Driver
+Peop465,47,40_to_64,Female,Passenger
+Peop466,70,65_to_74,Female,Passenger
+Peop467,34,26_to_39,Female,Passenger
+Peop468,30,26_to_39,Female,Pedal cyclist
+Peop469,42,40_to_64,Male,Passenger
+Peop470,50,40_to_64,Male,Passenger
+Peop471,58,40_to_64,Male,Pedal cyclist
+Peop472,53,40_to_64,Female,Motorcycle rider
+Peop473,27,26_to_39,Female,Passenger
+Peop474,7,0_to_16,Female,Passenger
+Peop475,93,75_or_older,Female,Pedestrian
+Peop476,55,40_to_64,Female,Pedestrian
+Peop477,3,0_to_16,Female,Pedestrian
+Peop478,51,40_to_64,Male,Pedal cyclist
+Peop479,79,75_or_older,Female,Passenger
+Peop480,-9,-9,Male,Driver
+Peop481,50,40_to_64,Female,Passenger
+Peop482,16,0_to_16,Male,Pedestrian
+Peop483,27,26_to_39,Male,Unknown
+Peop484,90,75_or_older,Female,Passenger
+Peop485,11,0_to_16,Male,Passenger
+Peop486,23,17_to_25,Female,Motorcycle pillion passenger
+Peop487,35,26_to_39,Male,Unknown
+Peop488,69,65_to_74,Female,Pedestrian
+Peop489,52,40_to_64,Male,Motorcycle rider
+Peop490,41,40_to_64,Male,Other/-9
+Peop491,88,75_or_older,Male,Driver
+Peop492,64,40_to_64,Male,Pedal cyclist
+Peop493,12,0_to_16,Female,Passenger
+Peop494,61,40_to_64,Female,Driver
+Peop495,48,40_to_64,Female,Passenger
+Peop496,28,26_to_39,Male,Unknown
+Peop497,29,26_to_39,Male,Passenger
+Peop498,25,17_to_25,Female,Driver
+Peop499,38,26_to_39,Female,Passenger
+Peop500,89,75_or_older,Female,Passenger
+Peop501,15,0_to_16,Male,Other/-9
+Peop502,44,40_to_64,Male,Other/-9
+Peop503,92,75_or_older,Female,Pedestrian
+Peop504,57,40_to_64,Male,Passenger
+Peop505,2,0_to_16,Male,Pedestrian
+Peop506,85,75_or_older,Male,Motorcycle rider
+Peop507,41,40_to_64,Female,Other/-9
+Peop508,62,40_to_64,Female,Passenger
+Peop509,25,17_to_25,Female,Passenger
+Peop510,7,0_to_16,Male,Pedestrian
+Peop511,85,75_or_older,Female,Passenger
+Peop512,67,65_to_74,Female,Driver
+Peop513,77,75_or_older,Male,Pedestrian
+Peop514,56,40_to_64,Female,Motorcycle rider
+Peop515,85,75_or_older,Male,Pedestrian
+Peop516,65,65_to_74,Female,Passenger
+Peop517,65,65_to_74,Female,Motorcycle rider
+Peop518,22,17_to_25,Male,Pedestrian
+Peop519,38,26_to_39,Male,Passenger
+Peop520,22,17_to_25,Female,Pedestrian
+Peop521,62,40_to_64,Male,Motorcycle rider
+Peop522,82,75_or_older,Male,Motorcycle rider
+Peop523,37,26_to_39,Male,Pedal cyclist
+Peop524,44,40_to_64,Female,Pedestrian
+Peop525,9,0_to_16,Female,Pedestrian
+Peop526,47,40_to_64,Male,Pedestrian
+Peop527,75,75_or_older,Male,Motorcycle rider
+Peop528,58,40_to_64,Female,Driver
+Peop529,77,75_or_older,Female,Passenger
+Peop530,31,26_to_39,Female,Motorcycle pillion passenger
+Peop531,5,0_to_16,Female,Passenger
+Peop532,88,75_or_older,Female,Passenger
+Peop533,82,75_or_older,Male,Pedestrian
+Peop534,82,75_or_older,Male,Pedal cyclist
+Peop535,39,26_to_39,Male,Passenger
+Peop536,78,75_or_older,Male,Pedal cyclist
+Peop537,84,75_or_older,Male,Pedestrian
+Peop538,90,75_or_older,Male,Passenger
+Peop539,67,65_to_74,Male,Motorcycle rider
+Peop540,58,40_to_64,Male,Pedestrian
+Peop541,72,65_to_74,Male,Pedal cyclist
+Peop542,61,40_to_64,Male,Unknown
+Peop543,100,75_or_older,Female,Passenger
+Peop544,75,75_or_older,Male,Passenger
+Peop545,84,75_or_older,Female,Passenger
+Peop546,86,75_or_older,Male,Passenger
+Peop547,84,75_or_older,Female,Pedestrian
+Peop548,70,65_to_74,Male,Passenger
+Peop549,5,0_to_16,Female,Other/-9
+Peop550,4,0_to_16,Female,Other/-9
+Peop551,1,0_to_16,Female,Other/-9
+Peop552,9,0_to_16,Female,Other/-9
+Peop553,33,26_to_39,Male,Passenger
+Peop554,37,26_to_39,Female,Passenger
+Peop555,56,40_to_64,Male,Passenger
+Peop556,87,75_or_older,Female,Pedestrian
+Peop557,55,40_to_64,Male,Passenger
+Peop558,8,0_to_16,Female,Passenger
+Peop559,18,17_to_25,Female,Motorcycle rider
+Peop560,35,26_to_39,Female,Motorcycle pillion passenger
+Peop561,88,75_or_older,Female,Pedestrian
+Peop562,25,17_to_25,Male,Pedestrian
+Peop563,86,75_or_older,Female,Passenger
+Peop564,32,26_to_39,Male,Passenger
+Peop565,71,65_to_74,Male,Pedestrian
+Peop566,10,0_to_16,Male,Passenger
+Peop567,36,26_to_39,Male,Passenger
+Peop568,66,65_to_74,Female,Pedestrian
+Peop569,69,65_to_74,Female,Passenger
+Peop570,73,65_to_74,Male,Passenger
+Peop571,73,65_to_74,Female,Passenger
+Peop572,49,40_to_64,Female,Motorcycle rider
+Peop573,48,40_to_64,Male,Pedestrian
+Peop574,86,75_or_older,Female,Pedestrian
+Peop575,26,26_to_39,Male,Pedal cyclist
+Peop576,91,75_or_older,Male,Passenger
+Peop577,24,17_to_25,Male,Pedestrian
+Peop578,44,40_to_64,Male,Passenger
+Peop579,52,40_to_64,Female,Passenger
+Peop580,41,40_to_64,Male,Pedal cyclist
+Peop581,17,17_to_25,Female,Pedal cyclist
+Peop582,5,0_to_16,Male,Pedestrian
+Peop583,67,65_to_74,Male,Pedal cyclist
+Peop584,34,26_to_39,Female,Driver
+Peop585,59,40_to_64,Male,Pedal cyclist
+Peop586,60,40_to_64,Male,Unknown
+Peop587,46,40_to_64,Male,Pedestrian
+Peop588,0,0_to_16,Male,Pedestrian
+Peop589,30,26_to_39,Female,Passenger
+Peop590,35,26_to_39,Male,Passenger
+Peop591,26,26_to_39,Female,Pedestrian
+Peop592,55,40_to_64,Male,Pedestrian
+Peop593,73,65_to_74,Male,Pedal cyclist
+Peop594,69,65_to_74,Male,Passenger
+Peop595,14,0_to_16,Female,Passenger
+Peop596,22,17_to_25,Male,Pedal cyclist
+Peop597,42,40_to_64,Female,Passenger
+Peop598,92,75_or_older,Male,Driver
+Peop599,56,40_to_64,Female,Pedestrian
+Peop600,41,40_to_64,Male,Pedestrian
+Peop601,16,0_to_16,Female,Pedestrian
+Peop602,23,17_to_25,Female,Motorcycle rider
+Peop603,87,75_or_older,Female,Passenger
+Peop604,45,40_to_64,Male,Pedestrian
+Peop605,86,75_or_older,Male,Pedestrian
+Peop606,36,26_to_39,Female,Driver
+Peop607,12,0_to_16,Male,Passenger
+Peop608,23,17_to_25,Male,Pedestrian
+Peop609,88,75_or_older,Female,Driver
+Peop610,71,65_to_74,Female,Driver
+Peop611,0,0_to_16,Female,Passenger
+Peop612,94,75_or_older,Male,Passenger
+Peop613,51,40_to_64,Female,Passenger
+Peop614,87,75_or_older,Female,Driver
+Peop615,81,75_or_older,Female,Driver
+Peop616,86,75_or_older,Female,Driver
+Peop617,18,17_to_25,Male,Pedal cyclist
+Peop618,89,75_or_older,Male,Passenger
+Peop619,83,75_or_older,Male,Motorcycle rider
+Peop620,93,75_or_older,Male,Passenger
+Peop621,99,75_or_older,Female,Pedestrian
+Peop622,57,40_to_64,Female,Motorcycle rider
+Peop623,14,0_to_16,Male,Pedestrian
+Peop624,68,65_to_74,Male,Pedal cyclist
+Peop625,54,40_to_64,Female,Motorcycle pillion passenger
+Peop626,61,40_to_64,Female,Motorcycle rider
+Peop627,43,40_to_64,Female,Driver
+Peop628,51,40_to_64,Male,Passenger
+Peop629,19,17_to_25,Female,Motorcycle rider
+Peop630,75,75_or_older,Female,Pedestrian
+Peop631,45,40_to_64,Male,Pedal cyclist
+Peop632,64,40_to_64,Female,Driver
+Peop633,4,0_to_16,Female,Passenger
+Peop634,83,75_or_older,Male,Pedal cyclist
+Peop635,40,40_to_64,Male,Passenger
+Peop636,1,0_to_16,Female,Passenger
+Peop637,47,40_to_64,Male,Passenger
+Peop638,53,40_to_64,Male,Passenger
+Peop639,48,40_to_64,Male,Passenger
+Peop640,80,75_or_older,Male,Passenger
+Peop641,95,75_or_older,Female,Pedestrian
+Peop642,79,75_or_older,Male,Passenger
+Peop643,53,40_to_64,Female,Pedestrian
+Peop644,25,17_to_25,Female,Pedestrian
+Peop645,60,40_to_64,Male,Pedestrian
+Peop646,98,75_or_older,Female,Passenger
+Peop647,34,26_to_39,Male,Pedestrian
+Peop648,96,75_or_older,Female,Passenger
+Peop649,37,26_to_39,Female,Motorcycle pillion passenger
+Peop650,46,40_to_64,Male,Passenger
+Peop651,55,40_to_64,Male,Pedal cyclist
+Peop652,29,26_to_39,Male,Pedal cyclist
+Peop653,52,40_to_64,Female,Pedestrian
+Peop654,100,75_or_older,Male,Passenger
+Peop655,72,65_to_74,Female,Pedestrian
+Peop656,47,40_to_64,Female,Motorcycle rider
+Peop657,8,0_to_16,Male,Pedestrian
+Peop658,4,0_to_16,Female,Pedestrian
+Peop659,89,75_or_older,Male,Driver
+Peop660,37,26_to_39,-9,Motorcycle rider
+Peop661,28,26_to_39,Female,Other/-9
+Peop662,33,26_to_39,Female,Other/-9
+Peop663,15,0_to_16,Male,Pedestrian
+Peop664,86,75_or_older,Male,Pedal cyclist
+Peop665,75,75_or_older,Male,Pedal cyclist
+Peop666,61,40_to_64,Male,Passenger
+Peop667,56,40_to_64,Male,Pedal cyclist
+Peop668,19,17_to_25,Female,Other/-9
+Peop669,94,75_or_older,Female,Driver
+Peop670,53,40_to_64,Male,Motorcycle pillion passenger
+Peop671,72,65_to_74,Male,Passenger
+Peop672,88,75_or_older,Male,Passenger
+Peop673,67,65_to_74,Female,Passenger
+Peop674,39,26_to_39,Female,Passenger
+Peop675,22,17_to_25,Male,Motorcycle pillion passenger
+Peop676,1,0_to_16,Male,Pedestrian
+Peop677,52,40_to_64,Female,Motorcycle rider
+Peop678,45,40_to_64,Female,Pedal cyclist
+Peop679,7,0_to_16,Male,Passenger
+Peop680,13,0_to_16,Male,Driver
+Peop681,38,26_to_39,Female,Pedestrian
+Peop682,3,0_to_16,Male,Pedestrian
+Peop683,49,40_to_64,Female,Passenger
+Peop684,36,26_to_39,Female,Other/-9
+Peop685,47,40_to_64,Male,Other/-9
+Peop686,52,40_to_64,Male,Passenger
+Peop687,19,17_to_25,Male,Pedestrian
+Peop688,47,40_to_64,Female,Pedal cyclist
+Peop689,46,40_to_64,Male,Other/-9
+Peop690,19,17_to_25,Female,Motorcycle pillion passenger
+Peop691,92,75_or_older,Male,Pedestrian
+Peop692,19,-9,Male,Driver
+Peop693,70,65_to_74,Female,Pedal cyclist
+Peop694,56,40_to_64,Male,Other/-9
+Peop695,54,40_to_64,Female,Pedestrian
+Peop696,44,40_to_64,Male,Pedal cyclist
+Peop697,93,75_or_older,Female,Passenger
+Peop698,27,26_to_39,Female,Motorcycle pillion passenger
+Peop699,32,26_to_39,Male,Motorcycle pillion passenger
+Peop700,90,75_or_older,Female,Pedestrian
+Peop701,12,0_to_16,Female,Pedestrian
+Peop702,13,0_to_16,Male,Other/-9
+Peop703,80,75_or_older,Male,Pedal cyclist
+Peop704,51,40_to_64,Female,Pedestrian
+Peop705,98,75_or_older,Female,Driver
+Peop706,72,65_to_74,Female,Passenger
+Peop707,80,75_or_older,Male,Motorcycle rider
+Peop708,39,26_to_39,Male,Motorcycle pillion passenger
+Peop709,23,17_to_25,Female,Pedestrian
+Peop710,74,65_to_74,Male,Pedal cyclist
+Peop711,2,0_to_16,Female,Passenger
+Peop712,20,17_to_25,Male,Pedal cyclist
+Peop713,89,75_or_older,Male,Pedal cyclist
+Peop714,81,75_or_older,Male,Motorcycle rider
+Peop715,89,75_or_older,Male,Pedestrian
+Peop716,79,75_or_older,Male,Pedal cyclist
+Peop717,84,75_or_older,Female,Motorcycle rider
+Peop718,88,75_or_older,Male,Other/-9
+Peop719,57,40_to_64,Female,Pedestrian
+Peop720,54,40_to_64,Male,Pedestrian
+Peop721,17,17_to_25,Female,Motorcycle pillion passenger
+Peop722,65,65_to_74,Male,Passenger
+Peop723,94,75_or_older,Female,Passenger
+Peop724,55,40_to_64,Female,Passenger
+Peop725,60,40_to_64,Male,Pedal cyclist
+Peop726,68,65_to_74,Male,Pedestrian
+Peop727,58,40_to_64,Female,Passenger
+Peop728,85,75_or_older,Male,Passenger
+Peop729,19,17_to_25,Male,Other/-9
+Peop730,28,26_to_39,Female,Pedestrian
+Peop731,52,40_to_64,Male,Pedal cyclist
+Peop732,63,40_to_64,Female,Pedal cyclist
+Peop733,6,0_to_16,Female,Passenger
+Peop734,91,75_or_older,Female,Driver
+Peop735,1,0_to_16,Male,Passenger
+Peop736,46,40_to_64,Female,Passenger
+Peop737,40,40_to_64,Female,Motorcycle rider
+Peop738,67,65_to_74,Male,Passenger
+Peop739,61,40_to_64,Male,Other/-9
+Peop740,79,75_or_older,Female,Pedal cyclist
+Peop741,84,75_or_older,Male,Pedal cyclist
+Peop742,88,75_or_older,Male,Pedestrian
+Peop743,64,40_to_64,Male,Passenger
+Peop744,48,40_to_64,Female,Other/-9
+Peop745,54,40_to_64,Male,Other/-9
+Peop746,14,0_to_16,Female,Driver
+Peop747,14,0_to_16,Female,Pedestrian
+Peop748,10,0_to_16,Female,Passenger
+Peop749,25,17_to_25,Male,Pedal cyclist
+Peop750,41,40_to_64,Female,Pedal cyclist
+Peop751,93,75_or_older,Male,Pedestrian
+Peop752,21,17_to_25,Male,Pedal cyclist
+Peop753,58,40_to_64,Female,Motorcycle rider
+Peop754,77,75_or_older,Male,Passenger
+Peop755,5,0_to_16,Female,Pedestrian
+Peop756,22,17_to_25,Female,Motorcycle rider
+Peop757,47,40_to_64,Female,Motorcycle pillion passenger
+Peop758,91,75_or_older,Female,Pedestrian
+Peop759,41,40_to_64,Female,Motorcycle pillion passenger
+Peop760,19,17_to_25,Male,Pedal cyclist
+Peop761,34,26_to_39,Female,Pedestrian
+Peop762,6,0_to_16,Male,Pedestrian
+Peop763,4,0_to_16,Male,Pedal cyclist
+Peop764,10,0_to_16,Female,Pedestrian
+Peop765,17,17_to_25,Female,Motorcycle rider
+Peop766,24,17_to_25,Male,Other/-9
+Peop767,16,0_to_16,Female,Driver
+Peop768,10,0_to_16,Male,Pedestrian
+Peop769,34,26_to_39,Male,Other/-9
+Peop770,53,40_to_64,Female,Passenger
+Peop771,27,26_to_39,Female,Motorcycle rider
+Peop772,20,17_to_25,Female,Pedal cyclist
+Peop773,14,0_to_16,Male,Pedal cyclist
+Peop774,55,40_to_64,Female,Pedal cyclist
+Peop775,8,0_to_16,Female,Pedestrian
+Peop776,21,17_to_25,Male,Motorcycle pillion passenger
+Peop777,68,65_to_74,Male,Other/-9
+Peop778,8,0_to_16,Male,Pedal cyclist
+Peop779,33,26_to_39,Female,Pedestrian
+Peop780,29,26_to_39,Female,Motorcycle pillion passenger
+Peop781,101,75_or_older,Male,Driver
+Peop782,16,0_to_16,Male,Pedal cyclist
+Peop783,34,26_to_39,Male,Pedal cyclist
+Peop784,87,75_or_older,Male,Motorcycle rider
+Peop785,50,40_to_64,Female,Pedal cyclist
+Peop786,13,0_to_16,Male,Motorcycle rider
+Peop787,76,75_or_older,Female,Motorcycle rider
+Peop788,60,40_to_64,Female,Pedal cyclist
+Peop789,46,40_to_64,Male,Pedal cyclist
+Peop790,22,17_to_25,Female,Motorcycle pillion passenger
+Peop791,75,75_or_older,Male,Pedestrian
+Peop792,30,26_to_39,Male,Pedal cyclist
+Peop793,43,40_to_64,Female,Motorcycle rider
+Peop794,72,65_to_74,Female,Pedal cyclist
+Peop795,-9,-9,-9,Pedestrian
+Peop796,44,40_to_64,Female,Motorcycle rider
+Peop797,32,26_to_39,Male,Pedal cyclist
+Peop798,94,75_or_older,Female,Pedestrian
+Peop799,22,17_to_25,Female,Pedal cyclist
+Peop800,95,75_or_older,Female,Passenger
+Peop801,81,75_or_older,Male,Passenger
+Peop802,11,0_to_16,Female,Pedestrian
+Peop803,59,40_to_64,Male,Passenger
+Peop804,44,40_to_64,Female,Pedal cyclist
+Peop805,38,26_to_39,Male,Pedal cyclist
+Peop806,54,40_to_64,Female,Motorcycle rider
+Peop807,36,26_to_39,Female,Pedestrian
+Peop808,24,17_to_25,Male,Pedal cyclist
+Peop809,9,0_to_16,Male,Pedestrian
+Peop810,74,65_to_74,Male,Passenger
+Peop811,32,26_to_39,Female,Pedal cyclist
+Peop812,97,75_or_older,Male,Driver
+Peop813,46,40_to_64,Female,Motorcycle rider
+Peop814,65,65_to_74,Female,Pedal cyclist
+Peop815,5,0_to_16,Male,Pedal cyclist
+Peop816,52,40_to_64,Female,Pedal cyclist
+Peop817,17,17_to_25,Male,Pedal cyclist
+Peop818,9,0_to_16,Female,Passenger
+Peop819,28,26_to_39,Male,Pedal cyclist
+Peop820,50,40_to_64,Female,Other/-9
+Peop821,35,26_to_39,Male,Pedal cyclist
+Peop822,99,75_or_older,Male,Pedestrian
+Peop823,95,75_or_older,Male,Pedestrian
+Peop824,92,75_or_older,Male,Passenger
+Peop825,71,65_to_74,Male,Passenger
+Peop826,21,17_to_25,Female,Pedal cyclist
+Peop827,60,40_to_64,Male,Other/-9
+Peop828,69,65_to_74,Female,Motorcycle rider
+Peop829,23,17_to_25,Male,Motorcycle pillion passenger
+Peop830,48,40_to_64,Male,Pedal cyclist
+Peop831,61,40_to_64,Female,Motorcycle pillion passenger
+Peop832,28,26_to_39,Female,Pedal cyclist
+Peop833,13,0_to_16,Female,Passenger
+Peop834,86,75_or_older,Female,Other/-9
+Peop835,14,0_to_16,Female,Pedal cyclist
+Peop836,14,0_to_16,Male,Driver
+Peop837,27,26_to_39,Female,Pedal cyclist
+Peop838,71,65_to_74,Male,Other/-9
+Peop839,59,40_to_64,Female,Other/-9
+Peop840,65,65_to_74,Female,Other/-9
+Peop841,0,0_to_16,-9,Passenger
+Peop842,45,40_to_64,Female,Passenger
+Peop843,41,40_to_64,Female,Pedestrian
+Peop844,95,75_or_older,Male,Passenger
+Peop845,30,26_to_39,Female,Motorcycle rider
+Peop846,76,75_or_older,Male,Passenger
+Peop847,77,75_or_older,Male,Pedal cyclist
+Peop848,0,0_to_16,Male,Other/-9
+Peop849,21,17_to_25,Female,Other/-9
+Peop850,17,17_to_25,Female,Pedestrian
+Peop851,46,40_to_64,Female,Pedestrian
+Peop852,-9,-9,Female,Driver
+Peop853,39,26_to_39,Female,Motorcycle rider
+Peop854,23,17_to_25,Male,Pedal cyclist
+Peop855,48,40_to_64,Male,Motorcycle pillion passenger
+Peop856,94,75_or_older,Male,Other/-9
+Peop857,73,65_to_74,Female,Motorcycle rider
+Peop858,97,75_or_older,Male,Pedestrian
+Peop859,19,17_to_25,Female,Pedal cyclist
+Peop860,22,17_to_25,Female,Other/-9
+Peop861,21,17_to_25,Male,Other/-9
+Peop862,76,75_or_older,Female,Pedal cyclist
+Peop863,42,40_to_64,Female,Pedal cyclist
+Peop864,91,75_or_older,Male,Other/-9
+Peop865,94,75_or_older,Male,Pedestrian
+Peop866,96,75_or_older,Male,Passenger
+Peop867,35,26_to_39,Female,Motorcycle rider
+Peop868,6,0_to_16,Male,Motorcycle rider
+Peop869,45,40_to_64,Female,Motorcycle rider
+Peop870,45,40_to_64,Female,Motorcycle pillion passenger
+Peop871,101,75_or_older,Female,Passenger
+Peop872,0,0_to_16,Female,Other/-9
+Peop873,48,40_to_64,Female,Motorcycle rider
+Peop874,35,26_to_39,Female,Pedal cyclist
+Peop875,98,75_or_older,Female,Other/-9
+Peop876,50,40_to_64,Female,Motorcycle pillion passenger
+Peop877,49,40_to_64,Female,Motorcycle pillion passenger
+Peop878,14,0_to_16,Male,Motorcycle pillion passenger
+Peop879,61,40_to_64,Female,Other/-9
+Peop880,16,0_to_16,Male,Motorcycle pillion passenger
+Peop881,33,26_to_39,Female,Pedal cyclist
+Peop882,36,26_to_39,Female,Motorcycle rider
+Peop883,10,0_to_16,Female,Motorcycle pillion passenger
+Peop884,31,26_to_39,Female,Motorcycle rider
+Peop885,23,17_to_25,Male,Other/-9
+Peop886,66,65_to_74,Female,Pedal cyclist
+Peop887,51,40_to_64,Female,Motorcycle rider
+Peop888,18,17_to_25,Male,Motorcycle pillion passenger
+Peop889,5,0_to_16,Male,Other/-9
+Peop890,12,0_to_16,Male,Pedal cyclist
+Peop891,96,75_or_older,Male,Pedestrian
+Peop892,92,75_or_older,Female,Passenger
+Peop893,93,75_or_older,Male,Pedal cyclist
+Peop894,25,17_to_25,Male,Motorcycle pillion passenger
+Peop895,69,65_to_74,Female,Pedal cyclist
+Peop896,88,75_or_older,Male,Pedal cyclist
+Peop897,43,40_to_64,Female,Motorcycle pillion passenger
+Peop898,31,26_to_39,Male,Motorcycle pillion passenger
+Peop899,84,75_or_older,Male,Motorcycle rider
+Peop900,97,75_or_older,Female,Driver
+Peop901,92,75_or_older,Male,Pedal cyclist
+Peop902,35,26_to_39,Male,Other/-9
+Peop903,42,40_to_64,Female,Motorcycle rider
+Peop904,42,40_to_64,Female,Motorcycle pillion passenger
+Peop905,55,40_to_64,Female,Motorcycle pillion passenger
+Peop906,28,26_to_39,Female,Motorcycle pillion passenger
+Peop907,37,26_to_39,Female,Pedal cyclist
+Peop908,7,0_to_16,Male,Driver
+Peop909,100,75_or_older,Male,Pedestrian
+Peop910,7,0_to_16,Male,Pedal cyclist
+Peop911,22,17_to_25,Male,Other/-9
+Peop912,26,26_to_39,Male,Other/-9
+Peop913,26,26_to_39,Male,Motorcycle pillion passenger
+Peop914,64,40_to_64,Female,Motorcycle rider
+Peop915,58,40_to_64,Female,Motorcycle pillion passenger
+Peop916,57,40_to_64,Female,Pedal cyclist
+Peop917,43,40_to_64,Female,Pedal cyclist
+Peop918,39,26_to_39,Male,Pedal cyclist
+Peop919,29,26_to_39,Female,Motorcycle rider
+Peop920,86,75_or_older,Male,Motorcycle rider
+Peop921,49,40_to_64,Female,Pedal cyclist
+Peop922,18,17_to_25,Male,Other/-9
+Peop923,33,26_to_39,Male,Pedal cyclist
+Peop924,48,40_to_64,Female,Pedal cyclist
+Peop925,43,40_to_64,Male,Motorcycle pillion passenger
+Peop926,37,26_to_39,Female,Motorcycle rider
+Peop927,40,40_to_64,Female,Pedal cyclist
+Peop928,31,26_to_39,Female,Pedal cyclist
+Peop929,99,75_or_older,Female,Passenger
+Peop930,81,75_or_older,Female,Motorcycle rider
+Peop931,38,26_to_39,Female,Motorcycle rider
+Peop932,33,26_to_39,Female,Motorcycle pillion passenger
+Peop933,82,75_or_older,Male,Other/-9
+Peop934,58,40_to_64,Female,Pedal cyclist
+Peop935,60,40_to_64,Female,Other/-9
+Peop936,50,40_to_64,Female,Motorcycle rider
+Peop937,30,26_to_39,Male,Motorcycle pillion passenger
+Peop938,7,0_to_16,Female,Pedestrian
+Peop939,13,0_to_16,Female,Pedestrian
+Peop940,34,26_to_39,Female,Motorcycle pillion passenger
+Peop941,96,75_or_older,Female,Driver
+Peop942,87,75_or_older,Male,Pedal cyclist
+Peop943,26,26_to_39,Female,Other/-9
+Peop944,32,26_to_39,Female,Other/-9
+Peop945,7,0_to_16,Female,Motorcycle pillion passenger
+Peop946,18,17_to_25,Female,Other/-9
+Peop947,39,26_to_39,Female,Motorcycle pillion passenger
+Peop948,18,17_to_25,Female,Motorcycle pillion passenger
+Peop949,13,0_to_16,Male,Pedal cyclist
+Peop950,15,0_to_16,Male,Motorcycle pillion passenger
+Peop951,52,40_to_64,Female,Motorcycle pillion passenger
+Peop952,20,17_to_25,Female,Motorcycle pillion passenger
+Peop953,15,0_to_16,Female,Motorcycle rider
+Peop954,26,26_to_39,Female,Pedal cyclist
+Peop955,13,0_to_16,Female,Driver
+Peop956,64,40_to_64,Female,Motorcycle pillion passenger
+Peop957,27,26_to_39,Male,Motorcycle pillion passenger
+Peop958,89,75_or_older,Male,Other/-9
+Peop959,66,65_to_74,Female,Motorcycle rider
+Peop960,51,40_to_64,Female,Motorcycle pillion passenger
+Peop961,28,26_to_39,Female,Motorcycle rider
+Peop962,85,75_or_older,Male,Pedal cyclist
+Peop963,10,0_to_16,Male,Pedal cyclist
+Peop964,16,0_to_16,Female,Other/-9
+Peop965,16,0_to_16,Female,Motorcycle rider
+Peop966,19,17_to_25,Male,Motorcycle pillion passenger
+Peop967,40,40_to_64,Male,Motorcycle pillion passenger
+Peop968,53,40_to_64,Female,Motorcycle pillion passenger
+Peop969,59,40_to_64,Female,Pedal cyclist
+Peop970,25,17_to_25,Female,Motorcycle pillion passenger
+Peop971,32,26_to_39,Female,Motorcycle rider
+Peop972,98,75_or_older,Male,Pedestrian
+Peop973,2,0_to_16,Male,Motorcycle pillion passenger
+Peop974,26,26_to_39,Female,Motorcycle pillion passenger
+Peop975,57,40_to_64,Female,Motorcycle pillion passenger
+Peop976,46,40_to_64,Male,Motorcycle pillion passenger
+Peop977,91,75_or_older,Female,Other/-9
+Peop978,36,26_to_39,Male,Motorcycle pillion passenger
+Peop979,12,0_to_16,Male,Motorcycle rider
+Peop980,61,40_to_64,Female,Pedal cyclist
+Peop981,32,26_to_39,Female,Motorcycle pillion passenger
+Peop982,46,40_to_64,Female,Motorcycle pillion passenger
+Peop983,98,75_or_older,Male,Driver
+Peop984,6,0_to_16,Male,Pedal cyclist
+Peop985,56,40_to_64,Female,Motorcycle pillion passenger
+Peop986,20,17_to_25,Male,Other/-9
+Peop987,91,75_or_older,Male,Motorcycle rider
+Peop988,69,65_to_74,Female,Motorcycle pillion passenger
+Peop989,0,0_to_16,Female,Pedestrian
+Peop990,38,26_to_39,Female,Pedal cyclist
+Peop991,11,0_to_16,Male,Motorcycle rider
+Peop992,21,17_to_25,Female,Motorcycle rider
+Peop993,38,26_to_39,Female,Motorcycle pillion passenger
+Peop994,16,0_to_16,Female,Motorcycle pillion passenger
+Peop995,25,17_to_25,Female,Pedal cyclist
+Peop996,62,40_to_64,Female,Motorcycle rider
+Peop997,10,0_to_16,Male,Motorcycle rider
+Peop998,0,0_to_16,Male,Driver
+Peop999,0,0_to_16,-9,Driver
+Peop1000,6,0_to_16,Female,Pedestrian
+Peop1001,0,0_to_16,Male,Pedal cyclist
+Peop1002,24,17_to_25,Female,Motorcycle rider
+Peop1003,29,26_to_39,Female,Pedal cyclist
+Peop1004,3,0_to_16,Male,Pedal cyclist
+Peop1005,36,26_to_39,Female,Motorcycle pillion passenger
+Peop1006,67,65_to_74,Female,Pedal cyclist
+Peop1007,18,17_to_25,Female,Pedal cyclist
+Peop1008,66,65_to_74,Female,Motorcycle pillion passenger
+Peop1009,83,75_or_older,Female,Pedal cyclist
+Peop1010,11,0_to_16,Female,Pedal cyclist
+Peop1011,89,75_or_older,Male,Motorcycle rider
+Peop1012,49,40_to_64,Male,Other/-9
+Peop1013,59,40_to_64,Female,Motorcycle pillion passenger
+Peop1014,48,40_to_64,Male,Other/-9
+Peop1015,37,26_to_39,Male,Other/-9
+Peop1016,21,17_to_25,Female,Motorcycle pillion passenger
+Peop1017,12,0_to_16,Female,Motorcycle pillion passenger
+Peop1018,40,40_to_64,Female,Motorcycle pillion passenger
+Peop1019,40,40_to_64,Male,Other/-9
+Peop1020,5,0_to_16,Male,Motorcycle rider
+Peop1021,51,40_to_64,Female,Other/-9
+Peop1022,73,65_to_74,Female,Pedal cyclist
+Peop1023,15,0_to_16,Female,Pedal cyclist
+Peop1024,54,40_to_64,Female,Pedal cyclist
+Peop1025,56,40_to_64,Female,Other/-9
+Peop1026,10,0_to_16,Female,Driver
+Peop1027,0,0_to_16,Female,Driver
+Peop1028,8,0_to_16,Male,Motorcycle rider
+Peop1029,8,0_to_16,Male,Motorcycle pillion passenger
+Peop1030,12,0_to_16,Male,Driver
+Peop1031,33,26_to_39,Male,Other/-9
+Peop1032,9,0_to_16,Male,Motorcycle rider
+Peop1033,10,0_to_16,Female,Pedal cyclist
+Peop1034,95,75_or_older,Male,Driver
+Peop1035,48,40_to_64,Female,Motorcycle pillion passenger
+Peop1036,44,40_to_64,Female,Motorcycle pillion passenger
+Peop1037,51,40_to_64,Female,Pedal cyclist
+Peop1038,68,65_to_74,Female,Motorcycle rider
+Peop1039,10,0_to_16,Male,Driver
+Peop1040,53,40_to_64,Female,Pedal cyclist
+Peop1041,12,0_to_16,Male,Motorcycle pillion passenger
+Peop1042,10,0_to_16,Female,Other/-9
+Peop1043,75,75_or_older,Female,Pedal cyclist
+Peop1044,23,17_to_25,Female,Pedal cyclist
+Peop1045,25,17_to_25,Female,Other/-9
+Peop1046,20,17_to_25,Female,Other/-9
+Peop1047,23,17_to_25,Female,Other/-9
+Peop1048,5,0_to_16,Female,Pedal cyclist
+Peop1049,97,75_or_older,Female,Pedestrian
+Peop1050,24,17_to_25,Male,Motorcycle pillion passenger
+Peop1051,28,26_to_39,Male,Motorcycle pillion passenger
+Peop1052,91,75_or_older,Male,Pedal cyclist
+Peop1053,71,65_to_74,Female,Pedal cyclist
+Peop1054,11,0_to_16,Male,Motorcycle pillion passenger
+Peop1055,7,0_to_16,Male,Motorcycle pillion passenger
+Peop1056,42,40_to_64,Male,Motorcycle pillion passenger
+Peop1057,30,26_to_39,Female,Motorcycle pillion passenger
+Peop1058,3,0_to_16,Female,Motorcycle rider
+Peop1059,6,0_to_16,Female,Pedal cyclist
+Peop1060,13,0_to_16,Female,Pedal cyclist
+Peop1061,24,17_to_25,Female,Pedal cyclist
+Peop1062,37,26_to_39,Male,Motorcycle pillion passenger
+Peop1063,16,0_to_16,Female,Pedal cyclist
+Peop1064,11,0_to_16,Female,Driver
+Peop1065,-9,-9,Female,Motorcycle pillion passenger
+Peop1066,71,65_to_74,Female,Motorcycle rider
+Peop1067,80,75_or_older,Male,Other/-9
+Peop1068,-9,-9,Male,Motorcycle rider
+Peop1069,15,0_to_16,Female,Other/-9
+Peop1070,17,17_to_25,Male,Other/-9
+Peop1071,90,75_or_older,Male,Pedal cyclist
+Peop1072,10,0_to_16,Female,Motorcycle rider
+Peop1073,13,0_to_16,Male,Motorcycle pillion passenger
+Peop1074,99,75_or_older,Male,Passenger
+Peop1075,14,0_to_16,Female,Motorcycle rider
+Peop1076,88,75_or_older,Male,Motorcycle rider
+Peop1077,68,65_to_74,Female,Motorcycle pillion passenger
+Peop1078,8,0_to_16,Female,Pedal cyclist
+Peop1079,14,0_to_16,Male,Other/-9
+Peop1080,12,0_to_16,Female,Pedal cyclist
+Peop1081,46,40_to_64,Female,Pedal cyclist
+Peop1082,34,26_to_39,Male,Motorcycle pillion passenger
+Peop1083,27,26_to_39,Female,Other/-9
+Peop1084,34,26_to_39,Female,Pedal cyclist
+Peop1085,9,0_to_16,Female,Pedal cyclist
+Peop1086,39,26_to_39,Female,Pedal cyclist
+Peop1087,35,26_to_39,Male,Motorcycle pillion passenger
+Peop1088,45,40_to_64,Male,Motorcycle pillion passenger
+Peop1089,14,0_to_16,Female,Motorcycle pillion passenger
+Peop1090,47,40_to_64,Male,Motorcycle pillion passenger
+Peop1091,11,0_to_16,Male,Driver
+Peop1092,29,26_to_39,Male,Motorcycle pillion passenger
+Peop1093,7,0_to_16,Female,Pedal cyclist
