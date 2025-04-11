@@ -72,8 +72,10 @@ df_fcrash_fatelities_date_cleaned['Month'] = df_fcrash_fatelities_date_cleaned['
 # Creating dim datasets
 ###
 
-# dim date
-df_date = df_fcrash_cleaned[["Year", "Month", "Dayweek", "Day of week"]].copy()
+# ========== DIM DATE ==========
+df_date = df_fcrash_cleaned[["Year", "Month", "Dayweek"]].copy()
+
+# Optional: weekday mapping if needed later
 weekday_map = {
     'Monday': '1',
     'Tuesday': '2',
@@ -83,72 +85,70 @@ weekday_map = {
     'Saturday': '6',
     'Sunday': '7'
 }
-df_date['WeekdayNum'] = df_date['Dayweek'].map(weekday_map)
-df_date['DateID'] = 'Date' + df_date['Year'].astype(str) + df_date['Month'].astype(str).str.zfill(2) + df_date['WeekdayNum']
-cols = ['DateID'] + [col for col in df_date.columns if col != 'DateID']
-df_date = df_date.drop_duplicates()
-df_date = df_date[cols]
-df_date = df_date.drop_duplicates(subset='DateID', keep='first')
 
-# dim time
-df_time = df_fcrash_cleaned[["Time"]].copy()
-df_time = df_time.drop_duplicates()
-df_time["TimeID"] = ['Time' + str(i) for i in range(1, len(df_time) + 1)]
-cols = ['TimeID'] + [col for col in df_time.columns if col != 'TimeID']
+df_date = df_date.drop_duplicates().reset_index(drop=True)
+df_date["DateID"] = range(1, len(df_date) + 1)
+df_date = df_date[["DateID", "Year", "Month", "Dayweek"]]
 
-df_vehicle = df_time[cols]
-# dim location
-df_location = df_fcrash_cleaned[["State", "National Remoteness Areas", "SA4 Name 2021"]].copy()
-df_location = df_location.drop_duplicates(subset=['State', 'National Remoteness Areas', 'SA4 Name 2021'])
-df_location['LocationID'] = ['Loc' + str(i) for i in range(1, len(df_location) + 1)]
-cols = ['LocationID'] + [col for col in df_location.columns if col != 'LocationID']
-df_location = df_location[cols]
+# ========== DIM TIME ==========
+df_time = df_fatelities_cleaned[['Time']].drop_duplicates().copy()
+df_time["Hour"] = pd.to_datetime(df_time["Time"], format='%H:%M:%S', errors='coerce').dt.hour
+df_time = df_time.dropna(subset=["Hour"])
+def assign_time_group(hour):
+    if 0 <= hour < 6:
+        return "Early Morning"
+    elif 6 <= hour < 12:
+        return "Morning"
+    elif 12 <= hour < 18:
+        return "Afternoon"
+    elif 18 <= hour < 21:
+        return "Evening"
+    else:
+        return "Night"
 
-# dim Vehicle Involvement
+df_time["TimeGroup"] = df_time["Hour"].apply(assign_time_group)
+df_time = df_time.reset_index(drop=True)
+df_time["TimeID"] = pd.Series(range(1, len(df_time) + 1), dtype="Int64")
+df_time = df_time[["TimeID", "Time", "Hour", "TimeGroup"]]
+
+# ========== DIM LOCATION ==========
+df_location = df_fcrash_cleaned[["State", "SA4 Name 2021"]].drop_duplicates().reset_index(drop=True)
+df_location["LocationID"] = range(1, len(df_location) + 1)
+df_location = df_location[["LocationID", "State", "SA4 Name 2021"]]
+
+# ========== DIM VEHICLE ==========
 df_vehicle = df_fcrash_cleaned[['Bus Involvement', 'Heavy Rigid Truck Involvement', 'Articulated Truck Involvement']]
-df_vehicle = df_vehicle.drop_duplicates()
-df_vehicle["VehicleID"] = ['Veh' + str(i) for i in range(1, len(df_vehicle) + 1)]
-cols = ['VehicleID'] + [col for col in df_vehicle.columns if col != 'VehicleID']
-df_vehicle = df_vehicle[cols]
+df_vehicle = df_vehicle.drop_duplicates().reset_index(drop=True)
+df_vehicle["VehicleID"] = range(1, len(df_vehicle) + 1)
+df_vehicle = df_vehicle[["VehicleID"] + [col for col in df_vehicle.columns if col != 'VehicleID']]
 
-# dim Event
-df_event = df_fcrash_cleaned[['Christmas Period', 'Easter Period', 'Festival or not']]
-df_event = df_event.drop_duplicates()
-df_event["EventID"] = ['Event' + str(i) for i in range(1, len(df_event) + 1)]
-cols = ['EventID'] + [col for col in df_event.columns if col != 'EventID']
-df_event = df_event[cols]
+# ========== DIM EVENT ==========
+df_event = df_fcrash_cleaned[['Christmas Period', 'Easter Period']].drop_duplicates().reset_index(drop=True)
+df_event["EventID"] = range(1, len(df_event) + 1)
+df_event = df_event[["EventID"] + [col for col in df_event.columns if col != 'EventID']]
 
-# dim people
-df_people = df_fatelities_cleaned[['Age', 'Age Group', 'Gender', 'Road User']].copy()
-df_people = df_people.drop_duplicates()
-df_people["PeopleID"] = ['Peop' + str(i) for i in range(1, len(df_people) + 1)]
-cols = ['PeopleID'] + [col for col in df_people.columns if col != 'PeopleID']
-df_people = df_people[cols]
+# ========== DIM PEOPLE ==========
+df_people = df_fatelities_cleaned[['Age Group', 'Gender']].drop_duplicates().reset_index(drop=True)
+df_people["PeopleID"] = range(1, len(df_people) + 1)
+df_people = df_people[["PeopleID", "Age Group", "Gender"]]
 
-# dim crash
-df_crash = df_fcrash_cleaned[['Crash ID', 'Crash Type', 'Number Fatalities']].copy()
-df_crash = df_crash.drop_duplicates()
+# ========== DIM CRASH ==========
+df_crash = df_fcrash_cleaned[['Crash ID', 'Crash Type', 'Number Fatalities']].drop_duplicates().reset_index(drop=True)
 df_crash.rename(columns={'Crash ID': 'CrashID'}, inplace=True)
 
-# dim LGA
+
+# ========== DIM LGA ==========
 df_lga.rename(columns={df_lga.columns[0]: "National LGA Name 2021"}, inplace=True)
 df_lga.rename(columns={df_lga.columns[1]: "Count of dwellings"}, inplace=True)
 df_LGA = df_lga.copy()
-df_population_cleaned.rename(columns={'Local Government Area': 'National LGA Name 2021'}, inplace=True)
-df_LGA = df_LGA.merge(df_population_cleaned, 
-    on=['National LGA Name 2021'],
-    how='left'
-)
-df_LGA["LGAID"] = ['LGAID' + str(i) for i in range(1, len(df_LGA) + 1)]
-cols = ['LGAID'] + [col for col in df_LGA.columns if col != 'LGAID']
-df_LGA = df_LGA[cols]
+df_LGA["LGAID"] = pd.Series(range(1, len(df_LGA) + 1), dtype="Int64")
+df_LGA = df_LGA[["LGAID", "National LGA Name 2021", "Count of dwellings"]]
 
-# dim Road
-df_road = df_fcrash_cleaned[['Speed Limit', 'National Road Type']].copy()
-df_road = df_road.drop_duplicates()
-df_road["RoadID"] = ['Road' + str(i) for i in range(1, len(df_road) + 1)]
-cols = ['RoadID'] + [col for col in df_road.columns if col != 'RoadID']
-df_road = df_road[cols]
+# ========== DIM ROAD ==========
+df_road = df_fcrash_cleaned[['Speed Limit']].drop_duplicates().reset_index(drop=True)
+df_road["SpeedID"] = range(1, len(df_road) + 1)
+df_road = df_road[["SpeedID", "Speed Limit"]]
+
 
 
 ###
@@ -163,14 +163,15 @@ df_fatelities_cleaned = df_fatelities_cleaned.merge(df_crash,
     how='left'
 )
 df_fatelities_cleaned = df_fatelities_cleaned.merge(df_date, 
-    on=["Year", "Month", "Dayweek", "Day of week"],
+    on=["Year", "Month", "Dayweek"],
     how='left'
 )
 df_fatelities_cleaned = df_fatelities_cleaned.merge(df_location, 
-    on=["State", "National Remoteness Areas", "SA4 Name 2021"],
+    on=["State", "SA4 Name 2021"],
     how='left'
 )
 df_fatelities_cleaned.rename(columns={'Time of day': 'Time of Day'}, inplace=True)
+df_fatelities_cleaned['Time'] = pd.to_datetime(df_fatelities_cleaned['Time'], format='%H:%M:%S', errors='coerce').dt.time
 df_fatelities_cleaned = df_fatelities_cleaned.merge(df_time, 
     on=['Time'],
     how='left'
@@ -184,7 +185,7 @@ df_fatelities_cleaned = df_fatelities_cleaned.merge(df_event,
     how='left'
 )
 df_fatelities_cleaned = df_fatelities_cleaned.merge(df_people, 
-    on=['Age', 'Age Group', 'Gender', 'Road User'],
+    on=['Age Group', 'Gender'],
     how='left'
 )
 df_fatelities_cleaned = df_fatelities_cleaned.merge(df_LGA, 
@@ -192,7 +193,7 @@ df_fatelities_cleaned = df_fatelities_cleaned.merge(df_LGA,
     how='left'
 )
 df_fatelities_cleaned = df_fatelities_cleaned.merge(df_road, 
-    on=['Speed Limit', 'National Road Type'],
+    on=['Speed Limit'],
     how='left'
 )
 
@@ -204,10 +205,10 @@ df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['Road User']
 df_fatelities_cleaned = df_fatelities_cleaned[df_fatelities_cleaned['SA4 Name 2021'] != 'Unknown']
 
 # remove columns expect IDs
-df_fatelities_cleaned.drop(columns=['Year', 'Month', 'Dayweek', 'Time', 'Day of week', 'Time of Day', 'State', 
-'National Remoteness Areas', 'SA4 Name 2021', 'Bus Involvement', 'Heavy Rigid Truck Involvement', 'Articulated Truck Involvement',
-'Christmas Period', 'Easter Period', 'Festival or not', 'WeekdayNum','Age', 'Age Group', 'Gender', 'Crash Type', 'Number Fatalities',
-'LGA code', 'no..22', 'National LGA Name 2021', 'Count of dwellings', 'Speed Limit', 'National Road Type', 'Road User'], inplace=True)
+df_fatelities_cleaned.drop(columns=['Year', 'Month', 'Dayweek', 'Time of Day', 'State', 
+'National Remoteness Areas', 'SA4 Name 2021', 'Bus Involvement','Time', 'Hour', 'TimeGroup', 'Heavy Rigid Truck Involvement', 'Articulated Truck Involvement',
+'Christmas Period', 'Easter Period','Age', 'Day of week', 'Age Group', 'Gender', 'Crash Type', 'Number Fatalities', 
+'National LGA Name 2021', 'Count of dwellings', 'Speed Limit', 'National Road Type', 'Road User'], inplace=True)
 
 # add FactID into first column
 df_fatelities_cleaned["FactID"] = ['Fact' + str(i) for i in range(1, len(df_fatelities_cleaned) + 1)]
@@ -216,10 +217,10 @@ df_fatelities_cleaned = df_fatelities_cleaned[cols]
 
 df_fcrash_fatelities_date_cleaned = df_fcrash_fatelities_date_cleaned.merge(
     df_date,
-    on=['Year', 'Month', 'Dayweek', 'WeekdayNum'],
+    on=['Year', 'Month', 'Dayweek'],
     how='left'
 )
-df_fcrash_fatelities_date_cleaned.drop(columns=['Year', 'Month', 'Dayweek', 'WeekdayNum', 'Day of week'], inplace=True)
+df_fcrash_fatelities_date_cleaned.drop(columns=['Year', 'Month', 'Dayweek'], inplace=True)
 
 
 # rename all columns and do final changes to suit SQL style
@@ -236,9 +237,9 @@ df_people.rename(columns={'Age Group': 'AgeGroup'}, inplace=True)
 df_people.rename(columns={'Road User': 'RoadUser'}, inplace=True)
 df_crash.rename(columns={'Crash Type': 'CrashType'}, inplace=True)
 df_crash.rename(columns={'Speed Limit': 'SpeedLimit'}, inplace=True)
-df_crash.rename(columns={'Number Fatalities': 'NumberFatalities'}, inplace=True)
+df_crash.rename(columns={'Number Fatalities': 'Severity'}, inplace=True)
 df_LGA.rename(columns={'National LGA Name 2021': 'LGAName'}, inplace=True)
-df_LGA.rename(columns={'Count of dwellings': 'Countofdwellings'}, inplace=True)
+df_LGA.rename(columns={'Count of dwellings': 'LGASize'}, inplace=True)
 df_LGA.rename(columns={'LGA code': 'LGACode'}, inplace=True)
 df_LGA.rename(columns={'no..22': 'Population'}, inplace=True)
 df_road.rename(columns={'Speed Limit': 'SpeedZone'}, inplace=True)
@@ -247,9 +248,11 @@ df_road.rename(columns={'National Road Type': 'RoadType'}, inplace=True)
 # small changes to dim time 
 cols = ['TimeID'] + [col for col in df_time.columns if col != 'TimeID']
 df_time = df_time[cols]
+df_time = df_time.drop(columns=['Time'])
 
 # use for testing
-# print(df_fatelities_cleaned)
+print(df_fatelities_cleaned)
+print(df_location)
 
 ### 
 # 4. Last step
@@ -266,4 +269,4 @@ df_people.to_csv('dimPeople.csv', index=False)
 df_crash.to_csv('dimCrash.csv', index=False)
 df_LGA.to_csv('dimLGA.csv', index=False)
 df_fatelities_cleaned.to_csv('fact.csv', index=False)
-df_road.to_csv('dimRoad.csv', index=False)
+df_road.to_csv('dimSpeed.csv', index=False)

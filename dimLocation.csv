@@ -1,216 +1,104 @@
-LocationID,State,RemotenessArea,SA4Name
-Loc1,NSW,Inner Regional Australia,Riverina
-Loc2,NSW,Inner Regional Australia,Sydney - Baulkham Hills and Hawkesbury
-Loc3,Tas,Inner Regional Australia,Launceston and North East
-Loc4,NSW,Outer Regional Australia,New England and North West
-Loc5,Vic,Unknown,
-Loc6,Qld,Inner Regional Australia,Toowoomba
-Loc7,SA,Outer Regional Australia,Barossa - Yorke - Mid North
-Loc8,WA,Unknown,
-Loc9,Qld,Inner Regional Australia,Darling Downs - Maranoa
-Loc10,Tas,Inner Regional Australia,Hobart
-Loc11,Tas,Outer Regional Australia,Launceston and North East
-Loc12,SA,Outer Regional Australia,South Australia - South East
-Loc13,NSW,Major Cities of Australia,Sydney - Outer West and Blue Mountains
-Loc14,NSW,Inner Regional Australia,Capital Region
-Loc15,Qld,Outer Regional Australia,Cairns
-Loc16,ACT,Major Cities of Australia,Australian Capital Territory
-Loc17,NSW,Major Cities of Australia,Illawarra
-Loc18,NSW,Outer Regional Australia,Hunter Valley exc Newcastle
-Loc19,Qld,Outer Regional Australia,Wide Bay
-Loc20,NSW,Outer Regional Australia,Central West
-Loc21,NSW,Major Cities of Australia,Sydney - Inner South West
-Loc22,NT,Unknown,
-Loc23,Vic,Inner Regional Australia,Hume
-Loc24,NSW,Outer Regional Australia,Murray
-Loc25,Qld,Outer Regional Australia,Darling Downs - Maranoa
-Loc26,SA,Inner Regional Australia,Barossa - Yorke - Mid North
-Loc27,NSW,Inner Regional Australia,Mid North Coast
-Loc28,Qld,Outer Regional Australia,Mackay - Isaac - Whitsunday
-Loc29,SA,Inner Regional Australia,South Australia - South East
-Loc30,Qld,Major Cities of Australia,Logan - Beaudesert
-Loc31,NSW,Inner Regional Australia,New England and North West
-Loc32,NSW,Outer Regional Australia,Far West and Orana
-Loc33,Qld,Inner Regional Australia,Wide Bay
-Loc34,SA,Very Remote Australia,South Australia - Outback
-Loc35,Qld,Inner Regional Australia,Logan - Beaudesert
-Loc36,Qld,Remote Australia,Queensland - Outback
-Loc37,Vic,Inner Regional Australia,Bendigo
-Loc38,NSW,Major Cities of Australia,Central Coast
-Loc39,Vic,Major Cities of Australia,Melbourne - North East
-Loc40,NSW,Major Cities of Australia,Newcastle and Lake Macquarie
-Loc41,Qld,Remote Australia,Central Queensland
-Loc42,NSW,Major Cities of Australia,Sydney - Blacktown
-Loc43,NSW,Inner Regional Australia,Far West and Orana
-Loc44,Qld,Very Remote Australia,Queensland - Outback
-Loc45,Vic,Inner Regional Australia,Ballarat
-Loc46,Qld,Major Cities of Australia,Ipswich
-Loc47,SA,Remote Australia,South Australia - Outback
-Loc48,NSW,Major Cities of Australia,Sydney - South West
-Loc49,NSW,Major Cities of Australia,Sydney - Parramatta
-Loc50,NSW,Inner Regional Australia,Hunter Valley exc Newcastle
-Loc51,Qld,Inner Regional Australia,Moreton Bay - North
-Loc52,NSW,Inner Regional Australia,Richmond - Tweed
-Loc53,Vic,Major Cities of Australia,Melbourne - Inner
-Loc54,Qld,Major Cities of Australia,Brisbane - South
-Loc55,NSW,Outer Regional Australia,Riverina
-Loc56,NSW,Major Cities of Australia,Sydney - Baulkham Hills and Hawkesbury
-Loc57,SA,Major Cities of Australia,Adelaide - North
-Loc58,Vic,Inner Regional Australia,Melbourne - North West
-Loc59,Vic,Inner Regional Australia,Warrnambool and South West
-Loc60,Vic,Major Cities of Australia,Melbourne - South East
-Loc61,Vic,Outer Regional Australia,Latrobe - Gippsland
-Loc62,Qld,Inner Regional Australia,Central Queensland
-Loc63,Qld,Inner Regional Australia,Ipswich
-Loc64,Vic,Outer Regional Australia,Warrnambool and South West
-Loc65,SA,Major Cities of Australia,Adelaide - West
-Loc66,Qld,Major Cities of Australia,Gold Coast
-Loc67,Vic,Major Cities of Australia,Mornington Peninsula
-Loc68,NSW,Major Cities of Australia,Capital Region
-Loc69,NSW,Outer Regional Australia,Capital Region
-Loc70,ACT,Unknown,
-Loc71,Qld,Major Cities of Australia,Brisbane Inner City
-Loc72,NSW,Inner Regional Australia,Central West
-Loc73,Qld,Major Cities of Australia,Moreton Bay - South
-Loc74,NSW,Major Cities of Australia,Sydney - North Sydney and Hornsby
-Loc75,Vic,Inner Regional Australia,Melbourne - North East
-Loc76,NSW,Inner Regional Australia,Illawarra
-Loc77,SA,Remote Australia,South Australia - South East
-Loc78,NSW,Outer Regional Australia,Mid North Coast
-Loc79,Vic,Inner Regional Australia,North West
-Loc80,Qld,Outer Regional Australia,Central Queensland
-Loc81,NSW,Major Cities of Australia,Sydney - Outer South West
-Loc82,Qld,Major Cities of Australia,Sunshine Coast
-Loc83,Qld,Major Cities of Australia,Moreton Bay - North
-Loc84,Vic,Inner Regional Australia,Latrobe - Gippsland
-Loc85,Qld,Remote Australia,Mackay - Isaac - Whitsunday
-Loc86,Qld,Remote Australia,Darling Downs - Maranoa
-Loc87,Qld,Remote Australia,Townsville
-Loc88,Qld,Inner Regional Australia,Mackay - Isaac - Whitsunday
-Loc89,Vic,Major Cities of Australia,Melbourne - Inner South
-Loc90,NSW,Very Remote Australia,Far West and Orana
-Loc91,Vic,Outer Regional Australia,North West
-Loc92,SA,Inner Regional Australia,Adelaide - Central and Hills
-Loc93,NSW,Inner Regional Australia,Sydney - Outer South West
-Loc94,NSW,Major Cities of Australia,Sydney - City and Inner South
-Loc95,NSW,Inner Regional Australia,Murray
-Loc96,Vic,Major Cities of Australia,Melbourne - Inner East
-Loc97,Qld,Major Cities of Australia,Brisbane - East
-Loc98,SA,Inner Regional Australia,Adelaide - North
-Loc99,Qld,Outer Regional Australia,Townsville
-Loc100,Vic,Inner Regional Australia,Melbourne - Outer East
-Loc101,Vic,Inner Regional Australia,Geelong
-Loc102,NSW,Major Cities of Australia,Hunter Valley exc Newcastle
-Loc103,SA,Major Cities of Australia,Adelaide - South
-Loc104,NSW,Inner Regional Australia,Coffs Harbour - Grafton
-Loc105,SA,Major Cities of Australia,Adelaide - Central and Hills
-Loc106,Tas,Inner Regional Australia,
-Loc107,Vic,Inner Regional Australia,Shepparton
-Loc108,Vic,Major Cities of Australia,Melbourne - North West
-Loc109,Tas,Outer Regional Australia,South East
-Loc110,NSW,Inner Regional Australia,Southern Highlands and Shoalhaven
-Loc111,Vic,Inner Regional Australia,Melbourne - South East
-Loc112,Vic,Major Cities of Australia,Melbourne - Outer East
-Loc113,NSW,Major Cities of Australia,Richmond - Tweed
-Loc114,NSW,Remote Australia,New England and North West
-Loc115,Vic,Major Cities of Australia,Melbourne - West
-Loc116,Qld,Major Cities of Australia,Brisbane - West
-Loc117,NSW,Major Cities of Australia,Sydney - Northern Beaches
-Loc118,Tas,Very Remote Australia,Launceston and North East
-Loc119,Tas,Outer Regional Australia,West and North West
-Loc120,Vic,Major Cities of Australia,Geelong
-Loc121,SA,Inner Regional Australia,Adelaide - South
-Loc122,NT,Very Remote Australia,Northern Territory - Outback
-Loc123,NT,Outer Regional Australia,Darwin
-Loc124,NSW,Remote Australia,Far West and Orana
-Loc125,Qld,Major Cities of Australia,Brisbane - North
-Loc126,NSW,Major Cities of Australia,Sydney - Inner West
-Loc127,SA,Outer Regional Australia,South Australia - Outback
-Loc128,Qld,Inner Regional Australia,Sunshine Coast
-Loc129,Qld,Inner Regional Australia,Gold Coast
-Loc130,NSW,Inner Regional Australia,Sydney - North Sydney and Hornsby
-Loc131,Vic,Outer Regional Australia,Hume
-Loc132,Qld,Very Remote Australia,Townsville
-Loc133,NSW,Inner Regional Australia,Sydney - Sutherland
-Loc134,Vic,Remote Australia,North West
-Loc135,NSW,Inner Regional Australia,Newcastle and Lake Macquarie
-Loc136,NSW,Major Cities of Australia,Sydney - Eastern Suburbs
-Loc137,NSW,Major Cities of Australia,Sydney - Ryde
-Loc138,ACT,Inner Regional Australia,Australian Capital Territory
-Loc139,NSW,Inner Regional Australia,Central Coast
-Loc140,NSW,Remote Australia,Murray
-Loc141,Vic,Inner Regional Australia,Melbourne - West
-Loc142,Vic,Outer Regional Australia,Shepparton
-Loc143,Qld,Remote Australia,Cairns
-Loc144,Qld,Inner Regional Australia,Moreton Bay - South
-Loc145,NSW,Outer Regional Australia,Sydney - Baulkham Hills and Hawkesbury
-Loc146,Qld,Outer Regional Australia,Brisbane - East
-Loc147,WA,Major Cities of Australia,
-Loc148,Tas,Remote Australia,West and North West
-Loc149,WA,Inner Regional Australia,
-Loc150,WA,Outer Regional Australia,
-Loc151,WA,Remote Australia,
-Loc152,Vic,Inner Regional Australia,Mornington Peninsula
-Loc153,WA,Very Remote Australia,
-Loc154,Vic,Outer Regional Australia,Bendigo
-Loc155,NSW,Major Cities of Australia,Sydney - Sutherland
-Loc156,Vic,Remote Australia,Latrobe - Gippsland
-Loc157,NT,Remote Australia,Northern Territory - Outback
-Loc158,Qld,Outer Regional Australia,Moreton Bay - North
-Loc159,NSW,Remote Australia,Central West
-Loc160,Qld,Outer Regional Australia,Queensland - Outback
-Loc161,NSW,Inner Regional Australia,Sydney - Outer West and Blue Mountains
-Loc162,Vic,Unknown,Unknown
-Loc163,Tas,Outer Regional Australia,Hobart
-Loc164,NSW,Outer Regional Australia,Coffs Harbour - Grafton
-Loc165,ACT,Unknown,Unknown
-Loc166,WA,Inner Regional Australia,Unknown
-Loc167,WA,Outer Regional Australia,Unknown
-Loc168,WA,Major Cities of Australia,Unknown
-Loc169,WA,Very Remote Australia,Unknown
-Loc170,WA,Remote Australia,Unknown
-Loc171,Qld,Outer Regional Australia,Logan - Beaudesert
-Loc172,WA,Unknown,Unknown
-Loc173,NT,Unknown,Unknown
-Loc174,NSW,Outer Regional Australia,Richmond - Tweed
-Loc175,Qld,Very Remote Australia,Darling Downs - Maranoa
-Loc176,Tas,Very Remote Australia,West and North West
-Loc177,NSW,Remote Australia,Riverina
-Loc178,WA,Outer Regional Australia,Western Australia - Wheat Belt
-Loc179,WA,Inner Regional Australia,Western Australia - Wheat Belt
-Loc180,WA,Major Cities of Australia,Perth - South West
-Loc181,WA,Inner Regional Australia,Mandurah
-Loc182,WA,Remote Australia,Western Australia - Wheat Belt
-Loc183,WA,Remote Australia,Western Australia - Outback (North)
-Loc184,WA,Major Cities of Australia,Perth - North West
-Loc185,WA,Major Cities of Australia,Perth - Inner
-Loc186,WA,Major Cities of Australia,Perth - North East
-Loc187,WA,Major Cities of Australia,Perth - South East
-Loc188,WA,Major Cities of Australia,Mandurah
-Loc189,WA,Outer Regional Australia,Western Australia - Outback (South)
-Loc190,WA,Inner Regional Australia,Bunbury
-Loc191,WA,Inner Regional Australia,Perth - South East
-Loc192,WA,Remote Australia,Western Australia - Outback (South)
-Loc193,WA,Very Remote Australia,Western Australia - Outback (South)
-Loc194,WA,Outer Regional Australia,Bunbury
-Loc195,WA,Very Remote Australia,Western Australia - Outback (North)
-Loc196,WA,Inner Regional Australia,Perth - North East
-Loc197,WA,Very Remote Australia,Western Australia - Wheat Belt
-Loc198,Qld,Very Remote Australia,Central Queensland
-Loc199,Tas,Unknown,Unknown
-Loc200,WA,Inner Regional Australia,Perth - North West
-Loc201,Qld,Remote Australia,Wide Bay
-Loc202,Qld,Inner Regional Australia,Brisbane - West
-Loc203,NSW,Inner Regional Australia,Sydney - Northern Beaches
-Loc204,Tas,Remote Australia,Launceston and North East
-Loc205,Vic,Outer Regional Australia,Ballarat
-Loc206,Qld,Remote Australia,Brisbane - East
-Loc207,Qld,Unknown,Unknown
-Loc208,NSW,Inner Regional Australia,Sydney - South West
-Loc209,SA,Remote Australia,Barossa - Yorke - Mid North
-Loc210,WA,Remote Australia,Bunbury
-Loc211,NSW,Unknown,Unknown
-Loc212,Qld,Unknown,
-Loc213,NSW,Unknown,
-Loc214,SA,Unknown,
-Loc215,Tas,Unknown,
+LocationID,State,SA4Name
+1,NSW,Riverina
+2,NSW,Sydney - Baulkham Hills and Hawkesbury
+3,Tas,Launceston and North East
+4,NSW,New England and North West
+5,Vic,
+6,Qld,Toowoomba
+7,SA,Barossa - Yorke - Mid North
+8,WA,
+9,Qld,Darling Downs - Maranoa
+10,Tas,Hobart
+11,SA,South Australia - South East
+12,NSW,Sydney - Outer West and Blue Mountains
+13,NSW,Capital Region
+14,Qld,Cairns
+15,ACT,Australian Capital Territory
+16,NSW,Illawarra
+17,NSW,Hunter Valley exc Newcastle
+18,Qld,Wide Bay
+19,NSW,Central West
+20,NSW,Sydney - Inner South West
+21,NT,
+22,Vic,Hume
+23,NSW,Murray
+24,NSW,Mid North Coast
+25,Qld,Mackay - Isaac - Whitsunday
+26,Qld,Logan - Beaudesert
+27,NSW,Far West and Orana
+28,SA,South Australia - Outback
+29,Qld,Queensland - Outback
+30,Vic,Bendigo
+31,NSW,Central Coast
+32,Vic,Melbourne - North East
+33,NSW,Newcastle and Lake Macquarie
+34,Qld,Central Queensland
+35,NSW,Sydney - Blacktown
+36,Vic,Ballarat
+37,Qld,Ipswich
+38,NSW,Sydney - South West
+39,NSW,Sydney - Parramatta
+40,Qld,Moreton Bay - North
+41,NSW,Richmond - Tweed
+42,Vic,Melbourne - Inner
+43,Qld,Brisbane - South
+44,SA,Adelaide - North
+45,Vic,Melbourne - North West
+46,Vic,Warrnambool and South West
+47,Vic,Melbourne - South East
+48,Vic,Latrobe - Gippsland
+49,SA,Adelaide - West
+50,Qld,Gold Coast
+51,Vic,Mornington Peninsula
+52,ACT,
+53,Qld,Brisbane Inner City
+54,Qld,Moreton Bay - South
+55,NSW,Sydney - North Sydney and Hornsby
+56,Vic,North West
+57,NSW,Sydney - Outer South West
+58,Qld,Sunshine Coast
+59,Qld,Townsville
+60,Vic,Melbourne - Inner South
+61,SA,Adelaide - Central and Hills
+62,NSW,Sydney - City and Inner South
+63,Vic,Melbourne - Inner East
+64,Qld,Brisbane - East
+65,Vic,Melbourne - Outer East
+66,Vic,Geelong
+67,SA,Adelaide - South
+68,NSW,Coffs Harbour - Grafton
+69,Tas,
+70,Vic,Shepparton
+71,Tas,South East
+72,NSW,Southern Highlands and Shoalhaven
+73,Vic,Melbourne - West
+74,Qld,Brisbane - West
+75,NSW,Sydney - Northern Beaches
+76,Tas,West and North West
+77,NT,Northern Territory - Outback
+78,NT,Darwin
+79,Qld,Brisbane - North
+80,NSW,Sydney - Inner West
+81,NSW,Sydney - Sutherland
+82,NSW,Sydney - Eastern Suburbs
+83,NSW,Sydney - Ryde
+84,Vic,Unknown
+85,ACT,Unknown
+86,WA,Unknown
+87,NT,Unknown
+88,WA,Western Australia - Wheat Belt
+89,WA,Perth - South West
+90,WA,Mandurah
+91,WA,Western Australia - Outback (North)
+92,WA,Perth - North West
+93,WA,Perth - Inner
+94,WA,Perth - North East
+95,WA,Perth - South East
+96,WA,Western Australia - Outback (South)
+97,WA,Bunbury
+98,Tas,Unknown
+99,Qld,Unknown
+100,NSW,Unknown
+101,Qld,
+102,NSW,
+103,SA,

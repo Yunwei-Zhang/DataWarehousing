@@ -1,4 +1,4 @@
-CrashID,CrashType,NumberFatalities
+CrashID,CrashType,Severity
 20241115,Single,1
 20241125,Single,1
 20246013,Multiple,1

@@ -1,4 +1,4 @@
-EventID,Christmas,Easter,FestivalOrNot
-Event1,Yes,No,Yes
-Event2,No,No,No
-Event3,No,Yes,Yes
+EventID,Christmas,Easter
+1,Yes,No
+2,No,No
+3,No,Yes

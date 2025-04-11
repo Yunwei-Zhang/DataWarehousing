@@ -1,1423 +1,1422 @@
-TimeID,Time
-Time1,04:00:00
-Time2,06:15:00
-Time3,09:43:00
-Time4,10:35:00
-Time5,11:30:00
-Time6,13:00:00
-Time7,13:39:00
-Time8,17:15:00
-Time9,19:00:00
-Time10,19:30:00
-Time11,19:40:00
-Time12,22:42:00
-Time13,23:00:00
-Time14,23:10:00
-Time15,01:00:00
-Time16,01:09:00
-Time17,02:40:00
-Time18,09:00:00
-Time19,10:20:00
-Time20,10:48:00
-Time21,12:05:00
-Time22,13:58:00
-Time23,14:00:00
-Time24,14:43:00
-Time25,15:52:00
-Time26,16:00:00
-Time27,19:35:00
-Time28,20:34:00
-Time29,21:04:00
-Time30,21:38:00
-Time31,02:27:00
-Time32,03:30:00
-Time33,04:17:00
-Time34,04:20:00
-Time35,08:13:00
-Time36,10:25:00
-Time37,10:36:00
-Time38,11:35:00
-Time39,11:40:00
-Time40,12:10:00
-Time41,14:50:00
-Time42,15:00:00
-Time43,15:10:00
-Time44,15:18:00
-Time45,15:25:00
-Time46,16:10:00
-Time47,20:47:00
-Time48,21:30:00
-Time49,22:40:00
-Time50,02:00:00
-Time51,06:35:00
-Time52,08:09:00
-Time53,08:20:00
-Time54,11:20:00
-Time55,12:00:00
-Time56,12:07:00
-Time57,12:23:00
-Time58,12:35:00
-Time59,12:50:00
-Time60,13:25:00
-Time61,14:15:00
-Time62,14:45:00
-Time63,14:48:00
-Time64,17:00:00
-Time65,17:48:00
-Time66,18:20:00
-Time67,18:45:00
-Time68,22:19:00
-Time69,23:12:00
-Time70,01:39:00
-Time71,09:10:00
-Time72,09:50:00
-Time73,12:28:00
-Time74,15:40:00
-Time75,16:27:00
-Time76,17:25:00
-Time77,22:02:00
-Time78,06:54:00
-Time79,08:30:00
-Time80,11:00:00
-Time81,13:20:00
-Time82,13:30:00
-Time83,17:58:00
-Time84,18:30:00
-Time85,21:10:00
-Time86,22:55:00
-Time87,23:55:00
-Time88,00:00:00
-Time89,12:25:00
-Time90,12:54:00
-Time91,19:05:00
-Time92,04:44:00
-Time93,07:05:00
-Time94,07:10:00
-Time95,10:00:00
-Time96,10:50:00
-Time97,10:54:00
-Time98,12:42:00
-Time99,14:30:00
-Time100,17:30:00
-Time101,18:00:00
-Time102,20:00:00
-Time103,21:45:00
-Time104,22:35:00
-Time105,03:15:00
-Time106,06:00:00
-Time107,06:23:00
-Time108,10:56:00
-Time109,12:12:00
-Time110,14:20:00
-Time111,15:05:00
-Time112,15:07:00
-Time113,15:08:00
-Time114,15:38:00
-Time115,16:30:00
-Time116,17:57:00
-Time117,03:45:00
-Time118,05:20:00
-Time119,09:25:00
-Time120,10:10:00
-Time121,11:05:00
-Time122,11:10:00
-Time123,11:25:00
-Time124,15:35:00
-Time125,17:20:00
-Time126,17:45:00
-Time127,18:38:00
-Time128,18:39:00
-Time129,21:00:00
-Time130,21:35:00
-Time131,23:14:00
-Time132,23:23:00
-Time133,23:24:00
-Time134,01:30:00
-Time135,02:10:00
-Time136,03:00:00
-Time137,07:15:00
-Time138,08:10:00
-Time139,09:40:00
-Time140,10:40:00
-Time141,11:04:00
-Time142,12:30:00
-Time143,17:10:00
-Time144,00:01:00
-Time145,04:02:00
-Time146,05:45:00
-Time147,12:20:00
-Time148,16:05:00
-Time149,17:44:00
-Time150,18:15:00
-Time151,05:00:00
-Time152,08:25:00
-Time153,08:40:00
-Time154,10:45:00
-Time155,11:48:00
-Time156,11:58:00
-Time157,12:37:00
-Time158,12:55:00
-Time159,14:33:00
-Time160,16:40:00
-Time161,17:03:00
-Time162,18:09:00
-Time163,20:10:00
-Time164,23:40:00
-Time165,01:40:00
-Time166,21:50:00
-Time167,22:08:00
-Time168,23:49:00
-Time169,06:50:00
-Time170,11:22:00
-Time171,15:50:00
-Time172,16:22:00
-Time173,16:58:00
-Time174,17:50:00
-Time175,19:57:00
-Time176,22:20:00
-Time177,22:45:00
-Time178,23:38:00
-Time179,00:25:00
-Time180,06:30:00
-Time181,08:00:00
-Time182,10:24:00
-Time183,14:37:00
-Time184,14:40:00
-Time185,16:20:00
-Time186,05:06:00
-Time187,05:12:00
-Time188,13:10:00
-Time189,16:46:00
-Time190,16:57:00
-Time191,19:15:00
-Time192,00:23:00
-Time193,01:15:00
-Time194,07:55:00
-Time195,09:49:00
-Time196,11:15:00
-Time197,13:29:00
-Time198,13:46:00
-Time199,14:42:00
-Time200,14:51:00
-Time201,16:45:00
-Time202,03:38:00
-Time203,04:50:00
-Time204,08:28:00
-Time205,13:54:00
-Time206,15:15:00
-Time207,16:35:00
-Time208,17:31:00
-Time209,18:19:00
-Time210,21:07:00
-Time211,00:18:00
-Time212,05:15:00
-Time213,20:20:00
-Time214,21:24:00
-Time215,04:59:00
-Time216,13:21:00
-Time217,13:45:00
-Time218,15:34:00
-Time219,21:27:00
-Time220,23:30:00
-Time221,02:42:00
-Time222,08:56:00
-Time223,12:18:00
-Time224,12:40:00
-Time225,20:18:00
-Time226,20:30:00
-Time227,20:33:00
-Time228,21:22:00
-Time229,10:09:00
-Time230,11:50:00
-Time231,17:38:00
-Time232,04:40:00
-Time233,09:15:00
-Time234,10:05:00
-Time235,11:27:00
-Time236,15:47:00
-Time237,17:35:00
-Time238,19:06:00
-Time239,22:18:00
-Time240,07:20:00
-Time241,10:04:00
-Time242,12:59:00
-Time243,19:45:00
-Time244,21:20:00
-Time245,21:23:00
-Time246,01:41:00
-Time247,05:25:00
-Time248,07:04:00
-Time249,12:17:00
-Time250,12:45:00
-Time251,21:05:00
-Time252,08:31:00
-Time253,12:36:00
-Time254,19:37:00
-Time255,22:50:00
-Time256,09:56:00
-Time257,13:11:00
-Time258,15:20:00
-Time259,16:50:00
-Time260,17:46:00
-Time261,18:27:00
-Time262,18:40:00
-Time263,22:06:00
-Time264,08:59:00
-Time265,13:15:00
-Time266,18:54:00
-Time267,19:55:00
-Time268,00:48:00
-Time269,05:38:00
-Time270,07:00:00
-Time271,09:30:00
-Time272,10:23:00
-Time273,15:45:00
-Time274,17:01:00
-Time275,17:40:00
-Time276,19:48:00
-Time277,00:55:00
-Time278,10:30:00
-Time279,14:54:00
-Time280,18:16:00
-Time281,19:14:00
-Time282,22:49:00
-Time283,23:25:00
-Time284,00:40:00
-Time285,01:55:00
-Time286,06:48:00
-Time287,19:13:00
-Time288,15:31:00
-Time289,15:55:00
-Time290,18:25:00
-Time291,21:52:00
-Time292,04:58:00
-Time293,06:40:00
-Time294,19:54:00
-Time295,20:40:00
-Time296,20:55:00
-Time297,09:35:00
-Time298,19:32:00
-Time299,22:41:00
-Time300,22:52:00
-Time301,11:46:00
-Time302,12:02:00
-Time303,12:38:00
-Time304,08:05:00
-Time305,08:15:00
-Time306,11:28:00
-Time307,12:08:00
-Time308,13:24:00
-Time309,19:20:00
-Time310,20:37:00
-Time311,22:00:00
-Time312,23:28:00
-Time313,00:30:00
-Time314,09:07:00
-Time315,19:25:00
-Time316,23:39:00
-Time317,04:07:00
-Time318,07:49:00
-Time319,09:26:00
-Time320,10:41:00
-Time321,19:07:00
-Time322,09:55:00
-Time323,11:53:00
-Time324,16:13:00
-Time325,17:34:00
-Time326,06:20:00
-Time327,08:21:00
-Time328,11:45:00
-Time329,14:10:00
-Time330,14:13:00
-Time331,15:30:00
-Time332,18:59:00
-Time333,20:56:00
-Time334,01:35:00
-Time335,04:04:00
-Time336,06:05:00
-Time337,06:10:00
-Time338,13:59:00
-Time339,17:05:00
-Time340,22:22:00
-Time341,08:55:00
-Time342,14:39:00
-Time343,16:48:00
-Time344,19:08:00
-Time345,13:38:00
-Time346,19:10:00
-Time347,21:19:00
-Time348,22:30:00
-Time349,03:55:00
-Time350,09:13:00
-Time351,12:09:00
-Time352,12:15:00
-Time353,14:02:00
-Time354,16:15:00
-Time355,20:19:00
-Time356,23:15:00
-Time357,10:08:00
-Time358,17:19:00
-Time359,18:14:00
-Time360,19:18:00
-Time361,
-Time362,05:55:00
-Time363,07:40:00
-Time364,11:29:00
-Time365,00:41:00
-Time366,03:23:00
-Time367,11:39:00
-Time368,13:35:00
-Time369,21:12:00
-Time370,21:53:00
-Time371,18:10:00
-Time372,18:55:00
-Time373,03:56:00
-Time374,09:45:00
-Time375,17:54:00
-Time376,19:53:00
-Time377,16:36:00
-Time378,05:47:00
-Time379,16:32:00
-Time380,19:09:00
-Time381,22:25:00
-Time382,22:38:00
-Time383,07:25:00
-Time384,12:34:00
-Time385,20:49:00
-Time386,06:29:00
-Time387,07:14:00
-Time388,11:12:00
-Time389,22:48:00
-Time390,00:42:00
-Time391,04:42:00
-Time392,05:37:00
-Time393,15:11:00
-Time394,16:08:00
-Time395,18:26:00
-Time396,20:43:00
-Time397,21:57:00
-Time398,23:50:00
-Time399,00:31:00
-Time400,01:12:00
-Time401,12:48:00
-Time402,15:06:00
-Time403,18:36:00
-Time404,04:25:00
-Time405,07:22:00
-Time406,14:23:00
-Time407,19:33:00
-Time408,01:06:00
-Time409,01:16:00
-Time410,02:30:00
-Time411,07:30:00
-Time412,22:26:00
-Time413,00:17:00
-Time414,09:03:00
-Time415,09:12:00
-Time416,13:53:00
-Time417,14:35:00
-Time418,02:09:00
-Time419,07:35:00
-Time420,08:49:00
-Time421,09:41:00
-Time422,11:36:00
-Time423,12:04:00
-Time424,13:33:00
-Time425,13:55:00
-Time426,18:56:00
-Time427,12:03:00
-Time428,14:38:00
-Time429,04:45:00
-Time430,01:19:00
-Time431,01:45:00
-Time432,03:25:00
-Time433,03:40:00
-Time434,05:50:00
-Time435,11:24:00
-Time436,13:05:00
-Time437,13:13:00
-Time438,14:05:00
-Time439,14:55:00
-Time440,15:58:00
-Time441,17:04:00
-Time442,17:27:00
-Time443,23:07:00
-Time444,23:35:00
-Time445,02:17:00
-Time446,06:25:00
-Time447,08:08:00
-Time448,11:13:00
-Time449,13:32:00
-Time450,14:01:00
-Time451,22:10:00
-Time452,07:29:00
-Time453,09:34:00
-Time454,19:50:00
-Time455,20:17:00
-Time456,21:17:00
-Time457,00:50:00
-Time458,05:58:00
-Time459,20:50:00
-Time460,05:46:00
-Time461,07:54:00
-Time462,02:04:00
-Time463,14:34:00
-Time464,03:48:00
-Time465,07:17:00
-Time466,09:14:00
-Time467,16:19:00
-Time468,20:26:00
-Time469,02:58:00
-Time470,05:30:00
-Time471,10:55:00
-Time472,16:25:00
-Time473,17:24:00
-Time474,21:15:00
-Time475,11:38:00
-Time476,13:49:00
-Time477,14:16:00
-Time478,19:58:00
-Time479,00:09:00
-Time480,12:01:00
-Time481,14:25:00
-Time482,02:25:00
-Time483,17:09:00
-Time484,20:15:00
-Time485,06:51:00
-Time486,08:14:00
-Time487,13:22:00
-Time488,07:59:00
-Time489,13:42:00
-Time490,20:06:00
-Time491,16:14:00
-Time492,00:15:00
-Time493,21:40:00
-Time494,09:16:00
-Time495,15:57:00
-Time496,21:46:00
-Time497,00:35:00
-Time498,02:11:00
-Time499,16:26:00
-Time500,00:05:00
-Time501,00:10:00
-Time502,08:45:00
-Time503,10:11:00
-Time504,11:21:00
-Time505,05:35:00
-Time506,07:19:00
-Time507,09:57:00
-Time508,16:28:00
-Time509,04:30:00
-Time510,11:55:00
-Time511,13:40:00
-Time512,14:44:00
-Time513,20:12:00
-Time514,21:01:00
-Time515,21:31:00
-Time516,23:42:00
-Time517,01:42:00
-Time518,04:15:00
-Time519,16:55:00
-Time520,10:15:00
-Time521,12:16:00
-Time522,12:43:00
-Time523,15:24:00
-Time524,23:18:00
-Time525,17:18:00
-Time526,18:29:00
-Time527,19:19:00
-Time528,20:09:00
-Time529,22:15:00
-Time530,06:58:00
-Time531,10:28:00
-Time532,14:04:00
-Time533,15:19:00
-Time534,21:16:00
-Time535,07:21:00
-Time536,08:48:00
-Time537,10:01:00
-Time538,15:21:00
-Time539,02:05:00
-Time540,12:46:00
-Time541,13:17:00
-Time542,06:24:00
-Time543,20:28:00
-Time544,02:20:00
-Time545,09:24:00
-Time546,13:19:00
-Time547,21:09:00
-Time548,23:20:00
-Time549,14:11:00
-Time550,03:20:00
-Time551,05:03:00
-Time552,06:45:00
-Time553,13:50:00
-Time554,14:18:00
-Time555,21:58:00
-Time556,23:45:00
-Time557,05:33:00
-Time558,14:56:00
-Time559,18:07:00
-Time560,20:16:00
-Time561,10:07:00
-Time562,11:18:00
-Time563,15:37:00
-Time564,18:50:00
-Time565,23:17:00
-Time566,01:37:00
-Time567,05:10:00
-Time568,08:19:00
-Time569,07:50:00
-Time570,09:09:00
-Time571,16:01:00
-Time572,18:46:00
-Time573,06:31:00
-Time574,08:58:00
-Time575,23:08:00
-Time576,17:08:00
-Time577,12:22:00
-Time578,04:10:00
-Time579,15:43:00
-Time580,16:53:00
-Time581,02:47:00
-Time582,20:45:00
-Time583,21:21:00
-Time584,01:07:00
-Time585,03:08:00
-Time586,05:09:00
-Time587,11:03:00
-Time588,14:52:00
-Time589,22:47:00
-Time590,20:05:00
-Time591,22:57:00
-Time592,12:19:00
-Time593,16:52:00
-Time594,00:44:00
-Time595,03:31:00
-Time596,07:31:00
-Time597,14:24:00
-Time598,01:22:00
-Time599,03:03:00
-Time600,09:53:00
-Time601,11:44:00
-Time602,23:32:00
-Time603,00:27:00
-Time604,02:15:00
-Time605,18:01:00
-Time606,18:35:00
-Time607,21:39:00
-Time608,15:41:00
-Time609,17:17:00
-Time610,05:40:00
-Time611,08:04:00
-Time612,16:09:00
-Time613,09:05:00
-Time614,04:19:00
-Time615,10:27:00
-Time616,15:32:00
-Time617,15:39:00
-Time618,18:57:00
-Time619,23:03:00
-Time620,19:38:00
-Time621,19:21:00
-Time622,19:36:00
-Time623,06:49:00
-Time624,10:39:00
-Time625,14:32:00
-Time626,18:12:00
-Time627,00:02:00
-Time628,08:29:00
-Time629,20:13:00
-Time630,20:59:00
-Time631,20:42:00
-Time632,09:38:00
-Time633,22:36:00
-Time634,23:34:00
-Time635,09:02:00
-Time636,01:38:00
-Time637,11:54:00
-Time638,13:27:00
-Time639,14:03:00
-Time640,04:37:00
-Time641,05:04:00
-Time642,06:08:00
-Time643,09:17:00
-Time644,05:48:00
-Time645,08:39:00
-Time646,15:53:00
-Time647,00:59:00
-Time648,03:44:00
-Time649,06:55:00
-Time650,08:36:00
-Time651,07:06:00
-Time652,05:13:00
-Time653,16:42:00
-Time654,17:37:00
-Time655,17:49:00
-Time656,14:53:00
-Time657,16:12:00
-Time658,18:05:00
-Time659,18:43:00
-Time660,19:49:00
-Time661,09:18:00
-Time662,13:09:00
-Time663,16:47:00
-Time664,23:27:00
-Time665,07:37:00
-Time666,11:32:00
-Time667,01:11:00
-Time668,21:56:00
-Time669,06:26:00
-Time670,12:32:00
-Time671,15:03:00
-Time672,10:26:00
-Time673,23:58:00
-Time674,09:19:00
-Time675,14:19:00
-Time676,15:26:00
-Time677,13:04:00
-Time678,00:21:00
-Time679,03:34:00
-Time680,14:29:00
-Time681,16:54:00
-Time682,19:12:00
-Time683,10:44:00
-Time684,14:28:00
-Time685,00:45:00
-Time686,10:52:00
-Time687,15:02:00
-Time688,16:02:00
-Time689,23:09:00
-Time690,11:34:00
-Time691,07:23:00
-Time692,09:47:00
-Time693,15:54:00
-Time694,16:51:00
-Time695,17:42:00
-Time696,23:05:00
-Time697,10:34:00
-Time698,22:31:00
-Time699,01:23:00
-Time700,05:54:00
-Time701,11:19:00
-Time702,12:56:00
-Time703,05:53:00
-Time704,08:50:00
-Time705,13:28:00
-Time706,13:47:00
-Time707,19:47:00
-Time708,21:14:00
-Time709,09:23:00
-Time710,00:16:00
-Time711,06:39:00
-Time712,06:43:00
-Time713,07:32:00
-Time714,14:09:00
-Time715,10:53:00
-Time716,12:21:00
-Time717,15:49:00
-Time718,14:58:00
-Time719,15:59:00
-Time720,07:43:00
-Time721,08:37:00
-Time722,12:49:00
-Time723,12:27:00
-Time724,13:18:00
-Time725,16:04:00
-Time726,22:16:00
-Time727,02:45:00
-Time728,19:22:00
-Time729,14:49:00
-Time730,16:39:00
-Time731,20:01:00
-Time732,04:55:00
-Time733,17:16:00
-Time734,18:34:00
-Time735,18:41:00
-Time736,07:38:00
-Time737,07:45:00
-Time738,10:12:00
-Time739,16:24:00
-Time740,18:32:00
-Time741,09:44:00
-Time742,13:56:00
-Time743,15:36:00
-Time744,00:24:00
-Time745,06:07:00
-Time746,11:43:00
-Time747,16:31:00
-Time748,20:41:00
-Time749,06:19:00
-Time750,13:14:00
-Time751,14:59:00
-Time752,15:29:00
-Time753,16:43:00
-Time754,20:27:00
-Time755,23:52:00
-Time756,01:20:00
-Time757,10:21:00
-Time758,17:59:00
-Time759,19:59:00
-Time760,21:34:00
-Time761,19:03:00
-Time762,04:29:00
-Time763,15:23:00
-Time764,21:55:00
-Time765,16:21:00
-Time766,18:48:00
-Time767,16:34:00
-Time768,18:49:00
-Time769,19:43:00
-Time770,22:12:00
-Time771,23:04:00
-Time772,11:49:00
-Time773,16:06:00
-Time774,10:46:00
-Time775,12:26:00
-Time776,20:54:00
-Time777,01:10:00
-Time778,13:02:00
-Time779,21:29:00
-Time780,12:57:00
-Time781,00:20:00
-Time782,14:26:00
-Time783,19:29:00
-Time784,23:11:00
-Time785,09:54:00
-Time786,16:41:00
-Time787,22:29:00
-Time788,08:16:00
-Time789,10:57:00
-Time790,12:06:00
-Time791,20:25:00
-Time792,13:23:00
-Time793,14:46:00
-Time794,21:02:00
-Time795,21:03:00
-Time796,21:33:00
-Time797,00:14:00
-Time798,19:28:00
-Time799,05:23:00
-Time800,16:03:00
-Time801,20:24:00
-Time802,19:51:00
-Time803,02:03:00
-Time804,17:11:00
-Time805,04:31:00
-Time806,09:01:00
-Time807,18:13:00
-Time808,19:17:00
-Time809,20:36:00
-Time810,10:13:00
-Time811,23:56:00
-Time812,22:58:00
-Time813,08:52:00
-Time814,16:18:00
-Time815,21:47:00
-Time816,02:26:00
-Time817,13:37:00
-Time818,02:14:00
-Time819,06:37:00
-Time820,18:51:00
-Time821,19:01:00
-Time822,03:46:00
-Time823,07:46:00
-Time824,08:35:00
-Time825,08:51:00
-Time826,13:57:00
-Time827,03:02:00
-Time828,22:05:00
-Time829,23:44:00
-Time830,20:29:00
-Time831,03:59:00
-Time832,17:39:00
-Time833,02:12:00
-Time834,06:44:00
-Time835,17:29:00
-Time836,20:57:00
-Time837,02:24:00
-Time838,06:04:00
-Time839,23:41:00
-Time840,01:29:00
-Time841,18:42:00
-Time842,18:21:00
-Time843,01:50:00
-Time844,16:07:00
-Time845,00:28:00
-Time846,07:33:00
-Time847,15:56:00
-Time848,19:27:00
-Time849,23:29:00
-Time850,07:02:00
-Time851,11:47:00
-Time852,19:26:00
-Time853,08:18:00
-Time854,08:42:00
-Time855,16:49:00
-Time856,18:47:00
-Time857,08:47:00
-Time858,13:08:00
-Time859,14:47:00
-Time860,01:18:00
-Time861,06:09:00
-Time862,10:38:00
-Time863,15:48:00
-Time864,03:54:00
-Time865,15:33:00
-Time866,20:07:00
-Time867,11:51:00
-Time868,17:28:00
-Time869,07:52:00
-Time870,12:39:00
-Time871,00:58:00
-Time872,08:38:00
-Time873,00:26:00
-Time874,13:12:00
-Time875,07:11:00
-Time876,08:34:00
-Time877,17:12:00
-Time878,17:36:00
-Time879,21:44:00
-Time880,05:26:00
-Time881,10:16:00
-Time882,12:52:00
-Time883,12:58:00
-Time884,01:14:00
-Time885,19:56:00
-Time886,05:02:00
-Time887,06:18:00
-Time888,15:09:00
-Time889,04:48:00
-Time890,18:44:00
-Time891,19:11:00
-Time892,17:22:00
-Time893,18:17:00
-Time894,06:16:00
-Time895,11:14:00
-Time896,00:46:00
-Time897,03:09:00
-Time898,18:52:00
-Time899,00:54:00
-Time900,03:32:00
-Time901,23:46:00
-Time902,20:35:00
-Time903,14:57:00
-Time904,00:07:00
-Time905,06:42:00
-Time906,09:11:00
-Time907,11:26:00
-Time908,12:11:00
-Time909,01:44:00
-Time910,03:50:00
-Time911,14:27:00
-Time912,14:31:00
-Time913,17:26:00
-Time914,20:02:00
-Time915,16:16:00
-Time916,21:59:00
-Time917,20:44:00
-Time918,09:20:00
-Time919,16:38:00
-Time920,02:50:00
-Time921,20:32:00
-Time922,12:13:00
-Time923,16:44:00
-Time924,01:25:00
-Time925,16:29:00
-Time926,04:11:00
-Time927,07:51:00
-Time928,13:31:00
-Time929,23:16:00
-Time930,08:46:00
-Time931,11:02:00
-Time932,21:25:00
-Time933,11:31:00
-Time934,16:37:00
-Time935,13:07:00
-Time936,17:07:00
-Time937,05:42:00
-Time938,00:37:00
-Time939,11:16:00
-Time940,02:34:00
-Time941,07:24:00
-Time942,19:39:00
-Time943,02:55:00
-Time944,23:36:00
-Time945,14:41:00
-Time946,17:06:00
-Time947,17:55:00
-Time948,18:58:00
-Time949,07:58:00
-Time950,03:14:00
-Time951,06:17:00
-Time952,23:33:00
-Time953,07:08:00
-Time954,07:42:00
-Time955,08:23:00
-Time956,22:44:00
-Time957,10:19:00
-Time958,23:31:00
-Time959,10:32:00
-Time960,07:27:00
-Time961,09:48:00
-Time962,13:16:00
-Time963,22:01:00
-Time964,08:32:00
-Time965,06:13:00
-Time966,08:06:00
-Time967,11:33:00
-Time968,11:37:00
-Time969,16:11:00
-Time970,20:14:00
-Time971,14:08:00
-Time972,22:32:00
-Time973,01:59:00
-Time974,07:09:00
-Time975,03:57:00
-Time976,08:24:00
-Time977,20:48:00
-Time978,21:41:00
-Time979,05:14:00
-Time980,01:05:00
-Time981,11:52:00
-Time982,13:06:00
-Time983,09:29:00
-Time984,11:01:00
-Time985,17:41:00
-Time986,23:22:00
-Time987,10:37:00
-Time988,02:13:00
-Time989,06:52:00
-Time990,09:37:00
-Time991,01:52:00
-Time992,10:14:00
-Time993,18:02:00
-Time994,10:18:00
-Time995,21:08:00
-Time996,01:57:00
-Time997,14:36:00
-Time998,10:43:00
-Time999,16:23:00
-Time1000,10:22:00
-Time1001,17:47:00
-Time1002,22:28:00
-Time1003,18:23:00
-Time1004,01:08:00
-Time1005,15:42:00
-Time1006,01:49:00
-Time1007,04:56:00
-Time1008,10:31:00
-Time1009,10:59:00
-Time1010,22:21:00
-Time1011,22:46:00
-Time1012,03:19:00
-Time1013,23:37:00
-Time1014,01:03:00
-Time1015,20:39:00
-Time1016,21:51:00
-Time1017,23:57:00
-Time1018,06:27:00
-Time1019,03:12:00
-Time1020,21:48:00
-Time1021,01:24:00
-Time1022,19:16:00
-Time1023,19:31:00
-Time1024,09:58:00
-Time1025,17:13:00
-Time1026,23:19:00
-Time1027,00:13:00
-Time1028,06:03:00
-Time1029,11:17:00
-Time1030,07:01:00
-Time1031,18:33:00
-Time1032,21:28:00
-Time1033,08:01:00
-Time1034,08:07:00
-Time1035,02:16:00
-Time1036,11:09:00
-Time1037,21:13:00
-Time1038,06:01:00
-Time1039,22:37:00
-Time1040,22:04:00
-Time1041,03:05:00
-Time1042,02:33:00
-Time1043,17:51:00
-Time1044,01:17:00
-Time1045,05:44:00
-Time1046,05:05:00
-Time1047,03:33:00
-Time1048,06:33:00
-Time1049,03:11:00
-Time1050,03:43:00
-Time1051,19:34:00
-Time1052,16:33:00
-Time1053,02:31:00
-Time1054,05:34:00
-Time1055,17:53:00
-Time1056,19:23:00
-Time1057,12:24:00
-Time1058,18:06:00
-Time1059,13:43:00
-Time1060,13:48:00
-Time1061,10:17:00
-Time1062,20:08:00
-Time1063,18:04:00
-Time1064,08:44:00
-Time1065,11:59:00
-Time1066,00:32:00
-Time1067,14:21:00
-Time1068,03:39:00
-Time1069,07:13:00
-Time1070,19:46:00
-Time1071,23:48:00
-Time1072,02:57:00
-Time1073,07:34:00
-Time1074,04:39:00
-Time1075,06:41:00
-Time1076,13:03:00
-Time1077,13:26:00
-Time1078,22:54:00
-Time1079,05:59:00
-Time1080,00:33:00
-Time1081,06:53:00
-Time1082,06:47:00
-Time1083,15:16:00
-Time1084,04:21:00
-Time1085,04:23:00
-Time1086,04:49:00
-Time1087,15:17:00
-Time1088,02:35:00
-Time1089,22:27:00
-Time1090,03:10:00
-Time1091,04:05:00
-Time1092,05:07:00
-Time1093,13:41:00
-Time1094,14:17:00
-Time1095,15:14:00
-Time1096,18:18:00
-Time1097,02:18:00
-Time1098,05:49:00
-Time1099,00:57:00
-Time1100,23:47:00
-Time1101,04:22:00
-Time1102,02:59:00
-Time1103,22:17:00
-Time1104,06:12:00
-Time1105,21:06:00
-Time1106,04:51:00
-Time1107,21:26:00
-Time1108,10:29:00
-Time1109,20:58:00
-Time1110,05:22:00
-Time1111,03:18:00
-Time1112,17:32:00
-Time1113,21:18:00
-Time1114,22:09:00
-Time1115,09:06:00
-Time1116,15:22:00
-Time1117,12:33:00
-Time1118,02:28:00
-Time1119,13:52:00
-Time1120,11:07:00
-Time1121,13:51:00
-Time1122,20:38:00
-Time1123,12:53:00
-Time1124,15:51:00
-Time1125,16:17:00
-Time1126,05:32:00
-Time1127,08:17:00
-Time1128,08:57:00
-Time1129,14:12:00
-Time1130,14:14:00
-Time1131,08:27:00
-Time1132,15:46:00
-Time1133,09:28:00
-Time1134,10:42:00
-Time1135,02:19:00
-Time1136,00:29:00
-Time1137,05:51:00
-Time1138,05:52:00
-Time1139,20:11:00
-Time1140,00:04:00
-Time1141,04:28:00
-Time1142,01:13:00
-Time1143,04:32:00
-Time1144,17:21:00
-Time1145,17:56:00
-Time1146,09:27:00
-Time1147,02:52:00
-Time1148,03:13:00
-Time1149,06:02:00
-Time1150,02:08:00
-Time1151,07:57:00
-Time1152,12:29:00
-Time1153,11:11:00
-Time1154,07:26:00
-Time1155,07:03:00
-Time1156,04:35:00
-Time1157,10:06:00
-Time1158,22:14:00
-Time1159,07:48:00
-Time1160,12:31:00
-Time1161,17:23:00
-Time1162,09:32:00
-Time1163,00:08:00
-Time1164,02:49:00
-Time1165,06:32:00
-Time1166,14:22:00
-Time1167,07:39:00
-Time1168,03:35:00
-Time1169,15:44:00
-Time1170,05:21:00
-Time1171,10:49:00
-Time1172,01:31:00
-Time1173,01:54:00
-Time1174,19:42:00
-Time1175,22:03:00
-Time1176,20:22:00
-Time1177,15:27:00
-Time1178,04:24:00
-Time1179,05:56:00
-Time1180,06:11:00
-Time1181,22:53:00
-Time1182,04:38:00
-Time1183,08:43:00
-Time1184,05:16:00
-Time1185,09:36:00
-Time1186,23:06:00
-Time1187,08:53:00
-Time1188,15:12:00
-Time1189,09:04:00
-Time1190,18:37:00
-Time1191,19:24:00
-Time1192,15:13:00
-Time1193,07:18:00
-Time1194,23:54:00
-Time1195,07:16:00
-Time1196,06:46:00
-Time1197,02:43:00
-Time1198,12:14:00
-Time1199,05:39:00
-Time1200,21:42:00
-Time1201,22:13:00
-Time1202,22:07:00
-Time1203,04:06:00
-Time1204,08:22:00
-Time1205,22:51:00
-Time1206,01:51:00
-Time1207,05:31:00
-Time1208,02:22:00
-Time1209,21:37:00
-Time1210,17:33:00
-Time1211,01:28:00
-Time1212,17:52:00
-Time1213,18:22:00
-Time1214,07:56:00
-Time1215,08:11:00
-Time1216,20:53:00
-Time1217,06:22:00
-Time1218,13:44:00
-Time1219,06:06:00
-Time1220,10:33:00
-Time1221,04:36:00
-Time1222,02:44:00
-Time1223,03:28:00
-Time1224,04:14:00
-Time1225,08:26:00
-Time1226,21:32:00
-Time1227,01:33:00
-Time1228,17:14:00
-Time1229,06:34:00
-Time1230,00:52:00
-Time1231,01:48:00
-Time1232,17:02:00
-Time1233,07:53:00
-Time1234,14:07:00
-Time1235,11:41:00
-Time1236,00:22:00
-Time1237,22:39:00
-Time1238,06:56:00
-Time1239,08:12:00
-Time1240,11:06:00
-Time1241,21:43:00
-Time1242,07:28:00
-Time1243,19:41:00
-Time1244,00:12:00
-Time1245,00:51:00
-Time1246,01:53:00
-Time1247,02:41:00
-Time1248,18:03:00
-Time1249,01:02:00
-Time1250,20:52:00
-Time1251,00:49:00
-Time1252,04:12:00
-Time1253,04:43:00
-Time1254,05:41:00
-Time1255,18:08:00
-Time1256,11:56:00
-Time1257,00:56:00
-Time1258,07:47:00
-Time1259,12:47:00
-Time1260,03:07:00
-Time1261,00:43:00
-Time1262,11:08:00
-Time1263,04:54:00
-Time1264,02:06:00
-Time1265,19:44:00
-Time1266,00:03:00
-Time1267,15:28:00
-Time1268,03:16:00
-Time1269,06:59:00
-Time1270,09:31:00
-Time1271,04:33:00
-Time1272,10:58:00
-Time1273,00:53:00
-Time1274,02:36:00
-Time1275,12:44:00
-Time1276,03:49:00
-Time1277,09:59:00
-Time1278,05:17:00
-Time1279,23:59:00
-Time1280,07:44:00
-Time1281,19:04:00
-Time1282,13:34:00
-Time1283,02:39:00
-Time1284,04:09:00
-Time1285,18:11:00
-Time1286,00:11:00
-Time1287,00:06:00
-Time1288,11:57:00
-Time1289,21:54:00
-Time1290,20:51:00
-Time1291,01:01:00
-Time1292,09:51:00
-Time1293,15:04:00
-Time1294,22:23:00
-Time1295,21:49:00
-Time1296,09:22:00
-Time1297,20:04:00
-Time1298,20:03:00
-Time1299,07:07:00
-Time1300,16:59:00
-Time1301,10:03:00
-Time1302,02:38:00
-Time1303,09:39:00
-Time1304,01:27:00
-Time1305,09:52:00
-Time1306,02:48:00
-Time1307,04:08:00
-Time1308,09:08:00
-Time1309,02:07:00
-Time1310,02:54:00
-Time1311,05:18:00
-Time1312,11:42:00
-Time1313,20:46:00
-Time1314,22:11:00
-Time1315,14:06:00
-Time1316,04:16:00
-Time1317,01:34:00
-Time1318,06:28:00
-Time1319,16:56:00
-Time1320,02:51:00
-Time1321,23:13:00
-Time1322,10:47:00
-Time1323,18:53:00
-Time1324,00:36:00
-Time1325,23:26:00
-Time1326,09:42:00
-Time1327,20:31:00
-Time1328,22:43:00
-Time1329,05:36:00
-Time1330,01:04:00
-Time1331,19:02:00
-Time1332,08:03:00
-Time1333,18:28:00
-Time1334,23:01:00
-Time1335,01:26:00
-Time1336,04:01:00
-Time1337,18:24:00
-Time1338,01:36:00
-Time1339,06:36:00
-Time1340,02:01:00
-Time1341,05:28:00
-Time1342,07:36:00
-Time1343,06:21:00
-Time1344,05:43:00
-Time1345,17:43:00
-Time1346,10:51:00
-Time1347,08:33:00
-Time1348,00:34:00
-Time1349,03:47:00
-Time1350,06:14:00
-Time1351,00:39:00
-Time1352,01:43:00
-Time1353,05:11:00
-Time1354,02:46:00
-Time1355,03:37:00
-Time1356,09:46:00
-Time1357,01:46:00
-Time1358,04:46:00
-Time1359,08:41:00
-Time1360,04:52:00
-Time1361,08:02:00
-Time1362,02:32:00
-Time1363,04:41:00
-Time1364,01:58:00
-Time1365,03:22:00
-Time1366,03:17:00
-Time1367,15:01:00
-Time1368,11:23:00
-Time1369,01:47:00
-Time1370,05:19:00
-Time1371,04:47:00
-Time1372,04:13:00
-Time1373,03:01:00
-Time1374,13:01:00
-Time1375,03:26:00
-Time1376,03:21:00
-Time1377,20:21:00
-Time1378,00:47:00
-Time1379,05:29:00
-Time1380,12:41:00
-Time1381,20:23:00
-Time1382,03:52:00
-Time1383,13:36:00
-Time1384,21:11:00
-Time1385,23:02:00
-Time1386,03:06:00
-Time1387,03:53:00
-Time1388,01:32:00
-Time1389,22:56:00
-Time1390,07:12:00
-Time1391,03:24:00
-Time1392,22:59:00
-Time1393,21:36:00
-Time1394,09:33:00
-Time1395,03:58:00
-Time1396,00:38:00
-Time1397,04:34:00
-Time1398,05:24:00
-Time1399,09:21:00
-Time1400,10:02:00
-Time1401,06:38:00
-Time1402,22:24:00
-Time1403,04:18:00
-Time1404,02:29:00
-Time1405,18:31:00
-Time1406,07:41:00
-Time1407,02:23:00
-Time1408,02:53:00
-Time1409,03:36:00
-Time1410,05:08:00
-Time1411,22:34:00
-Time1412,19:52:00
-Time1413,03:04:00
-Time1414,23:21:00
-Time1415,01:56:00
-Time1416,01:21:00
-Time1417,04:27:00
-Time1418,23:51:00
-Time1419,08:54:00
-Time1420,03:42:00
-Time1421,22:33:00
-Time1422,06:57:00
+TimeID,Hour,TimeGroup
+1,4.0,Early Morning
+2,6.0,Morning
+3,9.0,Morning
+4,10.0,Morning
+5,11.0,Morning
+6,13.0,Afternoon
+7,13.0,Afternoon
+8,17.0,Afternoon
+9,19.0,Evening
+10,19.0,Evening
+11,19.0,Evening
+12,22.0,Night
+13,23.0,Night
+14,23.0,Night
+15,1.0,Early Morning
+16,1.0,Early Morning
+17,2.0,Early Morning
+18,9.0,Morning
+19,10.0,Morning
+20,10.0,Morning
+21,12.0,Afternoon
+22,13.0,Afternoon
+23,14.0,Afternoon
+24,14.0,Afternoon
+25,15.0,Afternoon
+26,16.0,Afternoon
+27,19.0,Evening
+28,20.0,Evening
+29,21.0,Night
+30,21.0,Night
+31,2.0,Early Morning
+32,3.0,Early Morning
+33,4.0,Early Morning
+34,4.0,Early Morning
+35,8.0,Morning
+36,10.0,Morning
+37,10.0,Morning
+38,11.0,Morning
+39,11.0,Morning
+40,12.0,Afternoon
+41,14.0,Afternoon
+42,15.0,Afternoon
+43,15.0,Afternoon
+44,15.0,Afternoon
+45,15.0,Afternoon
+46,16.0,Afternoon
+47,20.0,Evening
+48,21.0,Night
+49,22.0,Night
+50,2.0,Early Morning
+51,6.0,Morning
+52,8.0,Morning
+53,8.0,Morning
+54,11.0,Morning
+55,12.0,Afternoon
+56,12.0,Afternoon
+57,12.0,Afternoon
+58,12.0,Afternoon
+59,12.0,Afternoon
+60,13.0,Afternoon
+61,14.0,Afternoon
+62,14.0,Afternoon
+63,14.0,Afternoon
+64,17.0,Afternoon
+65,17.0,Afternoon
+66,18.0,Evening
+67,18.0,Evening
+68,22.0,Night
+69,23.0,Night
+70,1.0,Early Morning
+71,9.0,Morning
+72,9.0,Morning
+73,12.0,Afternoon
+74,15.0,Afternoon
+75,16.0,Afternoon
+76,17.0,Afternoon
+77,22.0,Night
+78,6.0,Morning
+79,8.0,Morning
+80,11.0,Morning
+81,13.0,Afternoon
+82,13.0,Afternoon
+83,17.0,Afternoon
+84,18.0,Evening
+85,21.0,Night
+86,22.0,Night
+87,23.0,Night
+88,0.0,Early Morning
+89,12.0,Afternoon
+90,12.0,Afternoon
+91,19.0,Evening
+92,4.0,Early Morning
+93,7.0,Morning
+94,7.0,Morning
+95,10.0,Morning
+96,10.0,Morning
+97,10.0,Morning
+98,12.0,Afternoon
+99,14.0,Afternoon
+100,17.0,Afternoon
+101,18.0,Evening
+102,20.0,Evening
+103,21.0,Night
+104,22.0,Night
+105,3.0,Early Morning
+106,6.0,Morning
+107,6.0,Morning
+108,10.0,Morning
+109,12.0,Afternoon
+110,14.0,Afternoon
+111,15.0,Afternoon
+112,15.0,Afternoon
+113,15.0,Afternoon
+114,15.0,Afternoon
+115,16.0,Afternoon
+116,17.0,Afternoon
+117,3.0,Early Morning
+118,5.0,Early Morning
+119,9.0,Morning
+120,10.0,Morning
+121,11.0,Morning
+122,11.0,Morning
+123,11.0,Morning
+124,15.0,Afternoon
+125,17.0,Afternoon
+126,17.0,Afternoon
+127,18.0,Evening
+128,18.0,Evening
+129,21.0,Night
+130,21.0,Night
+131,23.0,Night
+132,23.0,Night
+133,23.0,Night
+134,1.0,Early Morning
+135,2.0,Early Morning
+136,3.0,Early Morning
+137,7.0,Morning
+138,8.0,Morning
+139,9.0,Morning
+140,10.0,Morning
+141,11.0,Morning
+142,12.0,Afternoon
+143,17.0,Afternoon
+144,0.0,Early Morning
+145,4.0,Early Morning
+146,5.0,Early Morning
+147,12.0,Afternoon
+148,16.0,Afternoon
+149,17.0,Afternoon
+150,18.0,Evening
+151,5.0,Early Morning
+152,8.0,Morning
+153,8.0,Morning
+154,10.0,Morning
+155,11.0,Morning
+156,11.0,Morning
+157,12.0,Afternoon
+158,12.0,Afternoon
+159,14.0,Afternoon
+160,16.0,Afternoon
+161,17.0,Afternoon
+162,18.0,Evening
+163,20.0,Evening
+164,23.0,Night
+165,1.0,Early Morning
+166,21.0,Night
+167,22.0,Night
+168,23.0,Night
+169,6.0,Morning
+170,11.0,Morning
+171,15.0,Afternoon
+172,16.0,Afternoon
+173,16.0,Afternoon
+174,17.0,Afternoon
+175,19.0,Evening
+176,22.0,Night
+177,22.0,Night
+178,23.0,Night
+179,0.0,Early Morning
+180,6.0,Morning
+181,8.0,Morning
+182,10.0,Morning
+183,14.0,Afternoon
+184,14.0,Afternoon
+185,16.0,Afternoon
+186,5.0,Early Morning
+187,5.0,Early Morning
+188,13.0,Afternoon
+189,16.0,Afternoon
+190,16.0,Afternoon
+191,19.0,Evening
+192,0.0,Early Morning
+193,1.0,Early Morning
+194,7.0,Morning
+195,9.0,Morning
+196,11.0,Morning
+197,13.0,Afternoon
+198,13.0,Afternoon
+199,14.0,Afternoon
+200,14.0,Afternoon
+201,16.0,Afternoon
+202,3.0,Early Morning
+203,4.0,Early Morning
+204,8.0,Morning
+205,13.0,Afternoon
+206,15.0,Afternoon
+207,16.0,Afternoon
+208,17.0,Afternoon
+209,18.0,Evening
+210,21.0,Night
+211,0.0,Early Morning
+212,5.0,Early Morning
+213,20.0,Evening
+214,21.0,Night
+215,4.0,Early Morning
+216,13.0,Afternoon
+217,13.0,Afternoon
+218,15.0,Afternoon
+219,21.0,Night
+220,23.0,Night
+221,2.0,Early Morning
+222,8.0,Morning
+223,12.0,Afternoon
+224,12.0,Afternoon
+225,20.0,Evening
+226,20.0,Evening
+227,20.0,Evening
+228,21.0,Night
+229,10.0,Morning
+230,11.0,Morning
+231,17.0,Afternoon
+232,4.0,Early Morning
+233,9.0,Morning
+234,10.0,Morning
+235,11.0,Morning
+236,15.0,Afternoon
+237,17.0,Afternoon
+238,19.0,Evening
+239,22.0,Night
+240,7.0,Morning
+241,10.0,Morning
+242,12.0,Afternoon
+243,19.0,Evening
+244,21.0,Night
+245,21.0,Night
+246,1.0,Early Morning
+247,5.0,Early Morning
+248,7.0,Morning
+249,12.0,Afternoon
+250,12.0,Afternoon
+251,21.0,Night
+252,8.0,Morning
+253,12.0,Afternoon
+254,19.0,Evening
+255,22.0,Night
+256,9.0,Morning
+257,13.0,Afternoon
+258,15.0,Afternoon
+259,16.0,Afternoon
+260,17.0,Afternoon
+261,18.0,Evening
+262,18.0,Evening
+263,22.0,Night
+264,8.0,Morning
+265,13.0,Afternoon
+266,18.0,Evening
+267,19.0,Evening
+268,0.0,Early Morning
+269,5.0,Early Morning
+270,7.0,Morning
+271,9.0,Morning
+272,10.0,Morning
+273,15.0,Afternoon
+274,17.0,Afternoon
+275,17.0,Afternoon
+276,19.0,Evening
+277,0.0,Early Morning
+278,10.0,Morning
+279,14.0,Afternoon
+280,18.0,Evening
+281,19.0,Evening
+282,22.0,Night
+283,23.0,Night
+284,0.0,Early Morning
+285,1.0,Early Morning
+286,6.0,Morning
+287,19.0,Evening
+288,15.0,Afternoon
+289,15.0,Afternoon
+290,18.0,Evening
+291,21.0,Night
+292,4.0,Early Morning
+293,6.0,Morning
+294,19.0,Evening
+295,20.0,Evening
+296,20.0,Evening
+297,9.0,Morning
+298,19.0,Evening
+299,22.0,Night
+300,22.0,Night
+301,11.0,Morning
+302,12.0,Afternoon
+303,12.0,Afternoon
+304,8.0,Morning
+305,8.0,Morning
+306,11.0,Morning
+307,12.0,Afternoon
+308,13.0,Afternoon
+309,19.0,Evening
+310,20.0,Evening
+311,22.0,Night
+312,23.0,Night
+313,0.0,Early Morning
+314,9.0,Morning
+315,19.0,Evening
+316,23.0,Night
+317,4.0,Early Morning
+318,7.0,Morning
+319,9.0,Morning
+320,10.0,Morning
+321,19.0,Evening
+322,9.0,Morning
+323,11.0,Morning
+324,16.0,Afternoon
+325,17.0,Afternoon
+326,6.0,Morning
+327,8.0,Morning
+328,11.0,Morning
+329,14.0,Afternoon
+330,14.0,Afternoon
+331,15.0,Afternoon
+332,18.0,Evening
+333,20.0,Evening
+334,1.0,Early Morning
+335,4.0,Early Morning
+336,6.0,Morning
+337,6.0,Morning
+338,13.0,Afternoon
+339,17.0,Afternoon
+340,22.0,Night
+341,8.0,Morning
+342,14.0,Afternoon
+343,16.0,Afternoon
+344,19.0,Evening
+345,13.0,Afternoon
+346,19.0,Evening
+347,21.0,Night
+348,22.0,Night
+349,3.0,Early Morning
+350,9.0,Morning
+351,12.0,Afternoon
+352,12.0,Afternoon
+353,14.0,Afternoon
+354,16.0,Afternoon
+355,20.0,Evening
+356,23.0,Night
+357,10.0,Morning
+358,17.0,Afternoon
+359,18.0,Evening
+360,19.0,Evening
+361,5.0,Early Morning
+362,7.0,Morning
+363,11.0,Morning
+364,0.0,Early Morning
+365,3.0,Early Morning
+366,11.0,Morning
+367,13.0,Afternoon
+368,21.0,Night
+369,21.0,Night
+370,18.0,Evening
+371,18.0,Evening
+372,3.0,Early Morning
+373,9.0,Morning
+374,17.0,Afternoon
+375,19.0,Evening
+376,16.0,Afternoon
+377,5.0,Early Morning
+378,16.0,Afternoon
+379,19.0,Evening
+380,22.0,Night
+381,22.0,Night
+382,7.0,Morning
+383,12.0,Afternoon
+384,20.0,Evening
+385,6.0,Morning
+386,7.0,Morning
+387,11.0,Morning
+388,22.0,Night
+389,0.0,Early Morning
+390,4.0,Early Morning
+391,5.0,Early Morning
+392,15.0,Afternoon
+393,16.0,Afternoon
+394,18.0,Evening
+395,20.0,Evening
+396,21.0,Night
+397,23.0,Night
+398,0.0,Early Morning
+399,1.0,Early Morning
+400,12.0,Afternoon
+401,15.0,Afternoon
+402,18.0,Evening
+403,4.0,Early Morning
+404,7.0,Morning
+405,14.0,Afternoon
+406,19.0,Evening
+407,1.0,Early Morning
+408,1.0,Early Morning
+409,2.0,Early Morning
+410,7.0,Morning
+411,22.0,Night
+412,0.0,Early Morning
+413,9.0,Morning
+414,9.0,Morning
+415,13.0,Afternoon
+416,14.0,Afternoon
+417,2.0,Early Morning
+418,7.0,Morning
+419,8.0,Morning
+420,9.0,Morning
+421,11.0,Morning
+422,12.0,Afternoon
+423,13.0,Afternoon
+424,13.0,Afternoon
+425,18.0,Evening
+426,12.0,Afternoon
+427,14.0,Afternoon
+428,4.0,Early Morning
+429,1.0,Early Morning
+430,1.0,Early Morning
+431,3.0,Early Morning
+432,3.0,Early Morning
+433,5.0,Early Morning
+434,11.0,Morning
+435,13.0,Afternoon
+436,13.0,Afternoon
+437,14.0,Afternoon
+438,14.0,Afternoon
+439,15.0,Afternoon
+440,17.0,Afternoon
+441,17.0,Afternoon
+442,23.0,Night
+443,23.0,Night
+444,2.0,Early Morning
+445,6.0,Morning
+446,8.0,Morning
+447,11.0,Morning
+448,13.0,Afternoon
+449,14.0,Afternoon
+450,22.0,Night
+451,7.0,Morning
+452,9.0,Morning
+453,19.0,Evening
+454,20.0,Evening
+455,21.0,Night
+456,0.0,Early Morning
+457,5.0,Early Morning
+458,20.0,Evening
+459,5.0,Early Morning
+460,7.0,Morning
+461,2.0,Early Morning
+462,14.0,Afternoon
+463,3.0,Early Morning
+464,7.0,Morning
+465,9.0,Morning
+466,16.0,Afternoon
+467,20.0,Evening
+468,2.0,Early Morning
+469,5.0,Early Morning
+470,10.0,Morning
+471,16.0,Afternoon
+472,17.0,Afternoon
+473,21.0,Night
+474,11.0,Morning
+475,13.0,Afternoon
+476,14.0,Afternoon
+477,19.0,Evening
+478,0.0,Early Morning
+479,12.0,Afternoon
+480,14.0,Afternoon
+481,2.0,Early Morning
+482,17.0,Afternoon
+483,20.0,Evening
+484,6.0,Morning
+485,8.0,Morning
+486,13.0,Afternoon
+487,7.0,Morning
+488,13.0,Afternoon
+489,20.0,Evening
+490,16.0,Afternoon
+491,0.0,Early Morning
+492,21.0,Night
+493,9.0,Morning
+494,15.0,Afternoon
+495,21.0,Night
+496,0.0,Early Morning
+497,2.0,Early Morning
+498,16.0,Afternoon
+499,0.0,Early Morning
+500,0.0,Early Morning
+501,8.0,Morning
+502,10.0,Morning
+503,11.0,Morning
+504,5.0,Early Morning
+505,7.0,Morning
+506,9.0,Morning
+507,16.0,Afternoon
+508,4.0,Early Morning
+509,11.0,Morning
+510,13.0,Afternoon
+511,14.0,Afternoon
+512,20.0,Evening
+513,21.0,Night
+514,21.0,Night
+515,23.0,Night
+516,1.0,Early Morning
+517,4.0,Early Morning
+518,16.0,Afternoon
+519,10.0,Morning
+520,12.0,Afternoon
+521,12.0,Afternoon
+522,15.0,Afternoon
+523,23.0,Night
+524,17.0,Afternoon
+525,18.0,Evening
+526,19.0,Evening
+527,20.0,Evening
+528,22.0,Night
+529,6.0,Morning
+530,10.0,Morning
+531,14.0,Afternoon
+532,15.0,Afternoon
+533,21.0,Night
+534,7.0,Morning
+535,8.0,Morning
+536,10.0,Morning
+537,15.0,Afternoon
+538,2.0,Early Morning
+539,12.0,Afternoon
+540,13.0,Afternoon
+541,6.0,Morning
+542,20.0,Evening
+543,2.0,Early Morning
+544,9.0,Morning
+545,13.0,Afternoon
+546,21.0,Night
+547,23.0,Night
+548,14.0,Afternoon
+549,3.0,Early Morning
+550,5.0,Early Morning
+551,6.0,Morning
+552,13.0,Afternoon
+553,14.0,Afternoon
+554,21.0,Night
+555,23.0,Night
+556,5.0,Early Morning
+557,14.0,Afternoon
+558,18.0,Evening
+559,20.0,Evening
+560,10.0,Morning
+561,11.0,Morning
+562,15.0,Afternoon
+563,18.0,Evening
+564,23.0,Night
+565,1.0,Early Morning
+566,5.0,Early Morning
+567,8.0,Morning
+568,7.0,Morning
+569,9.0,Morning
+570,16.0,Afternoon
+571,18.0,Evening
+572,6.0,Morning
+573,8.0,Morning
+574,23.0,Night
+575,17.0,Afternoon
+576,12.0,Afternoon
+577,4.0,Early Morning
+578,15.0,Afternoon
+579,16.0,Afternoon
+580,2.0,Early Morning
+581,20.0,Evening
+582,21.0,Night
+583,1.0,Early Morning
+584,3.0,Early Morning
+585,5.0,Early Morning
+586,11.0,Morning
+587,14.0,Afternoon
+588,22.0,Night
+589,20.0,Evening
+590,22.0,Night
+591,12.0,Afternoon
+592,16.0,Afternoon
+593,0.0,Early Morning
+594,3.0,Early Morning
+595,7.0,Morning
+596,14.0,Afternoon
+597,1.0,Early Morning
+598,3.0,Early Morning
+599,9.0,Morning
+600,11.0,Morning
+601,23.0,Night
+602,0.0,Early Morning
+603,2.0,Early Morning
+604,18.0,Evening
+605,18.0,Evening
+606,21.0,Night
+607,15.0,Afternoon
+608,17.0,Afternoon
+609,5.0,Early Morning
+610,8.0,Morning
+611,16.0,Afternoon
+612,9.0,Morning
+613,4.0,Early Morning
+614,10.0,Morning
+615,15.0,Afternoon
+616,15.0,Afternoon
+617,18.0,Evening
+618,23.0,Night
+619,19.0,Evening
+620,19.0,Evening
+621,19.0,Evening
+622,6.0,Morning
+623,10.0,Morning
+624,14.0,Afternoon
+625,18.0,Evening
+626,0.0,Early Morning
+627,8.0,Morning
+628,20.0,Evening
+629,20.0,Evening
+630,20.0,Evening
+631,9.0,Morning
+632,22.0,Night
+633,23.0,Night
+634,9.0,Morning
+635,1.0,Early Morning
+636,11.0,Morning
+637,13.0,Afternoon
+638,14.0,Afternoon
+639,4.0,Early Morning
+640,5.0,Early Morning
+641,6.0,Morning
+642,9.0,Morning
+643,5.0,Early Morning
+644,8.0,Morning
+645,15.0,Afternoon
+646,0.0,Early Morning
+647,3.0,Early Morning
+648,6.0,Morning
+649,8.0,Morning
+650,7.0,Morning
+651,5.0,Early Morning
+652,16.0,Afternoon
+653,17.0,Afternoon
+654,17.0,Afternoon
+655,14.0,Afternoon
+656,16.0,Afternoon
+657,18.0,Evening
+658,18.0,Evening
+659,19.0,Evening
+660,9.0,Morning
+661,13.0,Afternoon
+662,16.0,Afternoon
+663,23.0,Night
+664,7.0,Morning
+665,11.0,Morning
+666,1.0,Early Morning
+667,21.0,Night
+668,6.0,Morning
+669,12.0,Afternoon
+670,15.0,Afternoon
+671,10.0,Morning
+672,23.0,Night
+673,9.0,Morning
+674,14.0,Afternoon
+675,15.0,Afternoon
+676,13.0,Afternoon
+677,0.0,Early Morning
+678,3.0,Early Morning
+679,14.0,Afternoon
+680,16.0,Afternoon
+681,19.0,Evening
+682,10.0,Morning
+683,14.0,Afternoon
+684,0.0,Early Morning
+685,10.0,Morning
+686,15.0,Afternoon
+687,16.0,Afternoon
+688,23.0,Night
+689,11.0,Morning
+690,7.0,Morning
+691,9.0,Morning
+692,15.0,Afternoon
+693,16.0,Afternoon
+694,17.0,Afternoon
+695,23.0,Night
+696,10.0,Morning
+697,22.0,Night
+698,1.0,Early Morning
+699,5.0,Early Morning
+700,11.0,Morning
+701,12.0,Afternoon
+702,5.0,Early Morning
+703,8.0,Morning
+704,13.0,Afternoon
+705,13.0,Afternoon
+706,19.0,Evening
+707,21.0,Night
+708,9.0,Morning
+709,0.0,Early Morning
+710,6.0,Morning
+711,6.0,Morning
+712,7.0,Morning
+713,14.0,Afternoon
+714,10.0,Morning
+715,12.0,Afternoon
+716,15.0,Afternoon
+717,14.0,Afternoon
+718,15.0,Afternoon
+719,7.0,Morning
+720,8.0,Morning
+721,12.0,Afternoon
+722,12.0,Afternoon
+723,13.0,Afternoon
+724,16.0,Afternoon
+725,22.0,Night
+726,2.0,Early Morning
+727,19.0,Evening
+728,14.0,Afternoon
+729,16.0,Afternoon
+730,20.0,Evening
+731,4.0,Early Morning
+732,17.0,Afternoon
+733,18.0,Evening
+734,18.0,Evening
+735,7.0,Morning
+736,7.0,Morning
+737,10.0,Morning
+738,16.0,Afternoon
+739,18.0,Evening
+740,9.0,Morning
+741,13.0,Afternoon
+742,15.0,Afternoon
+743,0.0,Early Morning
+744,6.0,Morning
+745,11.0,Morning
+746,16.0,Afternoon
+747,20.0,Evening
+748,6.0,Morning
+749,13.0,Afternoon
+750,14.0,Afternoon
+751,15.0,Afternoon
+752,16.0,Afternoon
+753,20.0,Evening
+754,23.0,Night
+755,1.0,Early Morning
+756,10.0,Morning
+757,17.0,Afternoon
+758,19.0,Evening
+759,21.0,Night
+760,19.0,Evening
+761,4.0,Early Morning
+762,15.0,Afternoon
+763,21.0,Night
+764,16.0,Afternoon
+765,18.0,Evening
+766,16.0,Afternoon
+767,18.0,Evening
+768,19.0,Evening
+769,22.0,Night
+770,23.0,Night
+771,11.0,Morning
+772,16.0,Afternoon
+773,10.0,Morning
+774,12.0,Afternoon
+775,20.0,Evening
+776,1.0,Early Morning
+777,13.0,Afternoon
+778,21.0,Night
+779,12.0,Afternoon
+780,0.0,Early Morning
+781,14.0,Afternoon
+782,19.0,Evening
+783,23.0,Night
+784,9.0,Morning
+785,16.0,Afternoon
+786,22.0,Night
+787,8.0,Morning
+788,10.0,Morning
+789,12.0,Afternoon
+790,20.0,Evening
+791,13.0,Afternoon
+792,14.0,Afternoon
+793,21.0,Night
+794,21.0,Night
+795,21.0,Night
+796,0.0,Early Morning
+797,19.0,Evening
+798,5.0,Early Morning
+799,16.0,Afternoon
+800,20.0,Evening
+801,19.0,Evening
+802,2.0,Early Morning
+803,17.0,Afternoon
+804,4.0,Early Morning
+805,9.0,Morning
+806,18.0,Evening
+807,19.0,Evening
+808,20.0,Evening
+809,10.0,Morning
+810,23.0,Night
+811,22.0,Night
+812,8.0,Morning
+813,16.0,Afternoon
+814,21.0,Night
+815,2.0,Early Morning
+816,13.0,Afternoon
+817,2.0,Early Morning
+818,6.0,Morning
+819,18.0,Evening
+820,19.0,Evening
+821,3.0,Early Morning
+822,7.0,Morning
+823,8.0,Morning
+824,8.0,Morning
+825,13.0,Afternoon
+826,3.0,Early Morning
+827,22.0,Night
+828,23.0,Night
+829,20.0,Evening
+830,3.0,Early Morning
+831,17.0,Afternoon
+832,2.0,Early Morning
+833,6.0,Morning
+834,17.0,Afternoon
+835,20.0,Evening
+836,2.0,Early Morning
+837,6.0,Morning
+838,23.0,Night
+839,1.0,Early Morning
+840,18.0,Evening
+841,18.0,Evening
+842,1.0,Early Morning
+843,16.0,Afternoon
+844,0.0,Early Morning
+845,7.0,Morning
+846,15.0,Afternoon
+847,19.0,Evening
+848,23.0,Night
+849,7.0,Morning
+850,11.0,Morning
+851,19.0,Evening
+852,8.0,Morning
+853,8.0,Morning
+854,16.0,Afternoon
+855,18.0,Evening
+856,8.0,Morning
+857,13.0,Afternoon
+858,14.0,Afternoon
+859,1.0,Early Morning
+860,6.0,Morning
+861,10.0,Morning
+862,15.0,Afternoon
+863,3.0,Early Morning
+864,15.0,Afternoon
+865,20.0,Evening
+866,11.0,Morning
+867,17.0,Afternoon
+868,7.0,Morning
+869,12.0,Afternoon
+870,0.0,Early Morning
+871,8.0,Morning
+872,0.0,Early Morning
+873,13.0,Afternoon
+874,7.0,Morning
+875,8.0,Morning
+876,17.0,Afternoon
+877,17.0,Afternoon
+878,21.0,Night
+879,5.0,Early Morning
+880,10.0,Morning
+881,12.0,Afternoon
+882,12.0,Afternoon
+883,1.0,Early Morning
+884,19.0,Evening
+885,5.0,Early Morning
+886,6.0,Morning
+887,15.0,Afternoon
+888,4.0,Early Morning
+889,18.0,Evening
+890,19.0,Evening
+891,17.0,Afternoon
+892,18.0,Evening
+893,6.0,Morning
+894,11.0,Morning
+895,0.0,Early Morning
+896,3.0,Early Morning
+897,18.0,Evening
+898,0.0,Early Morning
+899,3.0,Early Morning
+900,23.0,Night
+901,20.0,Evening
+902,14.0,Afternoon
+903,0.0,Early Morning
+904,6.0,Morning
+905,9.0,Morning
+906,11.0,Morning
+907,12.0,Afternoon
+908,1.0,Early Morning
+909,3.0,Early Morning
+910,14.0,Afternoon
+911,14.0,Afternoon
+912,17.0,Afternoon
+913,20.0,Evening
+914,16.0,Afternoon
+915,21.0,Night
+916,20.0,Evening
+917,9.0,Morning
+918,16.0,Afternoon
+919,2.0,Early Morning
+920,20.0,Evening
+921,12.0,Afternoon
+922,16.0,Afternoon
+923,1.0,Early Morning
+924,16.0,Afternoon
+925,4.0,Early Morning
+926,7.0,Morning
+927,13.0,Afternoon
+928,23.0,Night
+929,8.0,Morning
+930,11.0,Morning
+931,21.0,Night
+932,11.0,Morning
+933,16.0,Afternoon
+934,13.0,Afternoon
+935,17.0,Afternoon
+936,5.0,Early Morning
+937,0.0,Early Morning
+938,11.0,Morning
+939,2.0,Early Morning
+940,7.0,Morning
+941,19.0,Evening
+942,2.0,Early Morning
+943,23.0,Night
+944,14.0,Afternoon
+945,17.0,Afternoon
+946,17.0,Afternoon
+947,18.0,Evening
+948,7.0,Morning
+949,3.0,Early Morning
+950,6.0,Morning
+951,23.0,Night
+952,7.0,Morning
+953,7.0,Morning
+954,8.0,Morning
+955,22.0,Night
+956,10.0,Morning
+957,23.0,Night
+958,10.0,Morning
+959,7.0,Morning
+960,9.0,Morning
+961,13.0,Afternoon
+962,22.0,Night
+963,8.0,Morning
+964,6.0,Morning
+965,8.0,Morning
+966,11.0,Morning
+967,11.0,Morning
+968,16.0,Afternoon
+969,20.0,Evening
+970,14.0,Afternoon
+971,22.0,Night
+972,1.0,Early Morning
+973,7.0,Morning
+974,3.0,Early Morning
+975,8.0,Morning
+976,20.0,Evening
+977,21.0,Night
+978,5.0,Early Morning
+979,1.0,Early Morning
+980,11.0,Morning
+981,13.0,Afternoon
+982,9.0,Morning
+983,11.0,Morning
+984,17.0,Afternoon
+985,23.0,Night
+986,10.0,Morning
+987,2.0,Early Morning
+988,6.0,Morning
+989,9.0,Morning
+990,1.0,Early Morning
+991,10.0,Morning
+992,18.0,Evening
+993,10.0,Morning
+994,21.0,Night
+995,1.0,Early Morning
+996,14.0,Afternoon
+997,10.0,Morning
+998,16.0,Afternoon
+999,10.0,Morning
+1000,17.0,Afternoon
+1001,22.0,Night
+1002,18.0,Evening
+1003,1.0,Early Morning
+1004,15.0,Afternoon
+1005,1.0,Early Morning
+1006,4.0,Early Morning
+1007,10.0,Morning
+1008,10.0,Morning
+1009,22.0,Night
+1010,22.0,Night
+1011,3.0,Early Morning
+1012,23.0,Night
+1013,1.0,Early Morning
+1014,20.0,Evening
+1015,21.0,Night
+1016,23.0,Night
+1017,6.0,Morning
+1018,3.0,Early Morning
+1019,21.0,Night
+1020,1.0,Early Morning
+1021,19.0,Evening
+1022,19.0,Evening
+1023,9.0,Morning
+1024,17.0,Afternoon
+1025,23.0,Night
+1026,0.0,Early Morning
+1027,6.0,Morning
+1028,11.0,Morning
+1029,7.0,Morning
+1030,18.0,Evening
+1031,21.0,Night
+1032,8.0,Morning
+1033,8.0,Morning
+1034,2.0,Early Morning
+1035,11.0,Morning
+1036,21.0,Night
+1037,6.0,Morning
+1038,22.0,Night
+1039,22.0,Night
+1040,3.0,Early Morning
+1041,2.0,Early Morning
+1042,17.0,Afternoon
+1043,1.0,Early Morning
+1044,5.0,Early Morning
+1045,5.0,Early Morning
+1046,3.0,Early Morning
+1047,6.0,Morning
+1048,3.0,Early Morning
+1049,3.0,Early Morning
+1050,19.0,Evening
+1051,16.0,Afternoon
+1052,2.0,Early Morning
+1053,5.0,Early Morning
+1054,17.0,Afternoon
+1055,19.0,Evening
+1056,12.0,Afternoon
+1057,18.0,Evening
+1058,13.0,Afternoon
+1059,13.0,Afternoon
+1060,10.0,Morning
+1061,20.0,Evening
+1062,18.0,Evening
+1063,8.0,Morning
+1064,11.0,Morning
+1065,0.0,Early Morning
+1066,14.0,Afternoon
+1067,3.0,Early Morning
+1068,7.0,Morning
+1069,19.0,Evening
+1070,23.0,Night
+1071,2.0,Early Morning
+1072,7.0,Morning
+1073,4.0,Early Morning
+1074,6.0,Morning
+1075,13.0,Afternoon
+1076,13.0,Afternoon
+1077,22.0,Night
+1078,5.0,Early Morning
+1079,0.0,Early Morning
+1080,6.0,Morning
+1081,6.0,Morning
+1082,15.0,Afternoon
+1083,4.0,Early Morning
+1084,4.0,Early Morning
+1085,4.0,Early Morning
+1086,15.0,Afternoon
+1087,2.0,Early Morning
+1088,22.0,Night
+1089,3.0,Early Morning
+1090,4.0,Early Morning
+1091,5.0,Early Morning
+1092,13.0,Afternoon
+1093,14.0,Afternoon
+1094,15.0,Afternoon
+1095,18.0,Evening
+1096,2.0,Early Morning
+1097,5.0,Early Morning
+1098,0.0,Early Morning
+1099,23.0,Night
+1100,4.0,Early Morning
+1101,2.0,Early Morning
+1102,22.0,Night
+1103,6.0,Morning
+1104,21.0,Night
+1105,4.0,Early Morning
+1106,21.0,Night
+1107,10.0,Morning
+1108,20.0,Evening
+1109,5.0,Early Morning
+1110,3.0,Early Morning
+1111,17.0,Afternoon
+1112,21.0,Night
+1113,22.0,Night
+1114,9.0,Morning
+1115,15.0,Afternoon
+1116,12.0,Afternoon
+1117,2.0,Early Morning
+1118,13.0,Afternoon
+1119,11.0,Morning
+1120,13.0,Afternoon
+1121,20.0,Evening
+1122,12.0,Afternoon
+1123,15.0,Afternoon
+1124,16.0,Afternoon
+1125,5.0,Early Morning
+1126,8.0,Morning
+1127,8.0,Morning
+1128,14.0,Afternoon
+1129,14.0,Afternoon
+1130,8.0,Morning
+1131,15.0,Afternoon
+1132,9.0,Morning
+1133,10.0,Morning
+1134,2.0,Early Morning
+1135,0.0,Early Morning
+1136,5.0,Early Morning
+1137,5.0,Early Morning
+1138,20.0,Evening
+1139,0.0,Early Morning
+1140,4.0,Early Morning
+1141,1.0,Early Morning
+1142,4.0,Early Morning
+1143,17.0,Afternoon
+1144,17.0,Afternoon
+1145,9.0,Morning
+1146,2.0,Early Morning
+1147,3.0,Early Morning
+1148,6.0,Morning
+1149,2.0,Early Morning
+1150,7.0,Morning
+1151,12.0,Afternoon
+1152,11.0,Morning
+1153,7.0,Morning
+1154,7.0,Morning
+1155,4.0,Early Morning
+1156,10.0,Morning
+1157,22.0,Night
+1158,7.0,Morning
+1159,12.0,Afternoon
+1160,17.0,Afternoon
+1161,9.0,Morning
+1162,0.0,Early Morning
+1163,2.0,Early Morning
+1164,6.0,Morning
+1165,14.0,Afternoon
+1166,7.0,Morning
+1167,3.0,Early Morning
+1168,15.0,Afternoon
+1169,5.0,Early Morning
+1170,10.0,Morning
+1171,1.0,Early Morning
+1172,1.0,Early Morning
+1173,19.0,Evening
+1174,22.0,Night
+1175,20.0,Evening
+1176,15.0,Afternoon
+1177,4.0,Early Morning
+1178,5.0,Early Morning
+1179,6.0,Morning
+1180,22.0,Night
+1181,4.0,Early Morning
+1182,8.0,Morning
+1183,5.0,Early Morning
+1184,9.0,Morning
+1185,23.0,Night
+1186,8.0,Morning
+1187,15.0,Afternoon
+1188,9.0,Morning
+1189,18.0,Evening
+1190,19.0,Evening
+1191,15.0,Afternoon
+1192,7.0,Morning
+1193,23.0,Night
+1194,7.0,Morning
+1195,6.0,Morning
+1196,2.0,Early Morning
+1197,12.0,Afternoon
+1198,5.0,Early Morning
+1199,21.0,Night
+1200,22.0,Night
+1201,22.0,Night
+1202,4.0,Early Morning
+1203,8.0,Morning
+1204,22.0,Night
+1205,1.0,Early Morning
+1206,5.0,Early Morning
+1207,2.0,Early Morning
+1208,21.0,Night
+1209,17.0,Afternoon
+1210,1.0,Early Morning
+1211,17.0,Afternoon
+1212,18.0,Evening
+1213,7.0,Morning
+1214,8.0,Morning
+1215,20.0,Evening
+1216,6.0,Morning
+1217,13.0,Afternoon
+1218,6.0,Morning
+1219,10.0,Morning
+1220,4.0,Early Morning
+1221,2.0,Early Morning
+1222,3.0,Early Morning
+1223,4.0,Early Morning
+1224,8.0,Morning
+1225,21.0,Night
+1226,1.0,Early Morning
+1227,17.0,Afternoon
+1228,6.0,Morning
+1229,0.0,Early Morning
+1230,1.0,Early Morning
+1231,17.0,Afternoon
+1232,7.0,Morning
+1233,14.0,Afternoon
+1234,11.0,Morning
+1235,0.0,Early Morning
+1236,22.0,Night
+1237,6.0,Morning
+1238,8.0,Morning
+1239,11.0,Morning
+1240,21.0,Night
+1241,7.0,Morning
+1242,19.0,Evening
+1243,0.0,Early Morning
+1244,0.0,Early Morning
+1245,1.0,Early Morning
+1246,2.0,Early Morning
+1247,18.0,Evening
+1248,1.0,Early Morning
+1249,20.0,Evening
+1250,0.0,Early Morning
+1251,4.0,Early Morning
+1252,4.0,Early Morning
+1253,5.0,Early Morning
+1254,18.0,Evening
+1255,11.0,Morning
+1256,0.0,Early Morning
+1257,7.0,Morning
+1258,12.0,Afternoon
+1259,3.0,Early Morning
+1260,0.0,Early Morning
+1261,11.0,Morning
+1262,4.0,Early Morning
+1263,2.0,Early Morning
+1264,19.0,Evening
+1265,0.0,Early Morning
+1266,15.0,Afternoon
+1267,3.0,Early Morning
+1268,6.0,Morning
+1269,9.0,Morning
+1270,4.0,Early Morning
+1271,10.0,Morning
+1272,0.0,Early Morning
+1273,2.0,Early Morning
+1274,12.0,Afternoon
+1275,3.0,Early Morning
+1276,9.0,Morning
+1277,5.0,Early Morning
+1278,23.0,Night
+1279,7.0,Morning
+1280,19.0,Evening
+1281,13.0,Afternoon
+1282,2.0,Early Morning
+1283,4.0,Early Morning
+1284,18.0,Evening
+1285,0.0,Early Morning
+1286,0.0,Early Morning
+1287,11.0,Morning
+1288,21.0,Night
+1289,20.0,Evening
+1290,1.0,Early Morning
+1291,9.0,Morning
+1292,15.0,Afternoon
+1293,22.0,Night
+1294,21.0,Night
+1295,9.0,Morning
+1296,20.0,Evening
+1297,20.0,Evening
+1298,7.0,Morning
+1299,16.0,Afternoon
+1300,10.0,Morning
+1301,2.0,Early Morning
+1302,9.0,Morning
+1303,1.0,Early Morning
+1304,9.0,Morning
+1305,2.0,Early Morning
+1306,4.0,Early Morning
+1307,9.0,Morning
+1308,2.0,Early Morning
+1309,2.0,Early Morning
+1310,5.0,Early Morning
+1311,11.0,Morning
+1312,20.0,Evening
+1313,22.0,Night
+1314,14.0,Afternoon
+1315,4.0,Early Morning
+1316,1.0,Early Morning
+1317,6.0,Morning
+1318,16.0,Afternoon
+1319,2.0,Early Morning
+1320,23.0,Night
+1321,10.0,Morning
+1322,18.0,Evening
+1323,0.0,Early Morning
+1324,23.0,Night
+1325,9.0,Morning
+1326,20.0,Evening
+1327,22.0,Night
+1328,5.0,Early Morning
+1329,1.0,Early Morning
+1330,19.0,Evening
+1331,8.0,Morning
+1332,18.0,Evening
+1333,23.0,Night
+1334,1.0,Early Morning
+1335,4.0,Early Morning
+1336,18.0,Evening
+1337,1.0,Early Morning
+1338,6.0,Morning
+1339,2.0,Early Morning
+1340,5.0,Early Morning
+1341,7.0,Morning
+1342,6.0,Morning
+1343,5.0,Early Morning
+1344,17.0,Afternoon
+1345,10.0,Morning
+1346,8.0,Morning
+1347,0.0,Early Morning
+1348,3.0,Early Morning
+1349,6.0,Morning
+1350,0.0,Early Morning
+1351,1.0,Early Morning
+1352,5.0,Early Morning
+1353,2.0,Early Morning
+1354,3.0,Early Morning
+1355,9.0,Morning
+1356,1.0,Early Morning
+1357,4.0,Early Morning
+1358,8.0,Morning
+1359,4.0,Early Morning
+1360,8.0,Morning
+1361,2.0,Early Morning
+1362,4.0,Early Morning
+1363,1.0,Early Morning
+1364,3.0,Early Morning
+1365,3.0,Early Morning
+1366,15.0,Afternoon
+1367,11.0,Morning
+1368,1.0,Early Morning
+1369,5.0,Early Morning
+1370,4.0,Early Morning
+1371,4.0,Early Morning
+1372,3.0,Early Morning
+1373,13.0,Afternoon
+1374,3.0,Early Morning
+1375,3.0,Early Morning
+1376,20.0,Evening
+1377,0.0,Early Morning
+1378,5.0,Early Morning
+1379,12.0,Afternoon
+1380,20.0,Evening
+1381,3.0,Early Morning
+1382,13.0,Afternoon
+1383,21.0,Night
+1384,23.0,Night
+1385,3.0,Early Morning
+1386,3.0,Early Morning
+1387,1.0,Early Morning
+1388,22.0,Night
+1389,7.0,Morning
+1390,3.0,Early Morning
+1391,22.0,Night
+1392,21.0,Night
+1393,9.0,Morning
+1394,3.0,Early Morning
+1395,0.0,Early Morning
+1396,4.0,Early Morning
+1397,5.0,Early Morning
+1398,9.0,Morning
+1399,10.0,Morning
+1400,6.0,Morning
+1401,22.0,Night
+1402,4.0,Early Morning
+1403,2.0,Early Morning
+1404,18.0,Evening
+1405,7.0,Morning
+1406,2.0,Early Morning
+1407,2.0,Early Morning
+1408,3.0,Early Morning
+1409,5.0,Early Morning
+1410,22.0,Night
+1411,19.0,Evening
+1412,3.0,Early Morning
+1413,23.0,Night
+1414,1.0,Early Morning
+1415,1.0,Early Morning
+1416,4.0,Early Morning
+1417,23.0,Night
+1418,8.0,Morning
+1419,3.0,Early Morning
+1420,22.0,Night
+1421,6.0,Morning
